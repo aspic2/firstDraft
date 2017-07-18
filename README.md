@@ -12,12 +12,15 @@ tool, what assumptions are made, and how the selection process works.
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Source for rules and data points
+	- Use the following links to find out how to rate players for your team
+	and to get corresponding data points
+		- Scoring settings - http://www.nfl.com/fantasyfootball/help/nfl-scoringsettings#settings
+		- NFL stats by player position - http://www.nfl.com/stats/categorystats?tabSeq=1&statisticPositionCategory=QUARTERBACK&qualified=true&season=2010&seasonType=REG
+
+* Further steps
+	- is there a way to get game stats for more data points?
+	
 
 ### Contribution guidelines ###
 
