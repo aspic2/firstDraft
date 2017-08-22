@@ -17,6 +17,7 @@ tool, what assumptions are made, and how the selection process works.
 	and to get corresponding data points
 		- Scoring settings - http://www.nfl.com/fantasyfootball/help/nfl-scoringsettings#settings
 		- NFL stats by player position - http://www.nfl.com/stats/categorystats?tabSeq=1&statisticPositionCategory=QUARTERBACK&qualified=true&season=2010&seasonType=REG
+		- better stats by player position - http://fantasy.nfl.com/research/players
 		- list of all players - http://www.nfl.com/players/search
 
 * Further steps
