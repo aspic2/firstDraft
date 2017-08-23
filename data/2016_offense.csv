@@ -1,764 +1,764 @@
-Position,Player,Opp,Passing_Yards,Passing_TD,Passing_Int,Rushing_Yds,Rushing_TD,Receiving_Yds,Receiving_TD,Misc_FumTD,Misc_2PT,Fum_Lost,Fantasy_Points
-QB,Aaron RodgersQB - GBView NewsView Videos,@JAX,4428,40,7,369,4,-,-,-,2,4,380.02
-QB,Matt RyanQB - ATL,TB,4944,38,7,117,-,-,-,-,2,2,347.46
-QB,Drew BreesQB - NO,OAK,5208,37,15,20,2,-,-,-,-,4,332.32
-QB,Andrew LuckQB - INDView Videos,DET,4240,31,13,341,2,-,-,-,2,5,307.7
-QB,Kirk CousinsQB - WASView NewsView Videos,PIT,4917,25,12,96,4,-,-,-,-,3,300.28
-QB,Dak PrescottQB - DALView NewsView Videos,NYG,3667,23,4,282,6,-,-,-,-,4,286.88
-QB,Matthew StaffordQB - DETView Videos,@IND,4327,24,10,207,2,-,-,-,1,2,279.78
-QB,Tyrod TaylorQB - BUFView Videos,@BAL,3023,17,6,580,6,-,-,-,2,2,270.92
-QB,Blake BortlesQB - JAXView Videos,GB,3905,23,16,359,3,20,1,-,2,6,270.1
-QB,Derek CarrQB - OAKView NewsView Videos,@NO,3937,28,6,70,-,-,-,-,5,3,268.48
-QB,Russell WilsonQB - SEAView Videos,MIA,4219,21,11,259,1,14,1,-,1,2,268.06
-QB,Andy DaltonQB - CINView NewsView Videos,@NYJ,4206,18,8,184,4,-,-,-,-,3,260.64
-QB,Marcus MariotaQB - TENView NewsView Videos,MIN,3426,26,9,349,2,-,-,-,-,5,259.94
-QB,Philip RiversQB - LACView Videos,@KC,4386,33,21,35,-,-,-,-,-,5,258.94
-QB,Tom BradyQB - NEView NewsView Videos,@ARI,3554,28,2,64,-,-,-,-,1,-,258.56
-QB,Jameis WinstonQB - TBView Videos,@ATL,4090,28,18,165,1,-,-,-,3,6,256.1
-QB,Cam NewtonQB - CARView Videos,@DEN,3509,19,14,359,5,-,-,-,2,2,254.26
-QB,Ben RoethlisbergerQB - PIT,@WAS,3819,29,13,14,1,-,-,-,3,2,252.16
-QB,Carson PalmerQB - ARIView NewsView Videos,NE,4233,26,14,38,-,-,-,-,1,4,243.12
-QB,Joe FlaccoQB - BAL,BUF,4317,20,15,58,2,-,-,-,4,3,242.48
-QB,Eli ManningQB - NYGView Videos,@DAL,4027,26,16,-9,-,-,-,-,-,4,224.18
-QB,Alex SmithQB - KCView NewsView Videos,LAC,3502,15,8,134,5,3,-,-,2,4,223.78
-QB,Sam BradfordQB - MIN,@TEN,3877,20,5,53,-,5,-,-,-,5,220.88
-QB,Carson WentzQB - PHIView Videos,CLE,3782,16,14,150,2,7,-,-,2,3,212.98
-QB,Colin KaepernickQB,LA,2241,16,4,468,2,-,-,-,1,3,200.44
-QB,Trevor SiemianQB - DENView NewsView Videos,Bye,3401,18,10,57,-,-,-,-,1,2,191.74
-QB,Ryan TannehillQB - MIAIR,Bye,2995,19,12,164,1,-,-,-,1,3,190.2
-QB,Brock OsweilerQB - CLEView Videos,Bye,2957,15,16,131,2,-14,-,-,-,1,167.98
-QB,Ryan FitzpatrickQB - TB,Bye,2710,12,17,130,-,-,-,-,-,1,133.4
-QB,Case KeenumQB - MIN,Bye,2201,9,11,51,1,-,-,-,-,1,111.14
-QB,Brian HoyerQB - SFView Videos,Bye,1445,6,-,-2,-,-,-,-,-,1,79.6
-QB,Cody KesslerQB - CLE,Bye,1380,6,2,18,-,-,-,-,1,1,77
-QB,Blaine GabbertQB - ARIView Videos,Bye,925,5,6,173,2,-16,-,-,-,-,72.7
-QB,Matt BarkleyQB - SF,Bye,1611,8,14,2,-,2,1,-,-,2,70.84
-QB,Robert Griffin IIIQB,Bye,886,2,3,190,2,-,-,-,-,1,66.44
-QB,Matt MooreQB - MIA,Bye,721,8,3,-1,-,-,-,-,-,-,54.74
-QB,Jared GoffQB - LAView NewsView Videos,Bye,1089,5,7,16,1,-,-,-,-,2,53.16
-QB,Josh McCownQB - NYJ,Bye,1100,6,6,21,-,-,-,-,1,4,52.1
-QB,Jimmy GaroppoloQB - NEView Videos,Bye,502,4,-,6,-,3,-,-,-,1,34.98
-QB,Landry JonesQB - PIT,Bye,558,4,2,-4,-,-,-,-,-,-,33.92
-QB,Bryce PettyQB - NYJView Videos,Bye,809,3,7,19,-,-,-,-,1,1,32.26
-QB,Paxton LynchQB - DENView NewsView Videos,Bye,497,2,1,25,-,-,-,-,-,-,28.38
-QB,Jacoby BrissettQB - NE,Bye,400,-,-,83,1,-,-,-,-,1,28.3
-QB,Nick FolesQB - PHI,Bye,410,3,-,-4,-,-,-,-,-,-,28
-QB,Tom SavageQB - HOUView Videos,Bye,461,-,-,12,-,-,-,-,-,1,17.64
-QB,Kevin HoganQB - CLE,Bye,104,-,2,105,1,-,-,-,-,-,16.66
-QB,Derek AndersonQB - CARView News,Bye,453,2,5,4,-,-,-,-,1,1,16.52
-QB,Matt CasselQB - TEN,Bye,284,2,2,3,-,-,-,-,-,-,15.66
-QB,Shaun HillQB,Bye,242,-,-,5,-,-,-,-,-,-,10.18
-QB,Drew StantonQB - ARI,Bye,192,2,3,-3,-,-,-,-,-,-,9.38
-QB,Mike GlennonQB - CHIView Videos,Bye,75,1,-,-,-,-,-,-,1,-,9
-QB,Scott TolzienQB - INDView NewsView Videos,Bye,216,1,2,3,-,-,-,-,-,-,8.94
-QB,Geno SmithQB - NYG,Bye,126,1,1,9,-,-,-,-,-,-,7.94
-QB,Trevone BoykinQB - SEA,Bye,145,1,1,1,-,-,-,-,-,-,7.9
-QB,EJ ManuelQB - OAK,Bye,131,-,-,22,-,-,-,-,1,1,7.44
-QB,Connor CookQB - OAKView Videos,Bye,150,1,1,-,-,-,-,-,-,1,6
-QB,Tony RomoQB,Bye,29,1,-,-,-,-,-,-,-,-,5.16
-QB,Cardale JonesQB - LAC,Bye,96,-,1,-1,-,-,-,-,-,-,1.74
-QB,Matt McGloinQB - PHI,Bye,50,-,-,-3,-,-,-,-,-,-,1.7
-QB,Chase DanielQB - NO,Bye,16,-,-,-,-,-,-,-,-,-,0.64
-QB,Matt SchaubQB - ATL,Bye,16,-,-,-2,-,-,-,-,-,-,0.44
-QB,Tyler BrayQB - KCView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Teddy BridgewaterQB - MINView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Jeff DriskelQB - CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Garrett GraysonQB - NO,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Christian HackenbergQB - NYJView NewsView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,AJ McCarronQB - CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Luke McCownQB - DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Colt McCoyQB - WASView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Zach MettenbergerQB,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Kellen MooreQB - DALView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Aaron MurrayQB,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Ryan NassibQB - NO,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Jake RudockQB - DETView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Connor ShawQB - CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Joel StaveQB - KC,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Brandon WeedenQB - HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,T.J. YatesQB - BUFView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Kellen ClemensQB - LAC,Bye,-,-,-,-1,-,-,-,-,-,-,-0.1
-QB,Chad HenneQB - JAX,Bye,-,-,-,-2,-,-,-,-,-,-,-0.2
-QB,Mark SanchezQB - CHI,Bye,93,-,2,-2,-,-,-,-,-,-,-0.48
-QB,Sean MannionQB - LAView Videos,Bye,19,-,1,-1,-,-,-,-,-,-,-1.34
-QB,Brett HundleyQB - GBView Videos,Bye,17,-,1,-2,-,-,-,-,-,-,-1.52
-QB,Ryan MallettQB - BALView Videos,Bye,26,-,1,-6,-,-,-,-,-,-,-1.56
-QB,Brandon AllenQB - JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,C.J. BeathardQB - SFView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Jay CutlerQB - MIAView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Joshua DobbsQB - PIT,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Brad KaayaQB - DET,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Chad KellyQB - DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,DeShone KizerQB - CLEView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Patrick MahomesQB - KCView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Nathan PetermanQB - BUFView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Tim TebowQB,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Mitchell TrubiskyQB - CHIView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Deshaun WatsonQB - HOUView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-QB,Davis WebbQB - NYG,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,David JohnsonRB - ARI,NE,-,-,-,1239,16,879,4,-,1,3,327.8
-RB,Ezekiel ElliottRB - DALView NewsView Videos,NYG,-,-,-,1631,15,363,1,-,-,1,293.4
-RB,LeSean McCoyRB - BUFView Videos,@BAL,-,-,-,1267,13,356,1,-,1,-,248.3
-RB,Le'Veon BellRB - PITView News,@WAS,-,-,-,1268,7,616,2,-,1,1,242.4
-RB,DeMarco MurrayRB - TENView News,MIN,10,1,-,1287,9,377,3,-,-,1,240.8
-RB,Devonta FreemanRB - ATL,TB,-,-,-,1079,11,462,2,-,-,1,230.1
-RB,LeGarrette BlountRB - PHIView NewsView Videos,@ARI,-,-,-,1161,18,38,-,-,-,1,225.9
-RB,Melvin GordonRB - LAC,@KC,-,-,-,997,10,419,2,-,-,2,209.6
-RB,Jordan HowardRB - CHI,@HOU,-,-,-,1313,6,298,1,-,-,1,201.1
-RB,Mark IngramRB - NO,OAK,-,-,-,1043,6,319,4,-,2,2,196.2
-RB,Jay AjayiRB - MIA,@SEA,-,-,-,1272,8,151,-,-,-,1,188.3
-RB,Frank GoreRB - INDView News,DET,-,-,-,1025,4,277,4,-,-,1,176.2
-RB,Latavius MurrayRB - MIN,@NO,-,-,-,788,12,264,-,-,-,1,175.2
-RB,Isaiah CrowellRB - CLE,@PHI,-,-,-,952,7,319,-,-,-,2,165.1
-RB,Carlos HydeRB - SFView News,LA,-,-,-,988,6,163,3,-,1,3,165.1
-RB,Spencer WareRB - KC,LAC,-,-,-,921,3,447,2,-,-,3,160.8
-RB,Tevin ColemanRB - ATL,TB,-,-,-,520,8,421,3,-,-,-,160.1
-RB,Lamar MillerRB - HOUView News,CHI,-,-,-,1073,5,188,1,-,-,1,160.1
-RB,Jeremy HillRB - CIN,@NYJ,-,-,-,839,9,174,-,-,-,-,155.3
-RB,Todd GurleyRB - LAView NewsView Videos,@SF,-,-,-,885,6,327,-,-,-,1,155.2
-RB,Matt ForteRB - NYJ,CIN,-,-,-,813,7,263,1,-,-,1,153.6
-RB,Bilal PowellRB - NYJView News,CIN,-,-,-,722,3,388,2,-,-,1,139
-RB,Jonathan StewartRB - CAR,@DEN,-,-,-,824,9,60,-,-,-,2,138.4
-RB,Terrance WestRB - BAL,BUF,-,-,-,774,5,236,1,-,-,-,137
-RB,Ryan MathewsRB,CLE,-,-,-,661,8,115,1,-,2,2,131.6
-RB,Rob KelleyRB - WASView News,Bye,-,-,-,704,6,82,1,-,-,-,120.6
-RB,Mike GillisleeRB - NE,Bye,-,-,-,577,8,50,1,-,-,-,116.7
-RB,Christine MichaelRB - INDIR,Bye,-,-,-,583,7,107,1,-,-,1,115
-RB,Devontae BookerRB - DEN,Bye,-,-,-,612,4,265,1,-,-,3,111.7
-RB,Darren SprolesRB - PHI,Bye,-,-,-,438,2,427,2,-,-,-,110.5
-RB,Theo RiddickRB - DET,Bye,-,-,-,357,1,371,5,-,-,-,108.8
-RB,Jerick McKinnonRB - MINView News,Bye,-,-,-,539,2,255,2,-,1,-,105.4
-RB,Tim HightowerRB - SFView News,Bye,-,-,-,548,4,200,1,-,-,-,104.8
-RB,Rashad JenningsRB,Bye,-,-,-,593,3,201,1,-,-,-,103.4
-RB,James WhiteRB - NE,Bye,-,-,-,166,-,551,5,-,-,-,101.7
-RB,Matt AsiataRB - DETView News,Bye,-,-,-,402,6,263,-,-,-,1,100.5
-RB,Chris ThompsonRB - WASView NewsView Videos,Bye,-,-,-,356,3,349,2,-,-,1,98.5
-RB,Ty MontgomeryRB - GB,Bye,-,-,-,457,3,348,-,-,-,1,96.5
-RB,Derrick HenryRB - TENView Videos,Bye,-,-,-,490,5,137,-,-,-,-,92.7
-RB,Duke JohnsonRB - CLE,Bye,-,-,-,358,1,514,-,-,-,1,91.2
-RB,T.J. YeldonRB - JAX,Bye,-,-,-,465,1,312,1,-,-,1,87.7
-RB,C.J. AndersonRB - DENView NewsView Videos,Bye,-,-,-,437,4,128,1,-,-,-,86.5
-RB,Jalen RichardRB - OAKView News,Bye,-,-,-,491,1,194,2,-,-,-,86.5
-RB,Giovani BernardRB - CIN,Bye,-,-,-,337,2,336,1,-,-,1,83.3
-RB,Robert TurbinRB - INDView News,Bye,-,-,-,164,7,179,1,-,-,-,82.3
-RB,DeAngelo WilliamsRB,Bye,-,-,-,343,4,118,2,-,-,-,82.1
-RB,Shaun DraughnRB - NYG,Bye,-,-,-,196,4,263,2,-,-,1,79.9
-RB,Jacquizz RodgersRB - TB,Bye,-,-,-,560,2,98,-,-,-,-,77.8
-RB,Zach ZennerRB - DET,Bye,-,-,-,334,4,196,-,-,-,1,75
-RB,Chris IvoryRB - JAX,Bye,-,-,-,439,3,186,-,-,-,3,74.5
-RB,Kenneth DixonRB - BAL,Bye,-,-,-,382,2,162,1,-,-,-,72.4
-RB,Doug MartinRB - TBView Videos,Bye,-,-,-,421,3,134,-,-,-,1,71.5
-RB,Damien WilliamsRB - MIA,Bye,-,-,-,115,3,249,3,-,-,1,70.4
-RB,DeAndre WashingtonRB - OAKView News,Bye,-,-,-,467,2,115,-,-,-,1,68.2
-RB,Matt JonesRB - WAS,Bye,-,-,-,460,3,73,-,-,-,2,67.3
-RB,Charcandrick WestRB - KCView NewsView Videos,Bye,-,-,-,293,1,188,2,-,-,-,66.1
-RB,Thomas RawlsRB - SEA,Bye,-,-,-,349,3,96,-,-,-,-,62.5
-RB,Paul PerkinsRB - NYG,Bye,-,-,-,456,-,162,-,-,-,-,61.8
-RB,Rex BurkheadRB - NEView NewsView Videos,Bye,-,-,-,344,2,145,-,-,-,1,58.9
-RB,Jeremy LangfordRB - CHI,Bye,-,-,-,200,4,142,-,-,-,2,54.2
-RB,Travaris CadetRB - NO,Bye,-,-,-,19,-,281,4,-,-,-,54
-RB,Alfred BlueRB - HOUView News,Bye,-,-,-,420,1,40,-,-,-,1,50
-RB,Fozzy WhittakerRB - CAR,Bye,-,-,-,265,-,226,-,-,-,1,47.1
-RB,Jamize OlawaleRB - OAK,Bye,-,-,-,47,2,227,1,-,-,-,45.4
-RB,C.J. ProsiseRB - SEA,Bye,-,-,-,172,1,208,-,-,-,-,44
-RB,Charles SimsRB - TB,Bye,-,-,-,149,1,190,1,-,-,1,43.9
-RB,Justin ForsettRB,Bye,-,-,-,291,1,85,-,-,-,1,41.6
-RB,John KuhnRB - NO,Bye,-,-,-,37,4,70,1,-,-,-,40.7
-RB,Wendell SmallwoodRB - PHIView News,Bye,-,-,-,312,1,55,-,-,-,1,40.7
-RB,James StarksRB,Bye,-,-,-,145,-,134,2,-,-,-,39.9
-RB,Eddie LacyRB - SEAView Videos,Bye,-,-,-,360,-,28,-,-,-,-,38.8
-RB,Dwayne WashingtonRB - DETView NewsView Videos,Bye,-,-,-,265,1,62,-,-,-,-,38.7
-RB,Dion LewisRB - NEView News,Bye,-,-,-,283,-,94,-,-,-,-,37.7
-RB,Aaron RipkowskiRB - GBView News,Bye,-,-,-,150,2,46,1,-,-,-,37.6
-RB,Alfred MorrisRB - DALView NewsView Videos,Bye,-,-,-,243,2,11,-,-,-,-,37.4
-RB,Kyle JuszczykRB - SFView Videos,Bye,-,-,-,22,1,266,-,-,1,-,36.8
-RB,Kenyan DrakeRB - MIA,Bye,-,-,-,179,2,46,-,-,-,-,34.5
-RB,Corey GrantRB - JAX,Bye,-,-,-,164,1,35,1,-,-,-,31.9
-RB,Peyton BarberRB - TB,Bye,-,-,-,223,1,28,-,-,-,-,31.1
-RB,Kenjon BarnerRB - LAC,Bye,-,-,-,129,2,42,-,-,-,-,29.1
-RB,Kerwynn WilliamsRB - ARI,Bye,-,-,-,157,2,6,-,-,-,-,28.3
-RB,Cameron Artis-PayneRB - CARView Videos,Bye,-,-,-,144,2,11,-,-,-,-,27.5
-RB,DuJuan HarrisRBView News,Bye,-,-,-,138,-,115,1,-,-,2,27.3
-RB,Shane VereenRB - NYG,Bye,-,-,-,158,1,94,-,-,-,2,27.2
-RB,Kapri BibbsRB - SFView News,Bye,-,-,-,129,-,75,1,-,-,-,26.4
-RB,Alex CollinsRB - SEA,Bye,-,-,-,125,1,84,-,-,-,1,24.9
-RB,Mike TolbertRB - BUF,Bye,-,-,-,114,-,72,1,-,-,-,24.6
-RB,Orleans DarkwaRB - NYG,Bye,-,-,-,111,2,12,-,-,-,-,24.3
-RB,Kenneth FarrowRB - LAC,Bye,-,-,-,192,-,70,-,-,-,1,24.2
-RB,Ronnie HillmanRB - DALView Videos,Bye,-,-,-,131,-,93,-,-,-,-,22.4
-RB,Ameer AbdullahRB - DETView News,Bye,-,-,-,101,-,57,1,-,-,-,21.8
-RB,Lance DunbarRB - LA,Bye,-,-,-,31,1,122,-,-,-,-,21.3
-RB,Danny WoodheadRB - BALView News,Bye,-,-,-,116,-,35,1,-,-,-,21.1
-RB,Jonathan GrimesRB - JAX,Bye,-,-,-,105,-,94,-,-,-,-,19.9
-RB,Bobby RaineyRB - BAL,Bye,-,-,-,63,-,153,-,-,-,1,19.6
-RB,Benny CunninghamRB - CHIView NewsView Videos,Bye,-,-,-,101,-,91,-,-,-,-,19.2
-RB,Ka'Deem CareyRB - CHIView News,Bye,-,-,-,126,-,55,-,-,-,-,18.1
-RB,Andre EllingtonRB - ARI,Bye,-,-,-,96,-,85,-,-,-,-,18.1
-RB,Denard RobinsonRB,Bye,-,-,-,144,-,22,-,-,-,-,16.6
-RB,Terron WardRB - ATLView Videos,Bye,-,-,-,151,-,11,-,-,-,-,16.2
-RB,Josh FergusonRB - IND,Bye,-,-,-,20,-,136,-,-,-,-,15.6
-RB,Chris JohnsonRB - ARI,Bye,-,-,-,95,1,-,-,-,-,-,15.5
-RB,Mack BrownRB - WAS,Bye,-,-,-,82,1,-2,-,-,-,-,14
-RB,Akeem HuntRB - HOU,Bye,-,-,-,109,-,29,-,-,-,-,13.8
-RB,Andy JanovichRB - DEN,Bye,-,-,-,33,1,44,-,-,-,-,13.7
-RB,Mike DavisRB - SEAView Videos,Bye,-,-,-,50,1,25,-,-,-,1,11.5
-RB,Jamaal CharlesRB - DEN,Bye,-,-,-,40,1,14,-,-,-,-,11.4
-RB,Jonathan WilliamsRB - BUF,Bye,-,-,-,94,1,-,-,-,-,2,11.4
-RB,Patrick DiMarcoRB - BUF,Bye,-,-,-,-,-,52,1,-,-,-,11.2
-RB,Darren McFaddenRB - DALView NewsView Videos,Bye,-,-,-,87,-,17,-,-,-,-,10.4
-RB,Antone SmithRB,Bye,-,-,-,47,-,77,-,-,-,1,10.4
-RB,Alan CrossRB - TB,Bye,-,-,-,-,-,38,1,-,-,-,9.8
-RB,George AtkinsonRB - OAK,Bye,-,-,-,34,1,-,-,-,-,-,9.4
-RB,Marcel ReeceRB - SEA,Bye,-,-,-,-,-,73,-,-,1,-,9.3
-RB,Terrell WatsonRB - PIT,Bye,-,-,-,28,1,5,-,-,-,-,9.3
-RB,Fitzgerald ToussaintRB - PIT,Bye,-,-,-,58,-,33,-,-,-,-,9.1
-RB,Derek WattRB - LAC,Bye,-,-,-,4,-,83,-,-,-,-,8.7
-RB,Andre WilliamsRB - LAC,Bye,-,-,-,87,-,-,-,-,-,-,8.7
-RB,Juwan ThompsonRB - DENView Videos,Bye,-,-,-,26,1,-,-,-,-,-,8.6
-RB,Jerome FeltonRB,Bye,-,-,-,13,-,57,-,-,-,-,7
-RB,Malcolm BrownRB - LA,Bye,-,-,-,39,-,46,-,-,-,1,6.5
-RB,Adrian PetersonRB - NO,Bye,-,-,-,72,-,8,-,-,-,1,6
-RB,Jordan TodmanRB - NYJ,Bye,-,-,-,59,-,-,-,-,-,-,5.9
-RB,Knile DavisRB - PIT,Bye,-,-,-,28,-,25,-,-,-,-,5.3
-RB,Javorius AllenRB - BAL,Bye,-,-,-,34,-,15,-,-,-,-,4.9
-RB,Troymaine PopeRB - IND,Bye,-,-,-,44,-,5,-,-,-,-,4.9
-RB,Brandon WildsRB - CLE,Bye,-,-,-,27,-,20,-,-,-,-,4.7
-RB,Daniel LascoRB - NO,Bye,-,-,-,32,-,11,-,-,-,-,4.3
-RB,Mike JamesRB - DETIR,Bye,-,-,-,19,-,22,-,-,-,-,4.1
-RB,Taiwan JonesRB - BUF,Bye,-,-,-,-8,-,43,-,-,-,-,3.5
-RB,Don JacksonRB,Bye,-,-,-,32,-,-,-,-,-,-,3.2
-RB,Danny VitaleRB - CLE,Bye,-,-,-,-,-,27,-,-,-,-,2.7
-RB,D.J. FosterRB - NE,Bye,-,-,-,24,-,2,-,-,-,-,2.6
-RB,Brandon BoldenRB - NE,Bye,-,-,-,4,-,15,-,-,-,-,1.9
-RB,James DevelinRB - NE,Bye,-,-,-,-,-,18,-,-,-,-,1.8
-RB,J.D. McKissicRB - SEA,Bye,-,-,-,2,-,16,-,-,-,-,1.8
-RB,Jalston FowlerRB - TEN,Bye,-,-,-,3,-,14,-,-,-,-,1.7
-RB,Antonio AndrewsRB,Bye,-,-,-,15,-,-,-,-,-,-,1.5
-RB,Zach LineRB,Bye,-,-,-,15,-,-,-,-,-,-,1.5
-RB,Cedric PeermanRB - CIN,Bye,-,-,-,15,-,-,-,-,-,-,1.5
-RB,Jay ProschRB - HOU,Bye,-,-,-,9,-,6,-,-,-,-,1.5
-RB,Stepfan TaylorRB,Bye,-,-,-,12,-,-,-,-,-,-,1.2
-RB,Anthony ShermanRB - KC,Bye,-,-,-,-,-,11,-,-,-,-,1.1
-RB,Lorenzo TaliaferroRB - BAL,Bye,-,-,-,-,-,10,-,-,-,-,1
-RB,Joe BanyardRB - BUF,Bye,-,-,-,7,-,-,-,-,-,-,0.7
-RB,Daryl RichardsonRB,Bye,-,-,-,7,-,-,-,-,-,-,0.7
-RB,Rod SmithRB - DALView Videos,Bye,-,-,-,-,-,4,-,-,-,-,0.4
-RB,Marcus MurphyRB - NYJ,Bye,-,-,-,-,-,3,-,-,-,-,0.3
-RB,Khiry RobinsonRB,Bye,-,-,-,22,-,-,-,-,-,1,0.2
-RB,Dri ArcherRBNWT,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Zac BrooksRB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Tra CarsonRB - CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,David CobbRB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,John CrockettRB - OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Aaron GreenRB - LA,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Glenn GronkowskiRB - NE,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,C.J. HamRB - MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Austin JohnsonRB - TB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Devon JohnsonRB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Storm JohnsonRB - MIA,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Will JohnsonRB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Tre MaddenRB - SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Keith MarshallRB - WASIR,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Tre MasonRBNWT,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Branden OliverRB - LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Jhurrell PressleyRB - ATL,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Darrin ReavesRB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Bishop SankeyRB - MINIR,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Kelvin TaylorRB - ATL,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Karlos WilliamsRBNWT,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,George WinnRB - IND,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Glenn WinstonRB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Brandon BurksRB,Bye,-,-,-,-4,-,-,-,-,-,-,-0.4
-RB,Tyler ErvinRB - HOU,Bye,-,-,-,3,-,18,-,-,-,2,-1.9
-RB,Matt BreidaRB - SF,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Chris CarsonRB - SEAView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Corey ClementRB - PHIView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Tarik CohenRB - CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,James ConnerRB - PITView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Dalvin CookRB - MINView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,LeShun DanielsRB - NE,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Justin DavisRB - LA,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Matt DayesRB - CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Austin EkelerRB - LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,D'Onta ForemanRB - HOUView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Leonard FournetteRB - JAXView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Wayne GallmanRB - NYG,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Tion GreenRB - DETView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,De'Angelo HendersonRB - DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Quayvon HicksRB - TB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Brian HillRB - ATL,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Elijah HoodRB - OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Kareem HuntRB - KC,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Aaron JonesRB - GBView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Alvin KamaraRB - NO,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,T.J. LoganRB - ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Marshawn LynchRB - OAKView NewsView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Marlon MackRB - INDView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Devante MaysRB - GB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Christian McCaffreyRB - CARView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Elijah McGuireRB - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Jeremy McNicholsRB - TB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Joe MixonRB - CINView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Khalfani MuhammadRB - TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Dare OgunbowaleRB - HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Samaje PerineRB - WASView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,DJ PumphreyRB - PHI,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Devine ReddingRB - KC,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Sam RogersRB - LA,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,C.J. SpillerRB - KCView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Daryl VirgiesRB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Jamaal WilliamsRB - GB,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Joe WilliamsRB - SF,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Marquez WilliamsRB - JAXView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-RB,Brandon WilsonRB - CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Mike EvansWR - TBView Videos,Bye,-,-,-,-,-,1321,12,-,2,-,208.1
-WR,Jordy NelsonWR - GBView Videos,Bye,-,-,-,-,-,1257,14,-,-,1,207.7
-WR,Antonio BrownWR - PIT,Bye,-,-,-,9,-,1284,12,-,-,-,201.3
-WR,Odell BeckhamWR - NYG,Bye,-,-,-,9,-,1367,10,-,-,1,195.6
-WR,T.Y. HiltonWR - IND,Bye,-,-,-,-,-,1448,6,-,1,-,182.8
-WR,Julio JonesWR - ATL,Bye,-,-,-,-,-,1409,6,-,-,-,176.9
-WR,Davante AdamsWR - GBView News,Bye,-,-,-,-,-,997,12,-,1,1,171.7
-WR,Brandin CooksWR - NE,Bye,-,-,-,30,-,1173,8,-,-,-,168.3
-WR,Michael ThomasWR - NOView Videos,Bye,-,-,-,-,-,1137,9,-,-,2,163.7
-WR,Doug BaldwinWR - SEAView Videos,Bye,15,1,-,2,-,1128,7,-,-,-,159.6
-WR,Michael CrabtreeWR - OAKView Videos,Bye,-,-,-,-,-,1003,8,-,1,-,150.3
-WR,Amari CooperWR - OAKView Videos,Bye,-,-,-,-,-,1153,5,-,2,-,149.3
-WR,Tyrell WilliamsWR - LAC,Bye,-,-,-,-,-,1059,7,-,-,-,147.9
-WR,Rishard MatthewsWR - TENView News,Bye,-,-,-,-,-,945,9,-,-,1,146.5
-WR,Tyreek HillWR - KC,Bye,-,-,-,267,3,593,6,-,-,1,138
-WR,Jarvis LandryWR - MIA,Bye,-,-,-,17,-,1136,4,-,1,2,137.3
-WR,Larry FitzgeraldWR - ARI,Bye,-,-,-,5,-,1023,6,-,-,1,136.8
-WR,Terrelle PryorWR - WASView Videos,Bye,41,-,-,21,1,1007,4,-,1,-,136.44
-WR,Demaryius ThomasWR - DENView News,Bye,-,-,-,-,-,1083,5,-,1,2,136.3
-WR,Kelvin BenjaminWR - CARView Videos,Bye,-,-,-,-,-,941,7,-,-,1,134.1
-WR,Emmanuel SandersWR - DEN,Bye,-,-,-,4,-,1032,5,-,-,-,133.6
-WR,Julian EdelmanWR - NE,Bye,-,-,-,57,-,1106,3,-,1,2,132.3
-WR,Golden TateWR - DETView NewsView Videos,Bye,-,-,-,4,-,1077,4,-,1,1,132.1
-WR,Mike WallaceWR - BALView Videos,Bye,-,-,-,31,-,1017,4,-,1,-,130.8
-WR,Dez BryantWR - DALView Videos,Bye,10,1,-,-,-,796,8,-,-,1,130
-WR,Kenny BrittWR - CLE,Bye,-,-,-,-,-,1002,5,-,-,1,128.2
-WR,Kenny StillsWR - MIA,Bye,-,-,-,-,-,726,9,-,-,-,126.6
-WR,Allen RobinsonWR - JAX,Bye,-,-,-,-,-,883,6,-,1,-,126.3
-WR,Adam ThielenWR - MIN,Bye,-,-,-,15,-,967,5,-,-,1,126.2
-WR,Jamison CrowderWR - WASView Videos,Bye,-,-,-,-2,-,847,7,-,-,1,124.5
-WR,DeSean JacksonWR - TBView Videos,Bye,-,-,-,-,-,1005,4,-,-,-,124.5
-WR,Pierre GarconWR - SF,Bye,-,-,-,-,-,1041,3,-,-,-,122.1
-WR,Brandon LaFellWR - CIN,Bye,-,-,-,-2,-,862,6,-,-,-,122
-WR,A.J. GreenWR - CINView Videos,Bye,-,-,-,-,-,964,4,-,-,-,120.4
-WR,Willie SneadWR - NO,Bye,50,1,-,-,-,895,4,-,-,-,119.5
-WR,DeAndre HopkinsWR - HOU,Bye,-,-,-,-,-,954,4,-,-,-,119.4
-WR,Sterling ShepardWR - NYG,Bye,-,-,-,31,-,683,8,-,-,-,119.4
-WR,Marvin JonesWR - DETView Videos,Bye,-,-,-,3,-,930,4,-,-,-,117.3
-WR,Cole BeasleyWR - DALView NewsView Videos,Bye,-,-,-,7,-,833,5,-,-,-,114
-WR,Cameron MeredithWR - CHIView News,Bye,2,1,-,6,-,888,4,-,-,2,113.48
-WR,Quincy EnunwaWR - NYJ,Bye,-,-,-,12,-,857,4,-,-,-,110.9
-WR,Marqise LeeWR - JAX,Bye,20,1,-,35,-,851,3,-,-,1,109.4
-WR,Stefon DiggsWR - MINView Videos,Bye,-,-,-,10,-,903,3,-,-,-,109.3
-WR,Anquan BoldinWR - BUFView NewsView Videos,Bye,-,-,-,-,-,584,8,-,-,-,106.4
-WR,J.J. NelsonWR - ARI,Bye,-,-,-,83,1,568,6,-,-,1,105.1
-WR,Taylor GabrielWR - ATL,Bye,-,-,-,51,1,579,6,-,-,-,105
-WR,Ted GinnWR - NO,Bye,-,-,-,98,-,752,4,-,-,2,105
-WR,Dontrelle InmanWR - LAC,Bye,-,-,-,-,-,810,4,-,-,-,105
-WR,Jordan MatthewsWR - BUFView News,Bye,-,-,-,-,-,804,3,-,-,-,98.4
-WR,DeVante ParkerWR - MIAView Videos,Bye,-,-,-,-,-,744,4,-,-,-,98.4
-WR,Brandon MarshallWR - NYG,Bye,-,-,-,-,-,788,3,-,-,-,96.8
-WR,Alshon JefferyWR - PHIView NewsView Videos,Bye,-,-,-,-,-,821,2,-,-,-,94.1
-WR,Chris HoganWR - NE,Bye,-,-,-,9,-,680,4,-,-,1,90.9
-WR,Mohamed SanuWR - ATLView News,Bye,-,-,-,5,-,653,4,-,1,1,89.8
-WR,Tavon AustinWR - LAView News,Bye,-,-,-,159,1,509,3,-,-,1,88.8
-WR,Randall CobbWR - GB,Bye,-,-,-,33,-,610,4,-,-,-,88.3
-WR,Travis BenjaminWR - LAC,Bye,-,-,-,-3,-,677,4,-,-,3,85.4
-WR,Tyler LockettWR - SEA,Bye,-,-,-,114,1,597,1,-,-,-,83.1
-WR,Jeremy KerleyWR - SFView News,Bye,-,-,-,-,-,667,3,-,-,1,82.7
-WR,Terrance WilliamsWR - DAL,Bye,-,-,-,-,-,594,4,-,-,1,81.4
-WR,Michael FloydWR - MIN,Bye,-,-,-,-,-,488,5,-,-,-,78.8
-WR,Adam HumphriesWR - TB,Bye,-,-,-,18,-,622,2,-,1,-,78
-WR,Eli RogersWR - PIT,Bye,-,-,-,6,-,594,3,-,-,-,78
-WR,Will FullerWR - HOU,Bye,-,-,-,-3,-,635,2,-,-,-,75.2
-WR,Brian QuickWR - WAS,Bye,-,-,-,-,-,564,3,-,-,-,74.4
-WR,Seth RobertsWR - OAK,Bye,-,-,-,-,-,397,5,-,2,-,73.7
-WR,Robby AndersonWR - NYJView News,Bye,-,-,-,42,-,587,2,-,-,1,72.9
-WR,Donte MoncriefWR - INDView News,Bye,-,-,-,-1,-,307,7,-,-,-,72.6
-WR,Tyler BoydWR - CINView Videos,Bye,-,-,-,58,-,603,1,-,-,1,70.1
-WR,Breshad PerrimanWR - BAL,Bye,-,-,-,2,-,499,3,-,-,-,68.1
-WR,Robert WoodsWR - LA,Bye,-,-,-,6,-,613,1,-,-,-,67.9
-WR,Phillip DorsettWR - IND,Bye,-,-,-,10,-,528,2,-,-,-,65.8
-WR,Allen HurnsWR - JAX,Bye,-,-,-,-,-,477,3,-,-,-,65.7
-WR,Jeremy MaclinWR - BAL,Bye,-,-,-,-1,-,536,2,-,-,-,65.5
-WR,John BrownWR - ARIView News,Bye,-,-,-,10,-,517,2,-,-,-,64.7
-WR,Tajae SharpeWR - TENView News,Bye,-,-,-,1,-,522,2,-,-,-,64.3
-WR,Malcolm MitchellWR - NE,Bye,-,-,-,-,-,401,4,-,-,-,64.1
-WR,Devin FunchessWR - CAR,Bye,-,-,-,-,-,371,4,-,1,-,63.1
-WR,Victor CruzWR - CHI,Bye,-,-,-,-,-,586,1,-,-,1,62.6
-WR,Cordarrelle PattersonWR - OAK,Bye,-,-,-,43,-,453,2,-,-,-,61.6
-WR,Marquise GoodwinWR - SFView News,Bye,-,-,-,-,-,431,3,-,-,-,61.1
-WR,Kendall WrightWR - CHIView NewsView Videos,Bye,-,-,-,15,-,416,3,-,-,-,61.1
-WR,Corey ColemanWR - CLE,Bye,-,-,-,10,-,413,3,-,-,-,60.3
-WR,Jermaine KearseWR - SEAView Videos,Bye,-,-,-,-,-,510,1,-,-,-,57
-WR,Sammie CoatesWR - PIT,Bye,-,-,-,14,-,435,2,-,-,-,56.9
-WR,Sammy WatkinsWR - LAView Videos,Bye,-,-,-,-,-,430,2,-,-,-,55
-WR,Chris ConleyWR - KC,Bye,-,-,-,-,-,530,-,-,-,-,53
-WR,Nelson AgholorWR - PHIView Videos,Bye,-,-,-,14,-,365,2,-,1,-,51.9
-WR,Dorial Green-BeckhamWR,Bye,-,-,-,-,-,392,2,-,-,-,51.2
-WR,Albert WilsonWR - KC,Bye,-,-,-,50,1,279,2,-,-,-,50.9
-WR,Andrew HawkinsWR,Bye,-,-,-,-,-,324,3,-,-,-,50.4
-WR,Eddie RoyalWR,Bye,-,-,-,-,-,369,2,-,-,-,48.9
-WR,Russell ShepardWR - CAR,Bye,-,-,-,9,-,341,2,-,-,-,47
-WR,Danny AmendolaWR - NE,Bye,-,-,-,-,-,243,4,-,-,1,46.3
-WR,Brandon ColemanWR - NO,Bye,-,-,-,-,-,281,3,-,-,-,46.1
-WR,Torrey SmithWR - PHI,Bye,-,-,-,-,-,267,3,-,-,-,44.7
-WR,Justin HardyWR - ATL,Bye,-,-,-,-,-,203,4,-,-,-,44.3
-WR,Aldrick RobinsonWR - SF,Bye,-,-,-,-,-,323,2,-,-,-,44.3
-WR,Justin HunterWR - PITView Videos,Bye,-,-,-,-,-,189,4,-,-,-,42.9
-WR,Quinton PattonWRIR,Bye,-,-,-,-,-,408,-,-,-,-,40.8
-WR,Brice ButlerWR - DALView Videos,Bye,-,-,-,-,-,219,3,-,-,-,39.9
-WR,Kamar AikenWR - INDView Videos,Bye,-,-,-,-,-,328,1,-,-,-,38.8
-WR,Josh BellamyWR - CHI,Bye,-,-,-,37,-,282,1,-,-,-,37.9
-WR,Cobi HamiltonWR - PIT,Bye,-,-,-,-,-,234,2,-,-,-,35.4
-WR,Darrius Heyward-BeyWR - PIT,Bye,-,-,-,60,1,114,2,-,-,-,35.4
-WR,Paul RichardsonWR - SEA,Bye,-,-,-,5,-,288,1,-,-,-,35.3
-WR,Deonte ThompsonWR - CHIView NewsView Videos,Bye,-,-,-,-,-,249,2,-,-,1,34.9
-WR,Bryan WaltersWRIR,Bye,-,-,-,4,-,231,2,-,-,1,33.5
-WR,Geronimo AllisonWR - GBView Videos,Bye,-,-,-,-,-,202,2,-,-,-,32.2
-WR,Corey BrownWR - BUF,Bye,-,-,-,6,-,276,1,-,-,1,32.2
-WR,Eric DeckerWR - TENView News,Bye,-,-,-,-,-,194,2,-,-,-,31.4
-WR,Rod StreaterWR - BUFView Videos,Bye,-,-,-,-,-,191,2,-,-,-,31.1
-WR,Jordan TaylorWR - DENView Videos,Bye,-,-,-,-,-,209,2,-,-,1,30.9
-WR,Andre HolmesWR - BUF,Bye,-,-,-,-,-,126,3,-,-,-,30.6
-WR,Tanner McEvoyWR - SEA,Bye,43,-,-,-,-,140,2,-,-,-,27.72
-WR,Chester RogersWR - IND,Bye,-,-,-,-,-,273,-,-,-,-,27.3
-WR,Bennie FowlerWR - DEN,Bye,-,-,-,-,-,145,2,-,-,-,26.5
-WR,Jeff JanisWR - GBView NewsView Videos,Bye,-,-,-,38,1,93,1,-,-,-,25.1
-WR,Jaron BrownWR - ARIView News,Bye,-,-,-,-,-,187,1,-,-,-,24.7
-WR,Charone PeakeWR - NYJView News,Bye,-,-,-,-,-,186,-,1,-,-,24.6
-WR,Jalin MarshallWR - NYJ,Bye,-,-,-,-,-,162,2,-,-,2,24.2
-WR,Charles JohnsonWR - CARIR,Bye,-,-,-,-,-,232,-,-,-,-,23.2
-WR,Jordan NorwoodWR,Bye,-,-,-,-,-,232,1,-,-,3,23.2
-WR,Andre RobertsWR - ATL,Bye,-,-,-,-,-,188,1,-,-,1,22.8
-WR,Marquess WilsonWR - NYJ,Bye,-,-,-,-,-,160,1,-,-,-,22
-WR,Roger LewisWR - NYG,Bye,-,-,-,-,-,97,2,-,-,-,21.7
-WR,Harry DouglasWR - TENView News,Bye,-,-,-,-,-,210,-,-,-,-,21
-WR,Ricardo LouisWR - CLE,Bye,-,-,-,-,-,205,-,-,-,-,20.5
-WR,Freddie MartinoWR - TB,Bye,-,-,-,-,-,142,1,-,-,-,20.2
-WR,Cody CoreWR - CIN,Bye,-,-,-,-,-,200,-,-,-,-,20
-WR,Kevin WhiteWR - CHI,Bye,-,-,-,9,-,187,-,-,-,-,19.6
-WR,Josh HuffWR - TBView Videos,Bye,-,-,-,15,-,113,1,-,-,-,18.8
-WR,Vincent JacksonWR,Bye,-,-,-,-,-,173,-,-,-,-,17.3
-WR,Brandon TateWR - BUFView Videos,Bye,-,-,-,48,-,117,-,-,-,-,16.5
-WR,Braxton MillerWR - HOU,Bye,-,-,-,-,-,99,1,-,-,-,15.9
-WR,Cecil ShortsWR,Bye,-,-,-,-,-,152,-,-,-,-,15.2
-WR,Walt PowellWR - BUF,Bye,-,-,-,-,-,142,-,-,-,-,14.2
-WR,Chris HarperWR - NYJ,Bye,-,-,-,-,-,133,-,-,-,-,13.3
-WR,Jaelen StrongWR - HOU,Bye,-,-,-,-,-,131,-,-,-,-,13.1
-WR,Markus WheatonWR - CHI,Bye,-,-,-,-,-,51,1,-,1,-,13.1
-WR,Jarius WrightWR - MIN,Bye,-,-,-,-,-,67,1,-,-,-,12.7
-WR,Paul TurnerWR - PHI,Bye,-,-,-,-,-,126,-,-,-,-,12.6
-WR,Brittan GoldenWR - ARI,Bye,-,-,-,-,-,82,1,-,-,1,12.2
-WR,Lucky WhiteheadWR - NYJ,Bye,-,-,-,82,-,48,-,-,-,1,11
-WR,DeMarcus AyersWR - PIT,Bye,-,-,-,-12,-,53,1,-,-,-,10.1
-WR,James WrightWR - CLEIR,Bye,-,-,-,-6,-,106,-,-,-,-,10
-WR,Jeremy RossWR - ARI,Bye,-,-,-,-,-,37,1,-,-,-,9.7
-WR,T.J. JonesWR - DETView News,Bye,-,-,-,-,-,93,-,-,-,-,9.3
-WR,Leonte CarrooWR - MIA,Bye,-,-,-,-,-,29,1,-,-,-,8.9
-WR,Tommylee LewisWR - NOView Videos,Bye,-,-,-,11,-,76,-,-,-,-,8.7
-WR,Bryce TreggsWR - PHI,Bye,-,-,-,7,-,80,-,-,-,-,8.7
-WR,Pharoh CooperWR - LA,Bye,-,-,1,-,-,106,-,-,-,-,8.6
-WR,Rashard HigginsWR - CLE,Bye,-,-,-,-,-,77,-,-,-,-,7.7
-WR,Ryan GrantWR - WAS,Bye,-,-,-,-,-,76,-,-,-,-,7.6
-WR,Cody LatimerWR - DEN,Bye,-,-,-,-,-,76,-,-,-,-,7.6
-WR,Byron MarshallWR - PHIView Videos,Bye,-,-,-,64,-,10,-,-,-,-,7.4
-WR,Michael CampanaroWR - BAL,Bye,-,-,-,72,-,-,-,-,-,-,7.2
-WR,Alex EricksonWR - CIN,Bye,-,-,-,-,-,71,-,-,-,-,7.1
-WR,Keith MumpheryWR,Bye,-,-,-,-,-,69,-,-,-,-,6.9
-WR,Aaron BurbridgeWR - SF,Bye,-,-,-,-,-,88,-,-,-,1,6.8
-WR,Josh DoctsonWR - WASView News,Bye,-,-,-,-,-,66,-,-,-,-,6.6
-WR,Maurice HarrisWR - WAS,Bye,-,-,-,-,-,66,-,-,-,-,6.6
-WR,Chris MooreWR - BAL,Bye,-,-,-,19,-,46,-,-,-,-,6.5
-WR,Trevor DavisWR - GBView NewsView Videos,Bye,-,-,-,-,-,24,1,-,-,1,6.4
-WR,De'Anthony ThomasWR - KCView NewsView Videos,Bye,-,-,-,29,-,35,-,-,-,-,6.4
-WR,Keenan AllenWR - LACView News,Bye,-,-,-,-,-,63,-,-,-,-,6.3
-WR,Nick WilliamsWR - ATLView Videos,Bye,-,-,-,-,-,59,-,-,-,-,5.9
-WR,Johnny HoltonWR - OAK,Bye,-,-,-,43,-,34,-,-,-,1,5.7
-WR,Dwayne HarrisWR - NYG,Bye,-,-,-,-,-,13,1,-,-,1,5.3
-WR,Tavarres KingWR - NYG,Bye,-,-,-,-,-,50,-,-,-,-,5
-WR,Quan BrayWR - IND,Bye,-,-,-,7,-,36,-,-,-,-,4.3
-WR,Bradley MarquezWR - LAIR,Bye,-,-,-,2,-,37,-,-,-,-,3.9
-WR,Dexter McClusterWR,Bye,-,-,-,2,-,36,-,-,-,-,3.8
-WR,DeAndre SmelterWR - SF,Bye,-,-,-,-,-,23,-,-,-,-,2.3
-WR,Devin SmithWR - NYJIR,Bye,-,-,-,-,-,20,-,-,-,-,2
-WR,Devin StreetWR - HOU,Bye,-,-,-,-,-,20,-,-,-,-,2
-WR,Brenton BersinWR - CARView NewsView Videos,Bye,-,-,-,-,-,17,-,-,-,-,1.7
-WR,Mike ThomasWR - LA,Bye,-,-,-,-,-,37,-,-,-,1,1.7
-WR,Marc MarianiWR,Bye,-,-,-,15,-,-,-,-,-,-,1.5
-WR,Laquon TreadwellWR - MINView News,Bye,-,-,-,-,-,15,-,-,-,-,1.5
-WR,Rashad GreeneWR - JAX,Bye,-,-,-,-,-,32,-,-,-,1,1.2
-WR,Jeremy ButlerWR - BUF,Bye,-,-,-,-,-,11,-,-,-,-,1.1
-WR,Rashad RossWR - BUF,Bye,-,-,-,-,-,8,-,-,-,-,0.8
-WR,Jordan PaytonWR - CLE,Bye,-,-,-,-,-,3,-,-,-,-,0.3
-WR,Mario AlfordWR - CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Stedman BaileyWRIR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Kenny BellWRView News,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Jace BillingsleyWR - DETView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Justin BlackmonWR - JAXSUS,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Moritz BoehringerWR - MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Josh BoyceWR - CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Daniel BravermanWR - CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Da'Ron BrownWR - LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Marlon BrownWR - DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Martavis BryantWR - PITView NewsView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Isaiah BurseWR - LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Geremy DavisWR - LACView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Donteea DyeWR - TB,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Marcus EasleyWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Bruce EllingtonWR - HOUView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Corey FullerWR - NO,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Devin FullerWR - ATLIR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Keyarris GarrettWR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Josh GordonWR - CLESUS,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Frankie HammondWR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Matt HazelWR - WAS,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Javontee HerndonWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Chris HubertWR - ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Darius JenningsWR - TENView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Steve JohnsonWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Andy JonesWR - DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Seantavius JonesWR - KCView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Jonathan KrauseWR - TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Jake LampmanWR - NO,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Kenny LawlerWR - SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Dezmin LewisWR - BUF,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Kolby ListenbeeWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Devin LucienWR - NE,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Chris MatthewsWR - BALView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Vince MayleWR - BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Tre McBrideWR - TENView NewsView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Mekale McKayWR - TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Marquez NorthWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Kevin NorwoodWR - NYGIR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Keenan ReynoldsWR - BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Demarcus RobinsonWR - KC,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Eric RogersWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Tevaun SmithWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Nelson SpruceWR - LA,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Eric WeemsWR - TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Myles WhiteWR - NYJView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Matthew SlaterWR - NE,Bye,-,-,-,5,-,-,-,-,-,1,-1.5
-WR,Jakeem GrantWR - MIA,Bye,-,-,-,1,-,-,-,-,-,1,-1.9
-WR,Jared AbbrederisWR - DETView News,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Rodney AdamsWR - MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Quincy AdeboyejoWR - BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Donnie AveryWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Arrelious BennWR - JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Harvey BinfordWRIR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Noah BrownWR - DALView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Marquis BundyWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Damiere ByrdWR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Andre CaldwellWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Austin CarrWR - NE,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Jehu ChessonWR - KC,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Stacy ColeyWR - MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Amara DarbohWR - SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Corey DavisWR - TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Robert DavisWR - WASView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Malachi DupreWR - GB,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Travin DuralWR - NO,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Amba Etta-TawoWR - JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Isaiah FordWR - MIAIR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Tanner GentryWR - CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Shelton GibsonWR - PHI,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Chris GodwinWR - TB,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Kenny GolladayWR - DET,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Cyril GraysonWR - SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Marvin HallWR - ATLView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Rannell HallWR - CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Chad HansenWR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Keon HatcherWR - OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Carlos HendersonWR - DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Krishawn HoganWR - ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Mack HollinsWR - PHI,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Zay JonesWR - BUFView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Cooper KuppWR - LAView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Josh MaloneWR - CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Isaiah McKenzieWR - DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,David MooreWR - SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Brandon ReillyWR - BUFView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Josh ReynoldsWR - LA,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Fred RossWR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,John RossWR - CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Curtis SamuelWR - CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Garrett ScantlingWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,JuJu Smith-SchusterWR - PIT,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,ArDarius StewartWR - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Damore'ea StringfellowWR - MIA,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Ryan SwitzerWR - DALView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Taywan TaylorWR - TENView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Trent TaylorWR - SF,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Kendal ThompsonWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,David WatfordWR - PHI,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Dede WestbrookWR - JAXView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Jordan WesterkampWR,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Griff WhalenWR - BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Chad WilliamsWR - ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Kasen WilliamsWR - SEAView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Mike WilliamsWR - LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Wendall WilliamsWR - HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,DeAngelo YanceyWR - GB,Bye,-,-,-,-,-,-,-,-,-,-,0
-WR,Ishmael ZamoraWR - OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Travis KelceTE - KC,Bye,-,-,-,-5,-,1125,4,-,1,-,138
-TE,Greg OlsenTE - CAR,Bye,-,-,-,-,-,1073,3,-,1,-,127.3
-TE,Kyle RudolphTE - MINView Videos,Bye,-,-,-,-,-,840,7,-,-,-,126
-TE,Jimmy GrahamTE - SEA,Bye,-,-,-,-,-,923,6,-,-,2,124.3
-TE,Delanie WalkerTE - TENView NewsView Videos,Bye,-,-,-,11,-,800,7,-,-,-,123.1
-TE,Cameron BrateTE - TB,Bye,-,-,-,-,-,660,8,-,-,-,114
-TE,Martellus BennettTE - GBView Videos,Bye,-,-,-,10,-,701,7,-,-,-,113.1
-TE,Zach ErtzTE - PHI,Bye,-,-,-,-,-,816,4,-,-,-,105.6
-TE,Jordan ReedTE - WASView News,Bye,-,-,-,-,-,686,6,-,-,1,102.6
-TE,Antonio GatesTE - LAC,Bye,-,-,-,-,-,548,7,-,-,1,94.8
-TE,Hunter HenryTE - LACView Videos,Bye,-,-,-,-,-,478,8,-,-,1,93.8
-TE,Coby FleenerTE - NOView News,Bye,-,-,-,2,1,631,3,-,-,-,87.3
-TE,Jack DoyleTE - IND,Bye,-,-,-,-,-,584,5,-,-,1,86.4
-TE,Jason WittenTE - DALView Videos,Bye,-,-,-,-,-,673,3,-,-,1,83.3
-TE,Eric EbronTE - DETView News,Bye,-,-,-,1,1,711,1,-,-,-,83.2
-TE,Dennis PittaTE,Bye,-,-,-,-,-,729,2,-,-,1,82.9
-TE,C.J. FiedorowiczTE - HOU,Bye,-,-,-,-,-,559,4,-,-,-,79.9
-TE,Charles ClayTE - BUF,Bye,-,-,-,-,-,552,4,-,-,-,79.2
-TE,Dwayne AllenTE - NE,Bye,-,-,-,-,-,406,6,-,1,-,78.6
-TE,Gary BarnidgeTE,Bye,-,-,-,-,-,612,2,-,1,-,75.2
-TE,Zach MillerTE - CHIView News,Bye,-,-,-,-,-,486,4,-,-,-,72.6
-TE,Rob GronkowskiTE - NEView News,Bye,-,-,-,-,-,540,3,-,-,-,72
-TE,Vernon DavisTE - WASView News,Bye,-,-,-,-,-,583,2,-,-,-,70.3
-TE,Tyler EifertTE - CIN,Bye,-,-,-,-,-,394,5,-,-,-,69.4
-TE,Vance McDonaldTE - SF,Bye,-,-,-,-,-,391,4,-,-,-,63.1
-TE,Lance KendricksTE - GBView News,Bye,-,-,-,-,-,499,2,-,-,1,59.9
-TE,Ryan GriffinTE - HOU,Bye,-,-,-,-,-,442,2,-,-,1,54.2
-TE,Clive WalfordTE - OAK,Bye,-,-,-,-,-,359,3,-,-,-,53.9
-TE,Julius ThomasTE - MIA,Bye,-,-,-,-,-,281,4,-,-,-,52.1
-TE,Jesse JamesTE - PIT,Bye,-,-,-,-,-,338,3,-,-,-,51.8
-TE,Jermaine GreshamTE - ARIView NewsView Videos,Bye,-,-,-,-,-,391,2,-,-,-,51.1
-TE,Garrett CelekTE - SFView News,Bye,-,-,-,-,-,350,3,-,-,1,51
-TE,Dion SimsTE - CHIView News,Bye,-,-,-,-,-,256,4,-,-,-,49.6
-TE,Will TyeTE - NYG,Bye,-,-,-,-,-,395,1,-,-,-,45.5
-TE,Austin HooperTE - ATLView NewsView Videos,Bye,-,-,-,-,-,271,3,-,-,-,45.1
-TE,Jared CookTE - OAK,Bye,-,-,-,-,-,377,1,-,-,1,41.7
-TE,Richard RodgersTE - GB,Bye,-,-,-,-,-,271,2,-,-,-,39.1
-TE,Jacob TammeTE,Bye,-,-,-,-,-,210,3,-,-,-,39
-TE,Trey BurtonTE - PHI,Bye,-,-,-,-,-,327,1,-,-,-,38.7
-TE,Levine ToiloloTE - ATL,Bye,-,-,-,-,-,264,2,-,-,-,38.4
-TE,Ladarius GreenTE,Bye,-,-,-,-,-,304,1,-,-,-,36.4
-TE,Erik SwoopeTE - IND,Bye,-,-,-,-,-,297,1,-,-,-,35.7
-TE,Virgil GreenTE - DEN,Bye,-,-,-,-,-,237,1,-,-,-,29.7
-TE,C.J. UzomahTE - CIN,Bye,-,-,-,-,-,234,1,-,-,-,29.4
-TE,Mychal RiveraTE - JAX,Bye,-,-,-,-,-,192,1,-,-,-,25.2
-TE,Luke WillsonTE - SEA,Bye,-,-,-,-,-,129,2,-,-,-,24.9
-TE,Seth DeValveTE - CLE,Bye,-,-,-,-,-,127,2,-,-,-,24.7
-TE,Xavier GrimbleTE - PIT,Bye,-,-,-,-,-,118,2,-,-,-,23.8
-TE,Marcedes LewisTE - JAX,Bye,-,-,-,-,-,169,1,-,-,-,22.9
-TE,Ben KoyackTE - JAX,Bye,-,-,-,-,-,161,1,-,-,-,22.1
-TE,Darren FellsTE - DET,Bye,-,-,-,-,-,154,1,-,-,-,21.4
-TE,Austin Seferian-JenkinsTE - NYJView News,Bye,-,-,-,-,-,154,1,-,-,-,21.4
-TE,Josh HillTE - NO,Bye,-,-,-,-,-,149,1,-,-,-,20.9
-TE,Darren WallerTE - BALSUS,Bye,-,-,-,-,-,85,2,-,-,-,20.5
-TE,Anthony FasanoTE - MIA,Bye,-,-,-,-,-,83,2,-,-,-,20.3
-TE,Demetrius HarrisTE - KCView Videos,Bye,-,-,-,-,-,123,1,-,1,-,20.3
-TE,Ed DicksonTE - CAR,Bye,-,-,-,-,-,134,1,-,-,-,19.4
-TE,Daniel BrownTE - CHI,Bye,-,-,-,-,-,124,1,-,-,-,18.4
-TE,Jerell AdamsTE - NYG,Bye,-,-,-,-,-,122,1,-,-,-,18.2
-TE,MarQueis GrayTE - MIA,Bye,-,-,-,-,-,174,-,-,-,-,17.4
-TE,Brent CelekTE - PHI,Bye,-,-,-,-,-,155,-,-,-,-,15.5
-TE,Stephen AndersonTE - HOU,Bye,-,-,-,-,-,93,1,-,-,-,15.3
-TE,Tyler HigbeeTE - LA,Bye,-,-,-,-,-,85,1,-,-,-,14.5
-TE,Jeff HeuermanTE - DEN,Bye,-,-,-,-,-,141,-,-,-,-,14.1
-TE,A.J. DerbyTE - DEN,Bye,-,-,-,-,-,160,-,-,-,1,14
-TE,Brandon MyersTE,Bye,-,-,-,-,-,59,1,-,1,-,13.9
-TE,Nick O'LearyTE - BUF,Bye,-,-,-,-,-,114,-,-,1,-,13.4
-TE,Larry DonnellTE - BALView Videos,Bye,-,-,-,-,-,92,1,-,-,1,13.2
-TE,John PhillipsTE - NO,Bye,-,-,-,-,-,72,1,-,-,-,13.2
-TE,Crockett GillmoreTE - BALIR,Bye,-,-,-,-,-,71,1,-,-,-,13.1
-TE,Dominique JonesTE,Bye,-,-,-,-,-,61,1,-,-,-,12.1
-TE,Rhett EllisonTE - NYG,Bye,-,-,-,1,1,57,-,-,-,-,11.8
-TE,Neal SterlingTE - JAX,Bye,-,-,-,-,-,110,-,-,-,-,11
-TE,Josh PerkinsTE - ATL,Bye,-,-,-,-,-,42,1,-,-,-,10.2
-TE,David JohnsonTE - PIT,Bye,-,-,-,-,-,80,-,-,1,-,10
-TE,Tyler KroftTE - CIN,Bye,-,-,-,-,-,92,-,-,-,-,9.2
-TE,Gavin EscobarTE - KC,Bye,-,-,-,-,-,30,1,-,-,-,9
-TE,Blake BellTE - SFView News,Bye,-,-,-,-,-,85,-,-,-,-,8.5
-TE,Matt LengelTE - NE,Bye,-,-,-,-,-,22,1,-,-,-,8.2
-TE,Geoff SwaimTE - DAL,Bye,-,-,-,-,-,69,-,-,-,-,6.9
-TE,Brandon BostickTE,Bye,-,-,-,-,-,63,-,-,-,-,6.3
-TE,Phillip SupernawTE - TEN,Bye,-,-,-,-,-,62,-,-,-,-,6.2
-TE,Jace AmaroTE - TEN,Bye,-,-,-,-,-,59,-,-,-,-,5.9
-TE,Ifeanyi MomahTE - ARI,Bye,-,-,-,-,-,50,-,-,-,-,5
-TE,Nick BoyleTE - BAL,Bye,-,-,-,-,-,44,-,-,-,-,4.4
-TE,Ben BrauneckerTE - CHI,Bye,-,-,-,-,-,41,-,-,-,-,4.1
-TE,Brandon WilliamsTE - IND,Bye,-,-,-,-,-,36,-,-,-,-,3.6
-TE,Justin PerilloTE,Bye,-,-,-,-,-,35,-,-,-,-,3.5
-TE,Nick VannettTE - SEAView Videos,Bye,-,-,-,-,-,32,-,-,-,-,3.2
-TE,Lee SmithTE - OAKView Videos,Bye,-,-,-,-,-,29,-,-,-,-,2.9
-TE,Niles PaulTE - WASView Videos,Bye,-,-,-,-,-,27,-,-,-,-,2.7
-TE,Sean McGrathTE - LAC,Bye,-,-,-,-,-,25,-,-,-,-,2.5
-TE,Luke StockerTE - TB,Bye,-,-,-,-,-,23,-,-,-,-,2.3
-TE,Clay HarborTE - NO,Bye,-,-,-,-,-,19,-,-,-,-,1.9
-TE,Cole WickTE - DET,Bye,-,-,-,-,-,18,-,-,-,-,1.8
-TE,Logan PaulsenTE - SFView News,Bye,-,-,-,-,-,15,-,-,-,-,1.5
-TE,Gerald ChristianTE - ARI,Bye,-,-,-,-,-,14,-,-,-,-,1.4
-TE,Ryan HewittTE - CIN,Bye,-,-,-,-,-,13,-,-,-,-,1.3
-TE,MyCole PruittTE - CHI,Bye,-,-,-,-,-,13,-,-,-,-,1.3
-TE,Derek CarrierTE - WAS,Bye,-,-,-,-,-,10,-,-,-,-,1
-TE,Chris ManhertzTE - CAR,Bye,-,-,-,-,-,10,-,-,-,-,1
-TE,Matthew MulliganTE,Bye,-,-,-,-,-,8,-,-,-,-,0.8
-TE,David MorganTE - MIN,Bye,-,-,-,-,-,4,-,-,-,-,0.4
-TE,Randall TelferTE - CLE,Bye,-,-,-,-,-,4,-,-,-,-,0.4
-TE,RaShaun AllenTE - HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Rory AndersonTE - BUF,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,David AusberryTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Kennard BackmanTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,E.J. BibbsTE - WAS,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Asante ClevelandTE - LACIR,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Jeff CumberlandTE - LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Jerome CunninghamTE - TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Kellen DavisTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Dorin DickersonTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Jim DrayTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Thomas DuarteTE - MIA,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Rico GathersTE - DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Chris GraggTE - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,James HannaTE - DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Cory HarkeyTE - LA,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Cooper HelfetTE - OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Temarrick HemingwayTE - LA,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Michael HoomanawanuiTE - NO,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Brian LeonhardtTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Troy NiklasTE - ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Ryan O'MalleyTE - OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Beau SandlandTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Wes SaxtonTE - BUF,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Greg ScruggsTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Jake StoneburnerTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Hakeem VallesTE - ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Benjamin WatsonTE - BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Maxx WilliamsTE - BALView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Michael WilliamsTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Timothy WrightTE - DET,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,James O'ShaughnessyTE - NE,Bye,-,-,-,-,-,-1,-,-,-,-,-0.1
-TE,Mo Alie-CoxTEIR,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Chris BriggsTE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Jake ButtTE - DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Evan EngramTE - NYG,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Gerald EverettTE - LAView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Garrett GriffinTE - NO,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Bucky HodgesTE - MINView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,O.J. HowardTE - TB,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,George KittleTE - SF,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Jordan LeggettTE - NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Jake McGeeTE - PIT,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,David NjokuTE - CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Michael RobertsTE - DETView Videos,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Eric SaubertTE - ATL,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Mason SchreckTE - CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Adam ShaheenTE - CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Jonnu SmithTE - TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Jeremy SprinkleTE - WAS,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Austin TraylorTE - DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Nick TruesdellTE - MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Eric WallaceTE - CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
-TE,Travis WilsonTE - LA,Bye,-,-,-,-,-,-,-,-,-,-,0
+Position,FirstName,LastName,Team,Opp,Passing_Yards,Passing_TD,Passing_Int,Rushing_Yds,Rushing_TD,Receiving_Yds,Receiving_TD,Misc_FumTD,Misc_2PT,Fum_Lost,Fantasy_Points
+QB,Aaron,Rodgers,GB,@JAX,4428,40,7,369,4,-,-,-,2,4,380.02
+QB,Matt,Ryan,ATL,TB,4944,38,7,117,-,-,-,-,2,2,347.46
+QB,Drew,Brees,NO,OAK,5208,37,15,20,2,-,-,-,-,4,332.32
+QB,Andrew,Luck,IND,DET,4240,31,13,341,2,-,-,-,2,5,307.7
+QB,Kirk,Cousins,WAS,PIT,4917,25,12,96,4,-,-,-,-,3,300.28
+QB,Dak,Prescott,DAL,NYG,3667,23,4,282,6,-,-,-,-,4,286.88
+QB,Matthew,Stafford,DET,@IND,4327,24,10,207,2,-,-,-,1,2,279.78
+QB,Tyrod,Taylor,BUF,@BAL,3023,17,6,580,6,-,-,-,2,2,270.92
+QB,Blake,Bortles,JAX,GB,3905,23,16,359,3,20,1,-,2,6,270.1
+QB,Derek,Carr,OAK,@NO,3937,28,6,70,-,-,-,-,5,3,268.48
+QB,Russell,Wilson,SEA,MIA,4219,21,11,259,1,14,1,-,1,2,268.06
+QB,Andy,Dalton,CIN,@NYJ,4206,18,8,184,4,-,-,-,-,3,260.64
+QB,Marcus,Mariota,TEN,MIN,3426,26,9,349,2,-,-,-,-,5,259.94
+QB,Philip,Rivers,LAC,@KC,4386,33,21,35,-,-,-,-,-,5,258.94
+QB,Tom,Brady,NE,@ARI,3554,28,2,64,-,-,-,-,1,-,258.56
+QB,Jameis,Winston,TB,@ATL,4090,28,18,165,1,-,-,-,3,6,256.1
+QB,Cam,Newton,CAR,@DEN,3509,19,14,359,5,-,-,-,2,2,254.26
+QB,Ben,Roethlisberger,PIT,@WAS,3819,29,13,14,1,-,-,-,3,2,252.16
+QB,Carson,Palmer,ARI,NE,4233,26,14,38,-,-,-,-,1,4,243.12
+QB,Joe,Flacco,BAL,BUF,4317,20,15,58,2,-,-,-,4,3,242.48
+QB,Eli,Manning,NYG,@DAL,4027,26,16,-9,-,-,-,-,-,4,224.18
+QB,Alex,Smith,KC,LAC,3502,15,8,134,5,3,-,-,2,4,223.78
+QB,Sam,Bradford,MIN,@TEN,3877,20,5,53,-,5,-,-,-,5,220.88
+QB,Carson,Wentz,PHI,CLE,3782,16,14,150,2,7,-,-,2,3,212.98
+QB,Colin,Kaepernick,,LA,2241,16,4,468,2,-,-,-,1,3,200.44
+QB,Trevor,Siemian,DEN,Bye,3401,18,10,57,-,-,-,-,1,2,191.74
+QB,Ryan,Tannehill,MIA,Bye,2995,19,12,164,1,-,-,-,1,3,190.2
+QB,Brock,Osweiler,CLE,Bye,2957,15,16,131,2,-14,-,-,-,1,167.98
+QB,Ryan,Fitzpatrick,TB,Bye,2710,12,17,130,-,-,-,-,-,1,133.4
+QB,Case,Keenum,MIN,Bye,2201,9,11,51,1,-,-,-,-,1,111.14
+QB,Brian,Hoyer,SF,Bye,1445,6,-,-2,-,-,-,-,-,1,79.6
+QB,Cody,Kessler,CLE,Bye,1380,6,2,18,-,-,-,-,1,1,77
+QB,Blaine,Gabbert,ARI,Bye,925,5,6,173,2,-16,-,-,-,-,72.7
+QB,Matt,Barkley,SF,Bye,1611,8,14,2,-,2,1,-,-,2,70.84
+QB,Robert,Griffin III,,Bye,886,2,3,190,2,-,-,-,-,1,66.44
+QB,Matt,Moore,MIA,Bye,721,8,3,-1,-,-,-,-,-,-,54.74
+QB,Jared,Goff,LA,Bye,1089,5,7,16,1,-,-,-,-,2,53.16
+QB,Josh,McCown,NYJ,Bye,1100,6,6,21,-,-,-,-,1,4,52.1
+QB,Jimmy,Garoppolo,NE,Bye,502,4,-,6,-,3,-,-,-,1,34.98
+QB,Landry,Jones,PIT,Bye,558,4,2,-4,-,-,-,-,-,-,33.92
+QB,Bryce,Petty,NYJ,Bye,809,3,7,19,-,-,-,-,1,1,32.26
+QB,Paxton,Lynch,DEN,Bye,497,2,1,25,-,-,-,-,-,-,28.38
+QB,Jacoby,Brissett,NE,Bye,400,-,-,83,1,-,-,-,-,1,28.3
+QB,Nick,Foles,PHI,Bye,410,3,-,-4,-,-,-,-,-,-,28
+QB,Tom,Savage,HOU,Bye,461,-,-,12,-,-,-,-,-,1,17.64
+QB,Kevin,Hogan,CLE,Bye,104,-,2,105,1,-,-,-,-,-,16.66
+QB,Derek,Anderson,CAR,Bye,453,2,5,4,-,-,-,-,1,1,16.52
+QB,Matt,Cassel,TEN,Bye,284,2,2,3,-,-,-,-,-,-,15.66
+QB,Shaun,Hill,,Bye,242,-,-,5,-,-,-,-,-,-,10.18
+QB,Drew,Stanton,ARI,Bye,192,2,3,-3,-,-,-,-,-,-,9.38
+QB,Mike,Glennon,CHI,Bye,75,1,-,-,-,-,-,-,1,-,9
+QB,Scott,Tolzien,IND,Bye,216,1,2,3,-,-,-,-,-,-,8.94
+QB,Geno,Smith,NYG,Bye,126,1,1,9,-,-,-,-,-,-,7.94
+QB,Trevone,Boykin,SEA,Bye,145,1,1,1,-,-,-,-,-,-,7.9
+QB,EJ,Manuel,OAK,Bye,131,-,-,22,-,-,-,-,1,1,7.44
+QB,Connor,Cook,OAK,Bye,150,1,1,-,-,-,-,-,-,1,6
+QB,Tony,Romo,,Bye,29,1,-,-,-,-,-,-,-,-,5.16
+QB,Cardale,Jones,LAC,Bye,96,-,1,-1,-,-,-,-,-,-,1.74
+QB,Matt,McGloin,PHI,Bye,50,-,-,-3,-,-,-,-,-,-,1.7
+QB,Chase,Daniel,NO,Bye,16,-,-,-,-,-,-,-,-,-,0.64
+QB,Matt,Schaub,ATL,Bye,16,-,-,-2,-,-,-,-,-,-,0.44
+QB,Tyler,Bray,KC,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Teddy,Bridgewater,MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Jeff,Driskel,CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Garrett,Grayson,NO,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Christian,Hackenberg,NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,AJ,McCarron,CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Luke,McCown,DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Colt,McCoy,WAS,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Zach,Mettenberger,,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Kellen,Moore,DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Aaron,Murray,,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Ryan,Nassib,NO,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Jake,Rudock,DET,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Connor,Shaw,CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Joel,Stave,KC,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Brandon,Weeden,HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,T.J.,Yates,BUF,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Kellen,Clemens,LAC,Bye,-,-,-,-1,-,-,-,-,-,-,-0.1
+QB,Chad,Henne,JAX,Bye,-,-,-,-2,-,-,-,-,-,-,-0.2
+QB,Mark,Sanchez,CHI,Bye,93,-,2,-2,-,-,-,-,-,-,-0.48
+QB,Sean,Mannion,LA,Bye,19,-,1,-1,-,-,-,-,-,-,-1.34
+QB,Brett,Hundley,GB,Bye,17,-,1,-2,-,-,-,-,-,-,-1.52
+QB,Ryan,Mallett,BAL,Bye,26,-,1,-6,-,-,-,-,-,-,-1.56
+QB,Brandon,Allen,JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,C.J.,Beathard,SF,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Jay,Cutler,MIA,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Joshua,Dobbs,PIT,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Brad,Kaaya,DET,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Chad,Kelly,DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,DeShone,Kizer,CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Patrick,Mahomes,KC,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Nathan,Peterman,BUF,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Tim,Tebow,,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Mitchell,Trubisky,CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Deshaun,Watson,HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
+QB,Davis,Webb,NYG,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,David,Johnson,ARI,NE,-,-,-,1239,16,879,4,-,1,3,327.8
+RB,Ezekiel,Elliott,DAL,NYG,-,-,-,1631,15,363,1,-,-,1,293.4
+RB,LeSean,McCoy,BUF,@BAL,-,-,-,1267,13,356,1,-,1,-,248.3
+RB,Le'Veon,Bell,PIT,@WAS,-,-,-,1268,7,616,2,-,1,1,242.4
+RB,DeMarco,Murray,TEN,MIN,10,1,-,1287,9,377,3,-,-,1,240.8
+RB,Devonta,Freeman,ATL,TB,-,-,-,1079,11,462,2,-,-,1,230.1
+RB,LeGarrette,Blount,PHI,@ARI,-,-,-,1161,18,38,-,-,-,1,225.9
+RB,Melvin,Gordon,LAC,@KC,-,-,-,997,10,419,2,-,-,2,209.6
+RB,Jordan,Howard,CHI,@HOU,-,-,-,1313,6,298,1,-,-,1,201.1
+RB,Mark,Ingram,NO,OAK,-,-,-,1043,6,319,4,-,2,2,196.2
+RB,Jay,Ajayi,MIA,@SEA,-,-,-,1272,8,151,-,-,-,1,188.3
+RB,Frank,Gore,IND,DET,-,-,-,1025,4,277,4,-,-,1,176.2
+RB,Latavius,Murray,MIN,@NO,-,-,-,788,12,264,-,-,-,1,175.2
+RB,Isaiah,Crowell,CLE,@PHI,-,-,-,952,7,319,-,-,-,2,165.1
+RB,Carlos,Hyde,SF,LA,-,-,-,988,6,163,3,-,1,3,165.1
+RB,Spencer,Ware,KC,LAC,-,-,-,921,3,447,2,-,-,3,160.8
+RB,Tevin,Coleman,ATL,TB,-,-,-,520,8,421,3,-,-,-,160.1
+RB,Lamar,Miller,HOU,CHI,-,-,-,1073,5,188,1,-,-,1,160.1
+RB,Jeremy,Hill,CIN,@NYJ,-,-,-,839,9,174,-,-,-,-,155.3
+RB,Todd,Gurley,LA,@SF,-,-,-,885,6,327,-,-,-,1,155.2
+RB,Matt,Forte,NYJ,CIN,-,-,-,813,7,263,1,-,-,1,153.6
+RB,Bilal,Powell,NYJ,CIN,-,-,-,722,3,388,2,-,-,1,139
+RB,Jonathan,Stewart,CAR,@DEN,-,-,-,824,9,60,-,-,-,2,138.4
+RB,Terrance,West,BAL,BUF,-,-,-,774,5,236,1,-,-,-,137
+RB,Ryan,Mathews,,CLE,-,-,-,661,8,115,1,-,2,2,131.6
+RB,Rob,Kelley,WAS,Bye,-,-,-,704,6,82,1,-,-,-,120.6
+RB,Mike,Gillislee,NE,Bye,-,-,-,577,8,50,1,-,-,-,116.7
+RB,Christine,Michael,IND,Bye,-,-,-,583,7,107,1,-,-,1,115
+RB,Devontae,Booker,DEN,Bye,-,-,-,612,4,265,1,-,-,3,111.7
+RB,Darren,Sproles,PHI,Bye,-,-,-,438,2,427,2,-,-,-,110.5
+RB,Theo,Riddick,DET,Bye,-,-,-,357,1,371,5,-,-,-,108.8
+RB,Jerick,McKinnon,MIN,Bye,-,-,-,539,2,255,2,-,1,-,105.4
+RB,Tim,Hightower,SF,Bye,-,-,-,548,4,200,1,-,-,-,104.8
+RB,Rashad,Jennings,,Bye,-,-,-,593,3,201,1,-,-,-,103.4
+RB,James,White,NE,Bye,-,-,-,166,-,551,5,-,-,-,101.7
+RB,Matt,Asiata,DET,Bye,-,-,-,402,6,263,-,-,-,1,100.5
+RB,Chris,Thompson,WAS,Bye,-,-,-,356,3,349,2,-,-,1,98.5
+RB,Ty,Montgomery,GB,Bye,-,-,-,457,3,348,-,-,-,1,96.5
+RB,Derrick,Henry,TEN,Bye,-,-,-,490,5,137,-,-,-,-,92.7
+RB,Duke,Johnson,CLE,Bye,-,-,-,358,1,514,-,-,-,1,91.2
+RB,T.J.,Yeldon,JAX,Bye,-,-,-,465,1,312,1,-,-,1,87.7
+RB,C.J.,Anderson,DEN,Bye,-,-,-,437,4,128,1,-,-,-,86.5
+RB,Jalen,Richard,OAK,Bye,-,-,-,491,1,194,2,-,-,-,86.5
+RB,Giovani,Bernard,CIN,Bye,-,-,-,337,2,336,1,-,-,1,83.3
+RB,Robert,Turbin,IND,Bye,-,-,-,164,7,179,1,-,-,-,82.3
+RB,DeAngelo,Williams,,Bye,-,-,-,343,4,118,2,-,-,-,82.1
+RB,Shaun,Draughn,NYG,Bye,-,-,-,196,4,263,2,-,-,1,79.9
+RB,Jacquizz,Rodgers,TB,Bye,-,-,-,560,2,98,-,-,-,-,77.8
+RB,Zach,Zenner,DET,Bye,-,-,-,334,4,196,-,-,-,1,75
+RB,Chris,Ivory,JAX,Bye,-,-,-,439,3,186,-,-,-,3,74.5
+RB,Kenneth,Dixon,BAL,Bye,-,-,-,382,2,162,1,-,-,-,72.4
+RB,Doug,Martin,TB,Bye,-,-,-,421,3,134,-,-,-,1,71.5
+RB,Damien,Williams,MIA,Bye,-,-,-,115,3,249,3,-,-,1,70.4
+RB,DeAndre,Washington,OAK,Bye,-,-,-,467,2,115,-,-,-,1,68.2
+RB,Matt,Jones,WAS,Bye,-,-,-,460,3,73,-,-,-,2,67.3
+RB,Charcandrick,West,KC,Bye,-,-,-,293,1,188,2,-,-,-,66.1
+RB,Thomas,Rawls,SEA,Bye,-,-,-,349,3,96,-,-,-,-,62.5
+RB,Paul,Perkins,NYG,Bye,-,-,-,456,-,162,-,-,-,-,61.8
+RB,Rex,Burkhead,NE,Bye,-,-,-,344,2,145,-,-,-,1,58.9
+RB,Jeremy,Langford,CHI,Bye,-,-,-,200,4,142,-,-,-,2,54.2
+RB,Travaris,Cadet,NO,Bye,-,-,-,19,-,281,4,-,-,-,54
+RB,Alfred,Blue,HOU,Bye,-,-,-,420,1,40,-,-,-,1,50
+RB,Fozzy,Whittaker,CAR,Bye,-,-,-,265,-,226,-,-,-,1,47.1
+RB,Jamize,Olawale,OAK,Bye,-,-,-,47,2,227,1,-,-,-,45.4
+RB,C.J.,Prosise,SEA,Bye,-,-,-,172,1,208,-,-,-,-,44
+RB,Charles,Sims,TB,Bye,-,-,-,149,1,190,1,-,-,1,43.9
+RB,Justin,Forsett,,Bye,-,-,-,291,1,85,-,-,-,1,41.6
+RB,John,Kuhn,NO,Bye,-,-,-,37,4,70,1,-,-,-,40.7
+RB,Wendell,Smallwood,PHI,Bye,-,-,-,312,1,55,-,-,-,1,40.7
+RB,James,Starks,,Bye,-,-,-,145,-,134,2,-,-,-,39.9
+RB,Eddie,Lacy,SEA,Bye,-,-,-,360,-,28,-,-,-,-,38.8
+RB,Dwayne,Washington,DET,Bye,-,-,-,265,1,62,-,-,-,-,38.7
+RB,Dion,Lewis,NE,Bye,-,-,-,283,-,94,-,-,-,-,37.7
+RB,Aaron,Ripkowski,GB,Bye,-,-,-,150,2,46,1,-,-,-,37.6
+RB,Alfred,Morris,DAL,Bye,-,-,-,243,2,11,-,-,-,-,37.4
+RB,Kyle,Juszczyk,SF,Bye,-,-,-,22,1,266,-,-,1,-,36.8
+RB,Kenyan,Drake,MIA,Bye,-,-,-,179,2,46,-,-,-,-,34.5
+RB,Corey,Grant,JAX,Bye,-,-,-,164,1,35,1,-,-,-,31.9
+RB,Peyton,Barber,TB,Bye,-,-,-,223,1,28,-,-,-,-,31.1
+RB,Kenjon,Barner,LAC,Bye,-,-,-,129,2,42,-,-,-,-,29.1
+RB,Kerwynn,Williams,ARI,Bye,-,-,-,157,2,6,-,-,-,-,28.3
+RB,Cameron,Artis-Payne,CAR,Bye,-,-,-,144,2,11,-,-,-,-,27.5
+RB,DuJuan,Harris,,Bye,-,-,-,138,-,115,1,-,-,2,27.3
+RB,Shane,Vereen,NYG,Bye,-,-,-,158,1,94,-,-,-,2,27.2
+RB,Kapri,Bibbs,SF,Bye,-,-,-,129,-,75,1,-,-,-,26.4
+RB,Alex,Collins,SEA,Bye,-,-,-,125,1,84,-,-,-,1,24.9
+RB,Mike,Tolbert,BUF,Bye,-,-,-,114,-,72,1,-,-,-,24.6
+RB,Orleans,Darkwa,NYG,Bye,-,-,-,111,2,12,-,-,-,-,24.3
+RB,Kenneth,Farrow,LAC,Bye,-,-,-,192,-,70,-,-,-,1,24.2
+RB,Ronnie,Hillman,DAL,Bye,-,-,-,131,-,93,-,-,-,-,22.4
+RB,Ameer,Abdullah,DET,Bye,-,-,-,101,-,57,1,-,-,-,21.8
+RB,Lance,Dunbar,LA,Bye,-,-,-,31,1,122,-,-,-,-,21.3
+RB,Danny,Woodhead,BAL,Bye,-,-,-,116,-,35,1,-,-,-,21.1
+RB,Jonathan,Grimes,JAX,Bye,-,-,-,105,-,94,-,-,-,-,19.9
+RB,Bobby,Rainey,BAL,Bye,-,-,-,63,-,153,-,-,-,1,19.6
+RB,Benny,Cunningham,CHI,Bye,-,-,-,101,-,91,-,-,-,-,19.2
+RB,Ka'Deem,Carey,CHI,Bye,-,-,-,126,-,55,-,-,-,-,18.1
+RB,Andre,Ellington,ARI,Bye,-,-,-,96,-,85,-,-,-,-,18.1
+RB,Denard,Robinson,,Bye,-,-,-,144,-,22,-,-,-,-,16.6
+RB,Terron,Ward,ATL,Bye,-,-,-,151,-,11,-,-,-,-,16.2
+RB,Josh,Ferguson,IND,Bye,-,-,-,20,-,136,-,-,-,-,15.6
+RB,Chris,Johnson,ARI,Bye,-,-,-,95,1,-,-,-,-,-,15.5
+RB,Mack,Brown,WAS,Bye,-,-,-,82,1,-2,-,-,-,-,14
+RB,Akeem,Hunt,HOU,Bye,-,-,-,109,-,29,-,-,-,-,13.8
+RB,Andy,Janovich,DEN,Bye,-,-,-,33,1,44,-,-,-,-,13.7
+RB,Mike,Davis,SEA,Bye,-,-,-,50,1,25,-,-,-,1,11.5
+RB,Jamaal,Charles,DEN,Bye,-,-,-,40,1,14,-,-,-,-,11.4
+RB,Jonathan,Williams,BUF,Bye,-,-,-,94,1,-,-,-,-,2,11.4
+RB,Patrick,DiMarco,BUF,Bye,-,-,-,-,-,52,1,-,-,-,11.2
+RB,Darren,McFadden,DAL,Bye,-,-,-,87,-,17,-,-,-,-,10.4
+RB,Antone,Smith,,Bye,-,-,-,47,-,77,-,-,-,1,10.4
+RB,Alan,Cross,TB,Bye,-,-,-,-,-,38,1,-,-,-,9.8
+RB,George,Atkinson,OAK,Bye,-,-,-,34,1,-,-,-,-,-,9.4
+RB,Marcel,Reece,SEA,Bye,-,-,-,-,-,73,-,-,1,-,9.3
+RB,Terrell,Watson,PIT,Bye,-,-,-,28,1,5,-,-,-,-,9.3
+RB,Fitzgerald,Toussaint,PIT,Bye,-,-,-,58,-,33,-,-,-,-,9.1
+RB,Derek,Watt,LAC,Bye,-,-,-,4,-,83,-,-,-,-,8.7
+RB,Andre,Williams,LAC,Bye,-,-,-,87,-,-,-,-,-,-,8.7
+RB,Juwan,Thompson,DEN,Bye,-,-,-,26,1,-,-,-,-,-,8.6
+RB,Jerome,Felton,,Bye,-,-,-,13,-,57,-,-,-,-,7
+RB,Malcolm,Brown,LA,Bye,-,-,-,39,-,46,-,-,-,1,6.5
+RB,Adrian,Peterson,NO,Bye,-,-,-,72,-,8,-,-,-,1,6
+RB,Jordan,Todman,NYJ,Bye,-,-,-,59,-,-,-,-,-,-,5.9
+RB,Knile,Davis,PIT,Bye,-,-,-,28,-,25,-,-,-,-,5.3
+RB,Javorius,Allen,BAL,Bye,-,-,-,34,-,15,-,-,-,-,4.9
+RB,Troymaine,Pope,IND,Bye,-,-,-,44,-,5,-,-,-,-,4.9
+RB,Brandon,Wilds,CLE,Bye,-,-,-,27,-,20,-,-,-,-,4.7
+RB,Daniel,Lasco,NO,Bye,-,-,-,32,-,11,-,-,-,-,4.3
+RB,Mike,James,DET,Bye,-,-,-,19,-,22,-,-,-,-,4.1
+RB,Taiwan,Jones,BUF,Bye,-,-,-,-8,-,43,-,-,-,-,3.5
+RB,Don,Jackson,,Bye,-,-,-,32,-,-,-,-,-,-,3.2
+RB,Danny,Vitale,CLE,Bye,-,-,-,-,-,27,-,-,-,-,2.7
+RB,D.J.,Foster,NE,Bye,-,-,-,24,-,2,-,-,-,-,2.6
+RB,Brandon,Bolden,NE,Bye,-,-,-,4,-,15,-,-,-,-,1.9
+RB,James,Develin,NE,Bye,-,-,-,-,-,18,-,-,-,-,1.8
+RB,J.D.,McKissic,SEA,Bye,-,-,-,2,-,16,-,-,-,-,1.8
+RB,Jalston,Fowler,TEN,Bye,-,-,-,3,-,14,-,-,-,-,1.7
+RB,Antonio,Andrews,,Bye,-,-,-,15,-,-,-,-,-,-,1.5
+RB,Zach,Line,,Bye,-,-,-,15,-,-,-,-,-,-,1.5
+RB,Cedric,Peerman,CIN,Bye,-,-,-,15,-,-,-,-,-,-,1.5
+RB,Jay,Prosch,HOU,Bye,-,-,-,9,-,6,-,-,-,-,1.5
+RB,Stepfan,Taylor,,Bye,-,-,-,12,-,-,-,-,-,-,1.2
+RB,Anthony,Sherman,KC,Bye,-,-,-,-,-,11,-,-,-,-,1.1
+RB,Lorenzo,Taliaferro,BAL,Bye,-,-,-,-,-,10,-,-,-,-,1
+RB,Joe,Banyard,BUF,Bye,-,-,-,7,-,-,-,-,-,-,0.7
+RB,Daryl,Richardson,,Bye,-,-,-,7,-,-,-,-,-,-,0.7
+RB,Rod,Smith,DAL,Bye,-,-,-,-,-,4,-,-,-,-,0.4
+RB,Marcus,Murphy,NYJ,Bye,-,-,-,-,-,3,-,-,-,-,0.3
+RB,Khiry,Robinson,,Bye,-,-,-,22,-,-,-,-,-,1,0.2
+RB,Dri,Archer,,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Zac,Brooks,,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Tra,Carson,CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,David,Cobb,,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,John,Crockett,OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Aaron,Green,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Glenn,Gronkowski,NE,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,C.J.,Ham,MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Austin,Johnson,TB,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Devon,Johnson,,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Storm,Johnson,MIA,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Will,Johnson,,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Tre,Madden,SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Keith,Marshall,WAS,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Tre,Mason,,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Branden,Oliver,LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Jhurrell,Pressley,ATL,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Darrin,Reaves,,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Bishop,Sankey,MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Kelvin,Taylor,ATL,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Karlos,Williams,,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,George,Winn,IND,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Glenn,Winston,,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Brandon,Burks,,Bye,-,-,-,-4,-,-,-,-,-,-,-0.4
+RB,Tyler,Ervin,HOU,Bye,-,-,-,3,-,18,-,-,-,2,-1.9
+RB,Matt,Breida,SF,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Chris,Carson,SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Corey,Clement,PHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Tarik,Cohen,CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,James,Conner,PIT,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Dalvin,Cook,MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,LeShun,Daniels,NE,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Justin,Davis,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Matt,Dayes,CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Austin,Ekeler,LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,D'Onta,Foreman,HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Leonard,Fournette,JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Wayne,Gallman,NYG,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Tion,Green,DET,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,De'Angelo,Henderson,DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Quayvon,Hicks,TB,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Brian,Hill,ATL,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Elijah,Hood,OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Kareem,Hunt,KC,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Aaron,Jones,GB,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Alvin,Kamara,NO,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,T.J.,Logan,ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Marshawn,Lynch,OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Marlon,Mack,IND,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Devante,Mays,GB,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Christian,McCaffrey,CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Elijah,McGuire,NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Jeremy,McNichols,TB,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Joe,Mixon,CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Khalfani,Muhammad,TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Dare,Ogunbowale,HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Samaje,Perine,WAS,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,DJ,Pumphrey,PHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Devine,Redding,KC,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Sam,Rogers,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,C.J.,Spiller,KC,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Daryl,Virgies,,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Jamaal,Williams,GB,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Joe,Williams,SF,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Marquez,Williams,JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
+RB,Brandon,Wilson,CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Mike,Evans,TB,Bye,-,-,-,-,-,1321,12,-,2,-,208.1
+WR,Jordy,Nelson,GB,Bye,-,-,-,-,-,1257,14,-,-,1,207.7
+WR,Antonio,Brown,PIT,Bye,-,-,-,9,-,1284,12,-,-,-,201.3
+WR,Odell,Beckham,NYG,Bye,-,-,-,9,-,1367,10,-,-,1,195.6
+WR,T.Y.,Hilton,IND,Bye,-,-,-,-,-,1448,6,-,1,-,182.8
+WR,Julio,Jones,ATL,Bye,-,-,-,-,-,1409,6,-,-,-,176.9
+WR,Davante,Adams,GB,Bye,-,-,-,-,-,997,12,-,1,1,171.7
+WR,Brandin,Cooks,NE,Bye,-,-,-,30,-,1173,8,-,-,-,168.3
+WR,Michael,Thomas,NO,Bye,-,-,-,-,-,1137,9,-,-,2,163.7
+WR,Doug,Baldwin,SEA,Bye,15,1,-,2,-,1128,7,-,-,-,159.6
+WR,Michael,Crabtree,OAK,Bye,-,-,-,-,-,1003,8,-,1,-,150.3
+WR,Amari,Cooper,OAK,Bye,-,-,-,-,-,1153,5,-,2,-,149.3
+WR,Tyrell,Williams,LAC,Bye,-,-,-,-,-,1059,7,-,-,-,147.9
+WR,Rishard,Matthews,TEN,Bye,-,-,-,-,-,945,9,-,-,1,146.5
+WR,Tyreek,Hill,KC,Bye,-,-,-,267,3,593,6,-,-,1,138
+WR,Jarvis,Landry,MIA,Bye,-,-,-,17,-,1136,4,-,1,2,137.3
+WR,Larry,Fitzgerald,ARI,Bye,-,-,-,5,-,1023,6,-,-,1,136.8
+WR,Terrelle,Pryor,WAS,Bye,41,-,-,21,1,1007,4,-,1,-,136.44
+WR,Demaryius,Thomas,DEN,Bye,-,-,-,-,-,1083,5,-,1,2,136.3
+WR,Kelvin,Benjamin,CAR,Bye,-,-,-,-,-,941,7,-,-,1,134.1
+WR,Emmanuel,Sanders,DEN,Bye,-,-,-,4,-,1032,5,-,-,-,133.6
+WR,Julian,Edelman,NE,Bye,-,-,-,57,-,1106,3,-,1,2,132.3
+WR,Golden,Tate,DET,Bye,-,-,-,4,-,1077,4,-,1,1,132.1
+WR,Mike,Wallace,BAL,Bye,-,-,-,31,-,1017,4,-,1,-,130.8
+WR,Dez,Bryant,DAL,Bye,10,1,-,-,-,796,8,-,-,1,130
+WR,Kenny,Britt,CLE,Bye,-,-,-,-,-,1002,5,-,-,1,128.2
+WR,Kenny,Stills,MIA,Bye,-,-,-,-,-,726,9,-,-,-,126.6
+WR,Allen,Robinson,JAX,Bye,-,-,-,-,-,883,6,-,1,-,126.3
+WR,Adam,Thielen,MIN,Bye,-,-,-,15,-,967,5,-,-,1,126.2
+WR,Jamison,Crowder,WAS,Bye,-,-,-,-2,-,847,7,-,-,1,124.5
+WR,DeSean,Jackson,TB,Bye,-,-,-,-,-,1005,4,-,-,-,124.5
+WR,Pierre,Garcon,SF,Bye,-,-,-,-,-,1041,3,-,-,-,122.1
+WR,Brandon,LaFell,CIN,Bye,-,-,-,-2,-,862,6,-,-,-,122
+WR,A.J.,Green,CIN,Bye,-,-,-,-,-,964,4,-,-,-,120.4
+WR,Willie,Snead,NO,Bye,50,1,-,-,-,895,4,-,-,-,119.5
+WR,DeAndre,Hopkins,HOU,Bye,-,-,-,-,-,954,4,-,-,-,119.4
+WR,Sterling,Shepard,NYG,Bye,-,-,-,31,-,683,8,-,-,-,119.4
+WR,Marvin,Jones,DET,Bye,-,-,-,3,-,930,4,-,-,-,117.3
+WR,Cole,Beasley,DAL,Bye,-,-,-,7,-,833,5,-,-,-,114
+WR,Cameron,Meredith,CHI,Bye,2,1,-,6,-,888,4,-,-,2,113.48
+WR,Quincy,Enunwa,NYJ,Bye,-,-,-,12,-,857,4,-,-,-,110.9
+WR,Marqise,Lee,JAX,Bye,20,1,-,35,-,851,3,-,-,1,109.4
+WR,Stefon,Diggs,MIN,Bye,-,-,-,10,-,903,3,-,-,-,109.3
+WR,Anquan,Boldin,BUF,Bye,-,-,-,-,-,584,8,-,-,-,106.4
+WR,J.J.,Nelson,ARI,Bye,-,-,-,83,1,568,6,-,-,1,105.1
+WR,Taylor,Gabriel,ATL,Bye,-,-,-,51,1,579,6,-,-,-,105
+WR,Ted,Ginn,NO,Bye,-,-,-,98,-,752,4,-,-,2,105
+WR,Dontrelle,Inman,LAC,Bye,-,-,-,-,-,810,4,-,-,-,105
+WR,Jordan,Matthews,BUF,Bye,-,-,-,-,-,804,3,-,-,-,98.4
+WR,DeVante,Parker,MIA,Bye,-,-,-,-,-,744,4,-,-,-,98.4
+WR,Brandon,Marshall,NYG,Bye,-,-,-,-,-,788,3,-,-,-,96.8
+WR,Alshon,Jeffery,PHI,Bye,-,-,-,-,-,821,2,-,-,-,94.1
+WR,Chris,Hogan,NE,Bye,-,-,-,9,-,680,4,-,-,1,90.9
+WR,Mohamed,Sanu,ATL,Bye,-,-,-,5,-,653,4,-,1,1,89.8
+WR,Tavon,Austin,LA,Bye,-,-,-,159,1,509,3,-,-,1,88.8
+WR,Randall,Cobb,GB,Bye,-,-,-,33,-,610,4,-,-,-,88.3
+WR,Travis,Benjamin,LAC,Bye,-,-,-,-3,-,677,4,-,-,3,85.4
+WR,Tyler,Lockett,SEA,Bye,-,-,-,114,1,597,1,-,-,-,83.1
+WR,Jeremy,Kerley,SF,Bye,-,-,-,-,-,667,3,-,-,1,82.7
+WR,Terrance,Williams,DAL,Bye,-,-,-,-,-,594,4,-,-,1,81.4
+WR,Michael,Floyd,MIN,Bye,-,-,-,-,-,488,5,-,-,-,78.8
+WR,Adam,Humphries,TB,Bye,-,-,-,18,-,622,2,-,1,-,78
+WR,Eli,Rogers,PIT,Bye,-,-,-,6,-,594,3,-,-,-,78
+WR,Will,Fuller,HOU,Bye,-,-,-,-3,-,635,2,-,-,-,75.2
+WR,Brian,Quick,WAS,Bye,-,-,-,-,-,564,3,-,-,-,74.4
+WR,Seth,Roberts,OAK,Bye,-,-,-,-,-,397,5,-,2,-,73.7
+WR,Robby,Anderson,NYJ,Bye,-,-,-,42,-,587,2,-,-,1,72.9
+WR,Donte,Moncrief,IND,Bye,-,-,-,-1,-,307,7,-,-,-,72.6
+WR,Tyler,Boyd,CIN,Bye,-,-,-,58,-,603,1,-,-,1,70.1
+WR,Breshad,Perriman,BAL,Bye,-,-,-,2,-,499,3,-,-,-,68.1
+WR,Robert,Woods,LA,Bye,-,-,-,6,-,613,1,-,-,-,67.9
+WR,Phillip,Dorsett,IND,Bye,-,-,-,10,-,528,2,-,-,-,65.8
+WR,Allen,Hurns,JAX,Bye,-,-,-,-,-,477,3,-,-,-,65.7
+WR,Jeremy,Maclin,BAL,Bye,-,-,-,-1,-,536,2,-,-,-,65.5
+WR,John,Brown,ARI,Bye,-,-,-,10,-,517,2,-,-,-,64.7
+WR,Tajae,Sharpe,TEN,Bye,-,-,-,1,-,522,2,-,-,-,64.3
+WR,Malcolm,Mitchell,NE,Bye,-,-,-,-,-,401,4,-,-,-,64.1
+WR,Devin,Funchess,CAR,Bye,-,-,-,-,-,371,4,-,1,-,63.1
+WR,Victor,Cruz,CHI,Bye,-,-,-,-,-,586,1,-,-,1,62.6
+WR,Cordarrelle,Patterson,OAK,Bye,-,-,-,43,-,453,2,-,-,-,61.6
+WR,Marquise,Goodwin,SF,Bye,-,-,-,-,-,431,3,-,-,-,61.1
+WR,Kendall,Wright,CHI,Bye,-,-,-,15,-,416,3,-,-,-,61.1
+WR,Corey,Coleman,CLE,Bye,-,-,-,10,-,413,3,-,-,-,60.3
+WR,Jermaine,Kearse,SEA,Bye,-,-,-,-,-,510,1,-,-,-,57
+WR,Sammie,Coates,PIT,Bye,-,-,-,14,-,435,2,-,-,-,56.9
+WR,Sammy,Watkins,LA,Bye,-,-,-,-,-,430,2,-,-,-,55
+WR,Chris,Conley,KC,Bye,-,-,-,-,-,530,-,-,-,-,53
+WR,Nelson,Agholor,PHI,Bye,-,-,-,14,-,365,2,-,1,-,51.9
+WR,Dorial,Green-Beckham,,Bye,-,-,-,-,-,392,2,-,-,-,51.2
+WR,Albert,Wilson,KC,Bye,-,-,-,50,1,279,2,-,-,-,50.9
+WR,Andrew,Hawkins,,Bye,-,-,-,-,-,324,3,-,-,-,50.4
+WR,Eddie,Royal,,Bye,-,-,-,-,-,369,2,-,-,-,48.9
+WR,Russell,Shepard,CAR,Bye,-,-,-,9,-,341,2,-,-,-,47
+WR,Danny,Amendola,NE,Bye,-,-,-,-,-,243,4,-,-,1,46.3
+WR,Brandon,Coleman,NO,Bye,-,-,-,-,-,281,3,-,-,-,46.1
+WR,Torrey,Smith,PHI,Bye,-,-,-,-,-,267,3,-,-,-,44.7
+WR,Justin,Hardy,ATL,Bye,-,-,-,-,-,203,4,-,-,-,44.3
+WR,Aldrick,Robinson,SF,Bye,-,-,-,-,-,323,2,-,-,-,44.3
+WR,Justin,Hunter,PIT,Bye,-,-,-,-,-,189,4,-,-,-,42.9
+WR,Quinton,Patton,,Bye,-,-,-,-,-,408,-,-,-,-,40.8
+WR,Brice,Butler,DAL,Bye,-,-,-,-,-,219,3,-,-,-,39.9
+WR,Kamar,Aiken,IND,Bye,-,-,-,-,-,328,1,-,-,-,38.8
+WR,Josh,Bellamy,CHI,Bye,-,-,-,37,-,282,1,-,-,-,37.9
+WR,Cobi,Hamilton,PIT,Bye,-,-,-,-,-,234,2,-,-,-,35.4
+WR,Darrius,Heyward-Bey,PIT,Bye,-,-,-,60,1,114,2,-,-,-,35.4
+WR,Paul,Richardson,SEA,Bye,-,-,-,5,-,288,1,-,-,-,35.3
+WR,Deonte,Thompson,CHI,Bye,-,-,-,-,-,249,2,-,-,1,34.9
+WR,Bryan,Walters,,Bye,-,-,-,4,-,231,2,-,-,1,33.5
+WR,Geronimo,Allison,GB,Bye,-,-,-,-,-,202,2,-,-,-,32.2
+WR,Corey,Brown,BUF,Bye,-,-,-,6,-,276,1,-,-,1,32.2
+WR,Eric,Decker,TEN,Bye,-,-,-,-,-,194,2,-,-,-,31.4
+WR,Rod,Streater,BUF,Bye,-,-,-,-,-,191,2,-,-,-,31.1
+WR,Jordan,Taylor,DEN,Bye,-,-,-,-,-,209,2,-,-,1,30.9
+WR,Andre,Holmes,BUF,Bye,-,-,-,-,-,126,3,-,-,-,30.6
+WR,Tanner,McEvoy,SEA,Bye,43,-,-,-,-,140,2,-,-,-,27.72
+WR,Chester,Rogers,IND,Bye,-,-,-,-,-,273,-,-,-,-,27.3
+WR,Bennie,Fowler,DEN,Bye,-,-,-,-,-,145,2,-,-,-,26.5
+WR,Jeff,Janis,GB,Bye,-,-,-,38,1,93,1,-,-,-,25.1
+WR,Jaron,Brown,ARI,Bye,-,-,-,-,-,187,1,-,-,-,24.7
+WR,Charone,Peake,NYJ,Bye,-,-,-,-,-,186,-,1,-,-,24.6
+WR,Jalin,Marshall,NYJ,Bye,-,-,-,-,-,162,2,-,-,2,24.2
+WR,Charles,Johnson,CAR,Bye,-,-,-,-,-,232,-,-,-,-,23.2
+WR,Jordan,Norwood,,Bye,-,-,-,-,-,232,1,-,-,3,23.2
+WR,Andre,Roberts,ATL,Bye,-,-,-,-,-,188,1,-,-,1,22.8
+WR,Marquess,Wilson,NYJ,Bye,-,-,-,-,-,160,1,-,-,-,22
+WR,Roger,Lewis,NYG,Bye,-,-,-,-,-,97,2,-,-,-,21.7
+WR,Harry,Douglas,TEN,Bye,-,-,-,-,-,210,-,-,-,-,21
+WR,Ricardo,Louis,CLE,Bye,-,-,-,-,-,205,-,-,-,-,20.5
+WR,Freddie,Martino,TB,Bye,-,-,-,-,-,142,1,-,-,-,20.2
+WR,Cody,Core,CIN,Bye,-,-,-,-,-,200,-,-,-,-,20
+WR,Kevin,White,CHI,Bye,-,-,-,9,-,187,-,-,-,-,19.6
+WR,Josh,Huff,TB,Bye,-,-,-,15,-,113,1,-,-,-,18.8
+WR,Vincent,Jackson,,Bye,-,-,-,-,-,173,-,-,-,-,17.3
+WR,Brandon,Tate,BUF,Bye,-,-,-,48,-,117,-,-,-,-,16.5
+WR,Braxton,Miller,HOU,Bye,-,-,-,-,-,99,1,-,-,-,15.9
+WR,Cecil,Shorts,,Bye,-,-,-,-,-,152,-,-,-,-,15.2
+WR,Walt,Powell,BUF,Bye,-,-,-,-,-,142,-,-,-,-,14.2
+WR,Chris,Harper,NYJ,Bye,-,-,-,-,-,133,-,-,-,-,13.3
+WR,Jaelen,Strong,HOU,Bye,-,-,-,-,-,131,-,-,-,-,13.1
+WR,Markus,Wheaton,CHI,Bye,-,-,-,-,-,51,1,-,1,-,13.1
+WR,Jarius,Wright,MIN,Bye,-,-,-,-,-,67,1,-,-,-,12.7
+WR,Paul,Turner,PHI,Bye,-,-,-,-,-,126,-,-,-,-,12.6
+WR,Brittan,Golden,ARI,Bye,-,-,-,-,-,82,1,-,-,1,12.2
+WR,Lucky,Whitehead,NYJ,Bye,-,-,-,82,-,48,-,-,-,1,11
+WR,DeMarcus,Ayers,PIT,Bye,-,-,-,-12,-,53,1,-,-,-,10.1
+WR,James,Wright,CLE,Bye,-,-,-,-6,-,106,-,-,-,-,10
+WR,Jeremy,Ross,ARI,Bye,-,-,-,-,-,37,1,-,-,-,9.7
+WR,T.J.,Jones,DET,Bye,-,-,-,-,-,93,-,-,-,-,9.3
+WR,Leonte,Carroo,MIA,Bye,-,-,-,-,-,29,1,-,-,-,8.9
+WR,Tommylee,Lewis,NO,Bye,-,-,-,11,-,76,-,-,-,-,8.7
+WR,Bryce,Treggs,PHI,Bye,-,-,-,7,-,80,-,-,-,-,8.7
+WR,Pharoh,Cooper,LA,Bye,-,-,1,-,-,106,-,-,-,-,8.6
+WR,Rashard,Higgins,CLE,Bye,-,-,-,-,-,77,-,-,-,-,7.7
+WR,Ryan,Grant,WAS,Bye,-,-,-,-,-,76,-,-,-,-,7.6
+WR,Cody,Latimer,DEN,Bye,-,-,-,-,-,76,-,-,-,-,7.6
+WR,Byron,Marshall,PHI,Bye,-,-,-,64,-,10,-,-,-,-,7.4
+WR,Michael,Campanaro,BAL,Bye,-,-,-,72,-,-,-,-,-,-,7.2
+WR,Alex,Erickson,CIN,Bye,-,-,-,-,-,71,-,-,-,-,7.1
+WR,Keith,Mumphery,,Bye,-,-,-,-,-,69,-,-,-,-,6.9
+WR,Aaron,Burbridge,SF,Bye,-,-,-,-,-,88,-,-,-,1,6.8
+WR,Josh,Doctson,WAS,Bye,-,-,-,-,-,66,-,-,-,-,6.6
+WR,Maurice,Harris,WAS,Bye,-,-,-,-,-,66,-,-,-,-,6.6
+WR,Chris,Moore,BAL,Bye,-,-,-,19,-,46,-,-,-,-,6.5
+WR,Trevor,Davis,GB,Bye,-,-,-,-,-,24,1,-,-,1,6.4
+WR,De'Anthony,Thomas,KC,Bye,-,-,-,29,-,35,-,-,-,-,6.4
+WR,Keenan,Allen,LAC,Bye,-,-,-,-,-,63,-,-,-,-,6.3
+WR,Nick,Williams,ATL,Bye,-,-,-,-,-,59,-,-,-,-,5.9
+WR,Johnny,Holton,OAK,Bye,-,-,-,43,-,34,-,-,-,1,5.7
+WR,Dwayne,Harris,NYG,Bye,-,-,-,-,-,13,1,-,-,1,5.3
+WR,Tavarres,King,NYG,Bye,-,-,-,-,-,50,-,-,-,-,5
+WR,Quan,Bray,IND,Bye,-,-,-,7,-,36,-,-,-,-,4.3
+WR,Bradley,Marquez,LAI,Bye,-,-,-,2,-,37,-,-,-,-,3.9
+WR,Dexter,McCluster,,Bye,-,-,-,2,-,36,-,-,-,-,3.8
+WR,DeAndre,Smelter,SF,Bye,-,-,-,-,-,23,-,-,-,-,2.3
+WR,Devin,Smith,NYJ,Bye,-,-,-,-,-,20,-,-,-,-,2
+WR,Devin,Street,HOU,Bye,-,-,-,-,-,20,-,-,-,-,2
+WR,Brenton,Bersin,CAR,Bye,-,-,-,-,-,17,-,-,-,-,1.7
+WR,Mike,Thomas,LA,Bye,-,-,-,-,-,37,-,-,-,1,1.7
+WR,Marc,Mariani,,Bye,-,-,-,15,-,-,-,-,-,-,1.5
+WR,Laquon,Treadwell,MIN,Bye,-,-,-,-,-,15,-,-,-,-,1.5
+WR,Rashad,Greene,JAX,Bye,-,-,-,-,-,32,-,-,-,1,1.2
+WR,Jeremy,Butler,BUF,Bye,-,-,-,-,-,11,-,-,-,-,1.1
+WR,Rashad,Ross,BUF,Bye,-,-,-,-,-,8,-,-,-,-,0.8
+WR,Jordan,Payton,CLE,Bye,-,-,-,-,-,3,-,-,-,-,0.3
+WR,Mario,Alford,CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Stedman,Bailey,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Kenny,Bell,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Jace,Billingsley,DET,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Justin,Blackmon,JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Moritz,Boehringer,MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Josh,Boyce,CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Daniel,Braverman,CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Da'Ron,Brown,LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Marlon,Brown,DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Martavis,Bryant,PIT,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Isaiah,Burse,LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Geremy,Davis,LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Donteea,Dye,TB,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Marcus,Easley,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Bruce,Ellington,HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Corey,Fuller,NO,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Devin,Fuller,ATL,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Keyarris,Garrett,CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Josh,Gordon,CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Frankie,Hammond,NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Matt,Hazel,WAS,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Javontee,Herndon,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Chris,Hubert,ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Darius,Jennings,TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Steve,Johnson,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Andy,Jones,DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Seantavius,Jones,KC,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Jonathan,Krause,TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Jake,Lampman,NO,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Kenny,Lawler,SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Dezmin,Lewis,BUF,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Kolby,Listenbee,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Devin,Lucien,NE,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Chris,Matthews,BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Vince,Mayle,BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Tre,McBride,TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Mekale,McKay,TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Marquez,North,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Kevin,Norwood,NYG,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Keenan,Reynolds,BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Demarcus,Robinson,KC,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Eric,Rogers,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Tevaun,Smith,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Nelson,Spruce,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Eric,Weems,TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Myles,White,NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Matthew,Slater,NE,Bye,-,-,-,5,-,-,-,-,-,1,-1.5
+WR,Jakeem,Grant,MIA,Bye,-,-,-,1,-,-,-,-,-,1,-1.9
+WR,Jared,Abbrederis,DET,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Rodney,Adams,MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Quincy,Adeboyejo,BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Donnie,Avery,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Arrelious,Benn,JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Harvey,Binford,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Noah,Brown,DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Marquis,Bundy,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Damiere,Byrd,CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Andre,Caldwell,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Austin,Carr,NE,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Jehu,Chesson,KC,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Stacy,Coley,MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Amara,Darboh,SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Corey,Davis,TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Robert,Davis,WAS,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Malachi,Dupre,GB,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Travin,Dural,NO,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Amba,Etta-Tawo,JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Isaiah,Ford,MIA,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Tanner,Gentry,CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Shelton,Gibson,PHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Chris,Godwin,TB,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Kenny,Golladay,DET,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Cyril,Grayson,SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Marvin,Hall,ATL,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Rannell,Hall,CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Chad,Hansen,NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Keon,Hatcher,OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Carlos,Henderson,DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Krishawn,Hogan,ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Mack,Hollins,PHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Zay,Jones,BUF,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Cooper,Kupp,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Josh,Malone,CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Isaiah,McKenzie,DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,David,Moore,SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Brandon,Reilly,BUF,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Josh,Reynolds,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Fred,Ross,CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,John,Ross,CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Curtis,Samuel,CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Garrett,Scantling,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,JuJu,Smith-Schuster,PIT,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,ArDarius,Stewart,NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Damore'ea,Stringfellow,MIA,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Ryan,Switzer,DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Taywan,Taylor,TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Trent,Taylor,SF,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Kendal,Thompson,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,David,Watford,PHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Dede,Westbrook,JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Jordan,Westerkamp,,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Griff,Whalen,BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Chad,Williams,ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Kasen,Williams,SEA,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Mike,Williams,LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Wendall,Williams,HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,DeAngelo,Yancey,GB,Bye,-,-,-,-,-,-,-,-,-,-,0
+WR,Ishmael,Zamora,OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Travis,Kelce,KC,Bye,-,-,-,-5,-,1125,4,-,1,-,138
+TE,Greg,Olsen,CAR,Bye,-,-,-,-,-,1073,3,-,1,-,127.3
+TE,Kyle,Rudolph,MIN,Bye,-,-,-,-,-,840,7,-,-,-,126
+TE,Jimmy,Graham,SEA,Bye,-,-,-,-,-,923,6,-,-,2,124.3
+TE,Delanie,Walker,TEN,Bye,-,-,-,11,-,800,7,-,-,-,123.1
+TE,Cameron,Brate,TB,Bye,-,-,-,-,-,660,8,-,-,-,114
+TE,Martellus,Bennett,GB,Bye,-,-,-,10,-,701,7,-,-,-,113.1
+TE,Zach,Ertz,PHI,Bye,-,-,-,-,-,816,4,-,-,-,105.6
+TE,Jordan,Reed,WAS,Bye,-,-,-,-,-,686,6,-,-,1,102.6
+TE,Antonio,Gates,LAC,Bye,-,-,-,-,-,548,7,-,-,1,94.8
+TE,Hunter,Henry,LAC,Bye,-,-,-,-,-,478,8,-,-,1,93.8
+TE,Coby,Fleener,NO,Bye,-,-,-,2,1,631,3,-,-,-,87.3
+TE,Jack,Doyle,IND,Bye,-,-,-,-,-,584,5,-,-,1,86.4
+TE,Jason,Witten,DAL,Bye,-,-,-,-,-,673,3,-,-,1,83.3
+TE,Eric,Ebron,DET,Bye,-,-,-,1,1,711,1,-,-,-,83.2
+TE,Dennis,Pitta,,Bye,-,-,-,-,-,729,2,-,-,1,82.9
+TE,C.J.,Fiedorowicz,HOU,Bye,-,-,-,-,-,559,4,-,-,-,79.9
+TE,Charles,Clay,BUF,Bye,-,-,-,-,-,552,4,-,-,-,79.2
+TE,Dwayne,Allen,NE,Bye,-,-,-,-,-,406,6,-,1,-,78.6
+TE,Gary,Barnidge,,Bye,-,-,-,-,-,612,2,-,1,-,75.2
+TE,Zach,Miller,CHI,Bye,-,-,-,-,-,486,4,-,-,-,72.6
+TE,Rob,Gronkowski,NE,Bye,-,-,-,-,-,540,3,-,-,-,72
+TE,Vernon,Davis,WAS,Bye,-,-,-,-,-,583,2,-,-,-,70.3
+TE,Tyler,Eifert,CIN,Bye,-,-,-,-,-,394,5,-,-,-,69.4
+TE,Vance,McDonald,SF,Bye,-,-,-,-,-,391,4,-,-,-,63.1
+TE,Lance,Kendricks,GB,Bye,-,-,-,-,-,499,2,-,-,1,59.9
+TE,Ryan,Griffin,HOU,Bye,-,-,-,-,-,442,2,-,-,1,54.2
+TE,Clive,Walford,OAK,Bye,-,-,-,-,-,359,3,-,-,-,53.9
+TE,Julius,Thomas,MIA,Bye,-,-,-,-,-,281,4,-,-,-,52.1
+TE,Jesse,James,PIT,Bye,-,-,-,-,-,338,3,-,-,-,51.8
+TE,Jermaine,Gresham,ARI,Bye,-,-,-,-,-,391,2,-,-,-,51.1
+TE,Garrett,Celek,SF,Bye,-,-,-,-,-,350,3,-,-,1,51
+TE,Dion,Sims,CHI,Bye,-,-,-,-,-,256,4,-,-,-,49.6
+TE,Will,Tye,NYG,Bye,-,-,-,-,-,395,1,-,-,-,45.5
+TE,Austin,Hooper,ATL,Bye,-,-,-,-,-,271,3,-,-,-,45.1
+TE,Jared,Cook,OAK,Bye,-,-,-,-,-,377,1,-,-,1,41.7
+TE,Richard,Rodgers,GB,Bye,-,-,-,-,-,271,2,-,-,-,39.1
+TE,Jacob,Tamme,,Bye,-,-,-,-,-,210,3,-,-,-,39
+TE,Trey,Burton,PHI,Bye,-,-,-,-,-,327,1,-,-,-,38.7
+TE,Levine,Toilolo,ATL,Bye,-,-,-,-,-,264,2,-,-,-,38.4
+TE,Ladarius,Green,,Bye,-,-,-,-,-,304,1,-,-,-,36.4
+TE,Erik,Swoope,IND,Bye,-,-,-,-,-,297,1,-,-,-,35.7
+TE,Virgil,Green,DEN,Bye,-,-,-,-,-,237,1,-,-,-,29.7
+TE,C.J.,Uzomah,CIN,Bye,-,-,-,-,-,234,1,-,-,-,29.4
+TE,Mychal,Rivera,JAX,Bye,-,-,-,-,-,192,1,-,-,-,25.2
+TE,Luke,Willson,SEA,Bye,-,-,-,-,-,129,2,-,-,-,24.9
+TE,Seth,DeValve,CLE,Bye,-,-,-,-,-,127,2,-,-,-,24.7
+TE,Xavier,Grimble,PIT,Bye,-,-,-,-,-,118,2,-,-,-,23.8
+TE,Marcedes,Lewis,JAX,Bye,-,-,-,-,-,169,1,-,-,-,22.9
+TE,Ben,Koyack,JAX,Bye,-,-,-,-,-,161,1,-,-,-,22.1
+TE,Darren,Fells,DET,Bye,-,-,-,-,-,154,1,-,-,-,21.4
+TE,Austin,Seferian-Jenkins,NYJ,Bye,-,-,-,-,-,154,1,-,-,-,21.4
+TE,Josh,Hill,NO,Bye,-,-,-,-,-,149,1,-,-,-,20.9
+TE,Darren,Waller,BAL,Bye,-,-,-,-,-,85,2,-,-,-,20.5
+TE,Anthony,Fasano,MIA,Bye,-,-,-,-,-,83,2,-,-,-,20.3
+TE,Demetrius,Harris,KC,Bye,-,-,-,-,-,123,1,-,1,-,20.3
+TE,Ed,Dickson,CAR,Bye,-,-,-,-,-,134,1,-,-,-,19.4
+TE,Daniel,Brown,CHI,Bye,-,-,-,-,-,124,1,-,-,-,18.4
+TE,Jerell,Adams,NYG,Bye,-,-,-,-,-,122,1,-,-,-,18.2
+TE,MarQueis,Gray,MIA,Bye,-,-,-,-,-,174,-,-,-,-,17.4
+TE,Brent,Celek,PHI,Bye,-,-,-,-,-,155,-,-,-,-,15.5
+TE,Stephen,Anderson,HOU,Bye,-,-,-,-,-,93,1,-,-,-,15.3
+TE,Tyler,Higbee,LA,Bye,-,-,-,-,-,85,1,-,-,-,14.5
+TE,Jeff,Heuerman,DEN,Bye,-,-,-,-,-,141,-,-,-,-,14.1
+TE,A.J.,Derby,DEN,Bye,-,-,-,-,-,160,-,-,-,1,14
+TE,Brandon,Myers,,Bye,-,-,-,-,-,59,1,-,1,-,13.9
+TE,Nick,O'Leary,BUF,Bye,-,-,-,-,-,114,-,-,1,-,13.4
+TE,Larry,Donnell,BAL,Bye,-,-,-,-,-,92,1,-,-,1,13.2
+TE,John,Phillips,NO,Bye,-,-,-,-,-,72,1,-,-,-,13.2
+TE,Crockett,Gillmore,BAL,Bye,-,-,-,-,-,71,1,-,-,-,13.1
+TE,Dominique,Jones,,Bye,-,-,-,-,-,61,1,-,-,-,12.1
+TE,Rhett,Ellison,NYG,Bye,-,-,-,1,1,57,-,-,-,-,11.8
+TE,Neal,Sterling,JAX,Bye,-,-,-,-,-,110,-,-,-,-,11
+TE,Josh,Perkins,ATL,Bye,-,-,-,-,-,42,1,-,-,-,10.2
+TE,David,Johnson,PIT,Bye,-,-,-,-,-,80,-,-,1,-,10
+TE,Tyler,Kroft,CIN,Bye,-,-,-,-,-,92,-,-,-,-,9.2
+TE,Gavin,Escobar,KC,Bye,-,-,-,-,-,30,1,-,-,-,9
+TE,Blake,Bell,SF,Bye,-,-,-,-,-,85,-,-,-,-,8.5
+TE,Matt,Lengel,NE,Bye,-,-,-,-,-,22,1,-,-,-,8.2
+TE,Geoff,Swaim,DAL,Bye,-,-,-,-,-,69,-,-,-,-,6.9
+TE,Brandon,Bostick,,Bye,-,-,-,-,-,63,-,-,-,-,6.3
+TE,Phillip,Supernaw,TEN,Bye,-,-,-,-,-,62,-,-,-,-,6.2
+TE,Jace,Amaro,TEN,Bye,-,-,-,-,-,59,-,-,-,-,5.9
+TE,Ifeanyi,Momah,ARI,Bye,-,-,-,-,-,50,-,-,-,-,5
+TE,Nick,Boyle,BAL,Bye,-,-,-,-,-,44,-,-,-,-,4.4
+TE,Ben,Braunecker,CHI,Bye,-,-,-,-,-,41,-,-,-,-,4.1
+TE,Brandon,Williams,IND,Bye,-,-,-,-,-,36,-,-,-,-,3.6
+TE,Justin,Perillo,,Bye,-,-,-,-,-,35,-,-,-,-,3.5
+TE,Nick,Vannett,SEA,Bye,-,-,-,-,-,32,-,-,-,-,3.2
+TE,Lee,Smith,OAK,Bye,-,-,-,-,-,29,-,-,-,-,2.9
+TE,Niles,Paul,WAS,Bye,-,-,-,-,-,27,-,-,-,-,2.7
+TE,Sean,McGrath,LAC,Bye,-,-,-,-,-,25,-,-,-,-,2.5
+TE,Luke,Stocker,TB,Bye,-,-,-,-,-,23,-,-,-,-,2.3
+TE,Clay,Harbor,NO,Bye,-,-,-,-,-,19,-,-,-,-,1.9
+TE,Cole,Wick,DET,Bye,-,-,-,-,-,18,-,-,-,-,1.8
+TE,Logan,Paulsen,SF,Bye,-,-,-,-,-,15,-,-,-,-,1.5
+TE,Gerald,Christian,ARI,Bye,-,-,-,-,-,14,-,-,-,-,1.4
+TE,Ryan,Hewitt,CIN,Bye,-,-,-,-,-,13,-,-,-,-,1.3
+TE,MyCole,Pruitt,CHI,Bye,-,-,-,-,-,13,-,-,-,-,1.3
+TE,Derek,Carrier,WAS,Bye,-,-,-,-,-,10,-,-,-,-,1
+TE,Chris,Manhertz,CAR,Bye,-,-,-,-,-,10,-,-,-,-,1
+TE,Matthew,Mulligan,,Bye,-,-,-,-,-,8,-,-,-,-,0.8
+TE,David,Morgan,MIN,Bye,-,-,-,-,-,4,-,-,-,-,0.4
+TE,Randall,Telfer,CLE,Bye,-,-,-,-,-,4,-,-,-,-,0.4
+TE,RaShaun,Allen,HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Rory,Anderson,BUF,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,David,Ausberry,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Kennard,Backman,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,E.J.,Bibbs,WAS,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Asante,Cleveland,LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Jeff,Cumberland,LAC,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Jerome,Cunningham,TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Kellen,Davis,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Dorin,Dickerson,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Jim,Dray,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Thomas,Duarte,MIA,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Rico,Gathers,DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Chris,Gragg,NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,James,Hanna,DAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Cory,Harkey,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Cooper,Helfet,OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Temarrick,Hemingway,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Michael,Hoomanawanui,NO,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Brian,Leonhardt,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Troy,Niklas,ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Ryan,O'Malley,OAK,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Beau,Sandland,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Wes,Saxton,BUF,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Greg,Scruggs,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Jake,Stoneburner,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Hakeem,Valles,ARI,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Benjamin,Watson,BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Maxx,Williams,BAL,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Michael,Williams,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Timothy,Wright,DET,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,James,O'Shaughnessy,NE,Bye,-,-,-,-,-,-1,-,-,-,-,-0.1
+TE,Mo,Alie-Cox,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Chris,Briggs,,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Jake,Butt,DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Evan,Engram,NYG,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Gerald,Everett,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Garrett,Griffin,NO,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Bucky,Hodges,MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,O.J.,Howard,TB,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,George,Kittle,SF,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Jordan,Leggett,NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Jake,McGee,PIT,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,David,Njoku,CLE,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Michael,Roberts,DET,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Eric,Saubert,ATL,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Mason,Schreck,CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Adam,Shaheen,CHI,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Jonnu,Smith,TEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Jeremy,Sprinkle,WAS,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Austin,Traylor,DEN,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Nick,Truesdell,MIN,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Eric,Wallace,CAR,Bye,-,-,-,-,-,-,-,-,-,-,0
+TE,Travis,Wilson,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
