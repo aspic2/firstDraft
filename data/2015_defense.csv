@@ -1,0 +1,36 @@
+﻿Position,Team,Opp,"Tackles
+_Sack","Turnover 
+_Int","Turnover 
+_Fum_Rec",Score_Saf,Score_TD,Score_Def_2pt_Ret,Ret_TD,Points_Pts_Allow,Fantasy_Points
+DEF,Denver BroncosDEFView Videos,BAL,52,14,13,1,5,-,1,276,175
+DEF,Kansas City ChiefsDEFView Videos,@HOU,47,22,7,1,6,-,-,275,174
+DEF,Carolina PanthersDEFView Videos,@JAX,44,24,15,-,4,-,-,298,167
+DEF,Arizona CardinalsDEFView Videos,NO,35,18,14,2,6,-,1,280,158
+DEF,Houston TexansDEFView Videos,KC,45,14,11,-,3,-,-,295,149
+DEF,Pittsburgh SteelersDEFView Videos,@NE,48,17,13,-,2,-,1,319,145
+DEF,Seattle SeahawksDEFView Videos,@LA,35,14,5,-,2,-,1,212,140
+DEF,Minnesota VikingsDEFView Videos,@SF,43,13,9,-,3,-,3,300,139
+DEF,New England PatriotsDEFView Videos,PIT,49,12,9,1,2,-,-,303,131
+DEF,Washington RedskinsDEFView Videos,MIA,38,11,16,1,3,-,2,357,131
+DEF,Philadelphia EaglesDEFView Videos,@ATL,37,15,11,1,5,-,2,412,130
+DEF,Indianapolis ColtsDEFView Videos,@BUF,35,17,8,1,5,-,-,402,121
+DEF,Cincinnati BengalsDEFView Videos,@OAK,41,18,7,-,-,-,-,254,119
+DEF,Green Bay PackersDEFView Videos,@CHI,43,16,6,-,2,-,-,303,119
+DEF,New York JetsDEFView NewsView Videos,CLE,39,18,12,-,-,-,-,308,115
+DEF,New York GiantsDEFView Videos,@DAL,23,15,13,1,4,-,2,424,111
+DEF,Tampa Bay BuccaneersDEFView Videos,TEN,36,11,12,-,3,-,-,362,102
+DEF,Oakland RaidersDEFView NewsView Videos,CIN,38,14,11,2,1,-,-,377,101
+DEF,Buffalo BillsDEFView Videos,IND,21,17,8,1,3,-,-,347,98
+DEF,Miami DolphinsDEFView Videos,@WAS,31,13,3,-,3,-,1,369,94
+DEF,Jacksonville JaguarsDEFView NewsView Videos,CAR,36,9,9,-,3,-,1,406,93
+DEF,Detroit LionsDEFView Videos,@LAC,42,8,9,2,2,-,-,373,93
+DEF,Baltimore RavensDEFView Videos,@DEN,37,6,8,-,3,-,1,371,93
+DEF,Atlanta FalconsDEFView Videos,PHI,19,15,8,-,3,-,-,339,92
+DEF,Tennessee TitansDEFView Videos,@TB,39,11,8,-,2,-,-,393,87
+DEF,Los Angeles ChargersDEFView Videos,DET,32,11,9,-,1,-,-,366,83
+DEF,Cleveland BrownsDEFView Videos,@NYJ,27,11,9,-,2,-,1,402,79
+DEF,Dallas CowboysDEFView Videos,NYG,31,8,3,1,2,-,-,344,77
+DEF,New Orleans SaintsDEFView Videos,@ARI,31,9,13,-,2,1,1,464,76
+DEF,Chicago BearsDEFView Videos,GB,34,7,8,-,-,-,-,360,66
+DEF,San Francisco 49ersDEFView Videos,MIN,28,9,2,-,1,-,-,346,62
+DEF,Los Angeles RamsDEFView Videos,SEA,12,7,2,-,-,-,-,110,37
