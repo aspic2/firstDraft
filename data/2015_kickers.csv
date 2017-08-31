@@ -16,7 +16,7 @@ K,Adam,Vinatieri,IND,@BUF,32,-,7,6,8,4,115
 K,Josh,Lambo,LAC,DET,28,-,4,7,11,4,114
 K,Chandler,Catanzaro,NYJ,NO,49,1,8,7,5,-,112
 K,Matt,Prater,DET,@LAC,34,-,3,8,6,5,110
-K,Dan,Carpenter,Free,IND,34,-,5,8,7,3,109
+K,Dan,#VALUE!,Free,IND,34,-,5,8,7,3,109
 K,Sebastian,Janikowski,OAK,CIN,38,-,7,5,5,4,109
 K,Caleb,Sturgis,PHI,@ATL,35,-,4,8,4,2,93
 K,Phil,Dawson,ARI,MIN,20,-,8,6,6,2,90

@@ -1,36 +1,33 @@
-﻿Position,Team,Opp,"Tackles
-_Sack","Turnover 
-_Int","Turnover 
-_Fum_Rec",Score_Saf,Score_TD,Score_Def_2pt_Ret,Ret_TD,Points_Pts_Allow,Fantasy_Points
-DEF,Denver BroncosDEFView Videos,BAL,52,14,13,1,5,-,1,276,175
-DEF,Kansas City ChiefsDEFView Videos,@HOU,47,22,7,1,6,-,-,275,174
-DEF,Carolina PanthersDEFView Videos,@JAX,44,24,15,-,4,-,-,298,167
-DEF,Arizona CardinalsDEFView Videos,NO,35,18,14,2,6,-,1,280,158
-DEF,Houston TexansDEFView Videos,KC,45,14,11,-,3,-,-,295,149
-DEF,Pittsburgh SteelersDEFView Videos,@NE,48,17,13,-,2,-,1,319,145
-DEF,Seattle SeahawksDEFView Videos,@LA,35,14,5,-,2,-,1,212,140
-DEF,Minnesota VikingsDEFView Videos,@SF,43,13,9,-,3,-,3,300,139
-DEF,New England PatriotsDEFView Videos,PIT,49,12,9,1,2,-,-,303,131
-DEF,Washington RedskinsDEFView Videos,MIA,38,11,16,1,3,-,2,357,131
-DEF,Philadelphia EaglesDEFView Videos,@ATL,37,15,11,1,5,-,2,412,130
-DEF,Indianapolis ColtsDEFView Videos,@BUF,35,17,8,1,5,-,-,402,121
-DEF,Cincinnati BengalsDEFView Videos,@OAK,41,18,7,-,-,-,-,254,119
-DEF,Green Bay PackersDEFView Videos,@CHI,43,16,6,-,2,-,-,303,119
-DEF,New York JetsDEFView NewsView Videos,CLE,39,18,12,-,-,-,-,308,115
-DEF,New York GiantsDEFView Videos,@DAL,23,15,13,1,4,-,2,424,111
-DEF,Tampa Bay BuccaneersDEFView Videos,TEN,36,11,12,-,3,-,-,362,102
-DEF,Oakland RaidersDEFView NewsView Videos,CIN,38,14,11,2,1,-,-,377,101
-DEF,Buffalo BillsDEFView Videos,IND,21,17,8,1,3,-,-,347,98
-DEF,Miami DolphinsDEFView Videos,@WAS,31,13,3,-,3,-,1,369,94
-DEF,Jacksonville JaguarsDEFView NewsView Videos,CAR,36,9,9,-,3,-,1,406,93
-DEF,Detroit LionsDEFView Videos,@LAC,42,8,9,2,2,-,-,373,93
-DEF,Baltimore RavensDEFView Videos,@DEN,37,6,8,-,3,-,1,371,93
-DEF,Atlanta FalconsDEFView Videos,PHI,19,15,8,-,3,-,-,339,92
-DEF,Tennessee TitansDEFView Videos,@TB,39,11,8,-,2,-,-,393,87
-DEF,Los Angeles ChargersDEFView Videos,DET,32,11,9,-,1,-,-,366,83
-DEF,Cleveland BrownsDEFView Videos,@NYJ,27,11,9,-,2,-,1,402,79
-DEF,Dallas CowboysDEFView Videos,NYG,31,8,3,1,2,-,-,344,77
-DEF,New Orleans SaintsDEFView Videos,@ARI,31,9,13,-,2,1,1,464,76
-DEF,Chicago BearsDEFView Videos,GB,34,7,8,-,-,-,-,360,66
-DEF,San Francisco 49ersDEFView Videos,MIN,28,9,2,-,1,-,-,346,62
-DEF,Los Angeles RamsDEFView Videos,SEA,12,7,2,-,-,-,-,110,37
+﻿Season,Pos,TeamName,Opp,Tackles_Sack,Turnover_Int,Turnover_Fum_Rec,Score_Saf,Score_TD,Score_Def_2pt_Ret,Ret_TD,Points_Pts_Allow,Fantasy_Points
+2015,DEF,Kansas City Chiefs,LAC,28,18,15,1,5,1,3,305,166
+2015,DEF,Minnesota Vikings,@TEN,41,14,13,1,4,-,3,307,156
+2015,DEF,Denver Broncos,CAR,42,14,13,-,4,1,-,287,151
+2015,DEF,Arizona Cardinals,NE,48,14,14,2,3,-,-,342,144
+2015,DEF,New York Giants,@DAL,35,17,8,-,4,-,-,276,139
+2015,DEF,Philadelphia Eagles,CLE,34,16,10,1,3,-,2,331,137
+2015,DEF,Tampa Bay Buccaneers,@ATL,38,17,12,1,4,-,-,353,133
+2015,DEF,New England Patriots,@ARI,34,13,10,3,-,-,-,250,123
+2015,DEF,Carolina Panthers,@DEN,47,17,10,1,3,-,-,376,122
+2015,DEF,Baltimore Ravens,BUF,31,18,10,-,2,1,-,317,121
+2015,DEF,Los Angeles Chargers,@KC,35,18,10,1,5,-,-,397,120
+2015,DEF,Seattle Seahawks,MIA,42,11,8,1,1,-,-,290,113
+2015,DEF,Miami Dolphins,@SEA,33,16,9,-,2,1,2,374,112
+2015,DEF,Atlanta Falcons,TB,34,12,10,-,5,-,-,392,109
+2015,DEF,Pittsburgh Steelers,@WAS,38,13,10,1,1,-,-,327,104
+2015,DEF,Buffalo Bills,@BAL,39,12,6,-,3,-,-,376,102
+2015,DEF,Green Bay Packers,@JAX,40,17,8,-,-,-,-,382,100
+2015,DEF,Houston Texans,CHI,31,11,6,1,1,-,1,322,95
+2015,DEF,Tennessee Titans,MIN,40,12,6,-,1,-,-,340,95
+2015,DEF,Washington Redskins,PIT,38,13,8,-,-,-,1,365,93
+2015,DEF,Cincinnati Bengals,@NYJ,33,17,3,1,-,-,-,313,92
+2015,DEF,Oakland Raiders,@NO,25,16,14,-,1,-,-,385,92
+2015,DEF,Dallas Cowboys,NYG,36,9,11,-,-,-,-,306,91
+2015,DEF,Los Angeles Rams,@SF,31,10,8,-,1,-,-,358,89
+2015,DEF,Indianapolis Colts,DET,33,8,9,-,1,-,1,372,85
+2015,DEF,Detroit Lions,Bye,26,10,4,2,1,-,2,352,84
+2015,DEF,Chicago Bears,Bye,37,8,3,1,2,-,1,385,83
+2015,DEF,Jacksonville Jaguars,Bye,33,7,6,-,1,-,1,380,69
+2015,DEF,New York Jets,Bye,27,8,6,-,1,-,-,385,66
+2015,DEF,San Francisco 49ers,Bye,33,10,10,1,-,-,-,470,61
+2015,DEF,New Orleans Saints,Bye,30,9,12,1,-,-,-,428,55
+2015,DEF,Cleveland Browns,Bye,26,10,3,-,1,-,-,434,48

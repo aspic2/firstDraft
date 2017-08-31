@@ -1,33 +1,33 @@
-Position,Name,Opp,Tackles_Sack,Turnover_Int,Turnover_Fum_Rec,Score_Saf,Score_TD,Score_Def_2pt_Ret,Ret_TD,Points_Pts_Allow,Fantasy_Points
-DEF,Kansas City Chiefs,Bye,28,18,15,1,5,1,3,305,166
-DEF,Minnesota Vikings,Bye,41,14,13,1,4,-,3,307,156
-DEF,Denver Broncos,Bye,42,14,13,-,4,1,-,287,151
-DEF,Arizona Cardinals,Bye,48,14,14,2,3,-,-,342,144
-DEF,New York Giants,Bye,35,17,8,-,4,-,-,276,139
-DEF,Philadelphia Eagles,Bye,34,16,10,1,3,-,2,331,137
-DEF,Tampa Bay Buccaneers,Bye,38,17,12,1,4,-,-,353,133
-DEF,New England Patriots,Bye,34,13,10,3,-,-,-,250,123
-DEF,Carolina Panthers,Bye,47,17,10,1,3,-,-,376,122
-DEF,Baltimore Ravens,Bye,31,18,10,-,2,1,-,317,121
-DEF,Los Angeles Chargers,Bye,35,18,10,1,5,-,-,397,120
-DEF,Seattle Seahawks,Bye,42,11,8,1,1,-,-,290,113
-DEF,Miami Dolphins,Bye,33,16,9,-,2,1,2,374,112
-DEF,Atlanta Falcons,Bye,34,12,10,-,5,-,-,392,109
-DEF,Pittsburgh Steelers,Bye,38,13,10,1,1,-,-,327,104
-DEF,Buffalo Bills,Bye,39,12,6,-,3,-,-,376,102
-DEF,Green Bay Packers,Bye,40,17,8,-,-,-,-,382,100
-DEF,Houston Texans,Bye,31,11,6,1,1,-,1,322,95
-DEF,Tennessee Titans,Bye,40,12,6,-,1,-,-,340,95
-DEF,Washington Redskins,Bye,38,13,8,-,-,-,1,365,93
-DEF,Cincinnati Bengals,Bye,33,17,3,1,-,-,-,313,92
-DEF,Oakland Raiders,Bye,25,16,14,-,1,-,-,385,92
-DEF,Dallas Cowboys,Bye,36,9,11,-,-,-,-,306,91
-DEF,Los Angeles Rams,Bye,31,10,8,-,1,-,-,358,89
-DEF,Indianapolis Colts,Bye,33,8,9,-,1,-,1,372,85
-DEF,Detroit Lions,Bye,26,10,4,2,1,-,2,352,84
-DEF,Chicago Bears,Bye,37,8,3,1,2,-,1,385,83
-DEF,Jacksonville Jaguars,Bye,33,7,6,-,1,-,1,380,69
-DEF,New York Jets,Bye,27,8,6,-,1,-,-,385,66
-DEF,San Francisco 49ers,Bye,33,10,10,1,-,-,-,470,61
-DEF,New Orleans Saints,Bye,30,9,12,1,-,-,-,428,55
-DEF,Cleveland Browns,Bye,26,10,3,-,1,-,-,434,48
+Season,Position,Name,Opp,Tackles_Sack,Turnover_Int,Turnover_Fum_Rec,Score_Saf,Score_TD,Score_Def_2pt_Ret,Ret_TD,Points_Pts_Allow,Fantasy_Points
+2016,DEF,Kansas City Chiefs,Bye,28,18,15,1,5,1,3,305,166
+2016,DEF,Minnesota Vikings,Bye,41,14,13,1,4,-,3,307,156
+2016,DEF,Denver Broncos,Bye,42,14,13,-,4,1,-,287,151
+2016,DEF,Arizona Cardinals,Bye,48,14,14,2,3,-,-,342,144
+2016,DEF,New York Giants,Bye,35,17,8,-,4,-,-,276,139
+2016,DEF,Philadelphia Eagles,Bye,34,16,10,1,3,-,2,331,137
+2016,DEF,Tampa Bay Buccaneers,Bye,38,17,12,1,4,-,-,353,133
+2016,DEF,New England Patriots,Bye,34,13,10,3,-,-,-,250,123
+2016,DEF,Carolina Panthers,Bye,47,17,10,1,3,-,-,376,122
+2016,DEF,Baltimore Ravens,Bye,31,18,10,-,2,1,-,317,121
+2016,DEF,Los Angeles Chargers,Bye,35,18,10,1,5,-,-,397,120
+2016,DEF,Seattle Seahawks,Bye,42,11,8,1,1,-,-,290,113
+2016,DEF,Miami Dolphins,Bye,33,16,9,-,2,1,2,374,112
+2016,DEF,Atlanta Falcons,Bye,34,12,10,-,5,-,-,392,109
+2016,DEF,Pittsburgh Steelers,Bye,38,13,10,1,1,-,-,327,104
+2016,DEF,Buffalo Bills,Bye,39,12,6,-,3,-,-,376,102
+2016,DEF,Green Bay Packers,Bye,40,17,8,-,-,-,-,382,100
+2016,DEF,Houston Texans,Bye,31,11,6,1,1,-,1,322,95
+2016,DEF,Tennessee Titans,Bye,40,12,6,-,1,-,-,340,95
+2016,DEF,Washington Redskins,Bye,38,13,8,-,-,-,1,365,93
+2016,DEF,Cincinnati Bengals,Bye,33,17,3,1,-,-,-,313,92
+2016,DEF,Oakland Raiders,Bye,25,16,14,-,1,-,-,385,92
+2016,DEF,Dallas Cowboys,Bye,36,9,11,-,-,-,-,306,91
+2016,DEF,Los Angeles Rams,Bye,31,10,8,-,1,-,-,358,89
+2016,DEF,Indianapolis Colts,Bye,33,8,9,-,1,-,1,372,85
+2016,DEF,Detroit Lions,Bye,26,10,4,2,1,-,2,352,84
+2016,DEF,Chicago Bears,Bye,37,8,3,1,2,-,1,385,83
+2016,DEF,Jacksonville Jaguars,Bye,33,7,6,-,1,-,1,380,69
+2016,DEF,New York Jets,Bye,27,8,6,-,1,-,-,385,66
+2016,DEF,San Francisco 49ers,Bye,33,10,10,1,-,-,-,470,61
+2016,DEF,New Orleans Saints,Bye,30,9,12,1,-,-,-,428,55
+2016,DEF,Cleveland Browns,Bye,26,10,3,-,1,-,-,434,48
