@@ -173,7 +173,7 @@ Season,Position,FirstName,LastName,Team,Opp,Passing_Yds,Passing_TD,Passing_Int,R
 2015,RB,Jay,Ajayi,MIA,@WAS,-,-,-,187,1,90,-,-,1,-,35.7
 2015,RB,Andre,Williams,LAC,@DAL,-,-,-,257,1,7,-,-,1,-,34.4
 2015,RB,Ka'Deem,Carey,CHI,GB,-,-,-,103,2,19,1,-,-,-,30.2
-2015,RB,Cameron,Artis-Payne,ayneRB - CAR,@JAX,-,-,-,183,1,58,-,-,-,-,30.1
+2015,RB,Cameron,Artis-Payne,CAR,@JAX,-,-,-,183,1,58,-,-,-,-,30.1
 2015,RB,Zach,Line,NO,@SF,-,-,-,10,2,95,1,-,-,-,28.5
 2015,RB,Travaris,Cadet,NO,@ARI,-,-,-,28,-,214,1,-,-,1,28.2
 2015,RB,Lance,Dunbar,LA,NYG,-,-,-,67,-,215,-,-,-,-,28.2
@@ -363,7 +363,7 @@ Season,Position,FirstName,LastName,Team,Opp,Passing_Yds,Passing_TD,Passing_Int,R
 2015,WR,Torrey,Smith,PHI,MIN,-,-,-,-,-,644,4,-,1,-,90.4
 2015,WR,Danny,Amendola,NE,PIT,36,-,-,11,-,648,3,-,-,1,83.34
 2015,WR,Jermaine,Kearse,SEA,@LA,-,-,-,-,-,571,4,-,-,-,81.1
-2015,WR,Dorial,Green-Beckham,eckhamWR,@TB,-,-,-,-,-,549,4,-,1,-,80.9
+2015,WR,Dorial,Green-Beckham,Free,@TB,-,-,-,-,-,549,4,-,1,-,80.9
 2015,WR,Seth,Roberts,OAK,CIN,-,-,-,-,-,480,5,-,1,-,80
 2015,WR,Cole,Beasley,DAL,NYG,-,-,-,-,-,536,5,-,-,2,79.6
 2015,WR,Devin,Funchess,CAR,@JAX,-,-,-,-,-,473,5,-,-,1,75.3
@@ -393,7 +393,7 @@ Season,Position,FirstName,LastName,Team,Opp,Passing_Yds,Passing_TD,Passing_Int,R
 2015,WR,Josh,Huff,TB,@ATL,-,-,-,-,-,312,3,-,-,-,49.2
 2015,WR,Jarius,Wright,MIN,@SF,-,-,-,29,-,442,-,-,-,1,45.1
 2015,WR,Andre,Holmes,BUF,CIN,-,-,-,-,-,201,4,-,-,-,44.1
-2015,WR,Darrius,Heyward-Bey,eyWR - PIT,@NE,-,-,-,-,-,314,2,-,-,-,43.4
+2015,WR,Darrius,Heyward-Bey,PIT,@NE,-,-,-,-,-,314,2,-,-,-,43.4
 2015,WR,Bryan,Walters,Free,CAR,-,-,-,-,-,368,1,-,-,-,42.8
 2015,WR,Quinton,Patton,Free,MIN,-,-,-,5,-,361,1,-,-,-,42.6
 2015,WR,Kenny,Britt,CLE,SEA,-,-,-,-,-,338,1,-,-,-,39.8
@@ -508,7 +508,7 @@ Season,Position,FirstName,LastName,Team,Opp,Passing_Yds,Passing_TD,Passing_Int,R
 2015,WR,Malachi,Dupre,GB,Bye,-,-,-,-,-,-,-,-,-,-,0
 2015,WR,Travin,Dural,NO,Bye,-,-,-,-,-,-,-,-,-,-,0
 2015,WR,Alex,Erickson,CIN,Bye,-,-,-,-,-,-,-,-,-,-,0
-2015,WR,Amba,Etta-Tawo,awoWR - JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
+2015,WR,Amba,Etta-Tawo,JAX,Bye,-,-,-,-,-,-,-,-,-,-,0
 2015,WR,Isaiah,Ford,MIAIR,Bye,-,-,-,-,-,-,-,-,-,-,0
 2015,WR,Devin,Fuller,ATLIR,Bye,-,-,-,-,-,-,-,-,-,-,0
 2015,WR,Will,Fuller,HOU,Bye,-,-,-,-,-,-,-,-,-,-,0
@@ -583,7 +583,7 @@ Season,Position,FirstName,LastName,Team,Opp,Passing_Yds,Passing_TD,Passing_Int,R
 2015,WR,Matthew,Slater,NE,PIT,-,-,-,-,-,-,-,-,-,-,0
 2015,WR,DeAndre,Smelter,SF,MIN,-,-,-,-,-,-,-,-,-,-,0
 2015,WR,Tevaun,Smith,Free,Bye,-,-,-,-,-,-,-,-,-,-,0
-2015,WR,JuJu,Smith-Schuster,chusterWR - PIT,Bye,-,-,-,-,-,-,-,-,-,-,0
+2015,WR,JuJu,Smith-Schuster,PIT,Bye,-,-,-,-,-,-,-,-,-,-,0
 2015,WR,Nelson,Spruce,LA,Bye,-,-,-,-,-,-,-,-,-,-,0
 2015,WR,ArDarius,Stewart,NYJ,Bye,-,-,-,-,-,-,-,-,-,-,0
 2015,WR,Damore'ea,Stringfellow,MIA,Bye,-,-,-,-,-,-,-,-,-,-,0
@@ -642,7 +642,7 @@ Season,Position,FirstName,LastName,Team,Opp,Passing_Yds,Passing_TD,Passing_Int,R
 2015,TE,Zach,Miller,CHI,GB,-,-,-,-,-,332,3,-,-,-,51.2
 2015,TE,Clive,Walford,OAK,CIN,-,-,-,-,-,329,3,-,-,-,50.9
 2015,TE,Vance,McDonald,PIT,MIN,-,-,-,-,-,313,3,-,-,-,49.3
-2015,TE,Austin,Seferian-Jenkins,enkinsTE - NYJ,TEN,-,-,-,-,-,309,3,-,-,-,48.9
+2015,TE,Austin,Seferian-Jenkins,NYJ,TEN,-,-,-,-,-,309,3,-,-,-,48.9
 2015,TE,Darren,Fells,DET,NO,-,-,-,-,-,272,3,-,-,-,45.2
 2015,TE,Cameron,Brate,TB,TEN,-,-,-,-,-,268,3,-,-,-,44.8
 2015,TE,Anthony,Fasano,MIA,@TB,-,-,-,-,-,289,2,-,-,-,40.9
