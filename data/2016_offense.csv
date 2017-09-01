@@ -1,4 +1,4 @@
-Season,Position,FirstName,LastName,Team,Opp,Passing_Yards,Passing_TD,Passing_Int,Rushing_Yds,Rushing_TD,Receiving_Yds,Receiving_TD,Misc_FumTD,Misc_2PT,Fum_Lost,Fantasy_Points
+Season,Position,FirstName,LastName,Team,Opp,Passing_Yds,Passing_TD,Passing_Int,Rushing_Yds,Rushing_TD,Receiving_Yds,Receiving_TD,Misc_FumTD,Misc_2PT,Fum_Lost,Fantasy_Points
 2016,QB,Aaron,Rodgers,GB,@JAX,4428,40,7,369,4,-,-,-,2,4,380.02
 2016,QB,Matt,Ryan,ATL,TB,4944,38,7,117,-,-,-,-,2,2,347.46
 2016,QB,Drew,Brees,NO,OAK,5208,37,15,20,2,-,-,-,-,4,332.32
