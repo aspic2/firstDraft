@@ -76,7 +76,9 @@ class Team(object):
 
 
 class Player(object):
-
+    """Assemble players with different stats and a full rating, then compare 
+    player to his position-mates
+    """
     def __init__(self, name, nfl_team, position):
         self.name = name
         self.nfl_team
