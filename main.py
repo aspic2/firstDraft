@@ -63,6 +63,20 @@ Use Negative Points: Yes
 
 """
 
+import sqlite3
+from os import getcwd
+
+database = "football.db"
+defense_query = '''SELECT Season, Position, TeamName, Fantasy_Points \
+FROM Defense WHERE Season = 2015
+'''
+kickers_query = '''SELECT Season, Position, FirstName, LastName, Team, \
+Fantasy_Points FROM Kickers WHERE Season = 2015
+'''
+offense_query = '''SELECT Season, Position, FirstName, LastName, Team, \
+Fantasy_Points FROM Offense WHERE Season = 2015
+'''
+
 class Team(object):
 
     def __init__(self, owner):
@@ -76,17 +90,30 @@ class Team(object):
 
 
 class Player(object):
-    """Assemble players with different stats and a full rating, then compare 
+    """Assemble players with different stats and a full rating, then compare
     player to his position-mates
     """
-    def __init__(self, name, nfl_team, position):
-        self.name = name
-        self.nfl_team
+    def __init__(self, position, name, nfl_team, points):
         self.position = position
+        self.name = name
+        self.nfl_team = nfl_team
+        self.point = points
+
+
+def get_data(query):
+    conn = sqlite3.connect('football.db')
+    c = conn.cursor()
+    player_data = c.execute(query).fetchall()
+    return player_data
 
 
 def main():
-    pass
+    players = []
+    data = get_data(offense_query)
+    for player in data:
+        players.append(Player(player[1], (player[2], player[3]), player[4], player[5]))
+    for player in players:
+        print(player.name)
 
 if __name__ == '__main__':
     main()
