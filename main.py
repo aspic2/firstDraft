@@ -67,7 +67,7 @@ import sqlite3
 from os import getcwd
 
 database = "football.db"
-defense_query = '''SELECT Season, Position, TeamName, Fantasy_Points \
+defense_query = '''SELECT Season, Position, TeamCity, TeamName, Fantasy_Points \
 FROM Defense WHERE Season = 2015
 '''
 kickers_query = '''SELECT Season, Position, FirstName, LastName, Team, \
@@ -99,21 +99,39 @@ class Player(object):
         self.nfl_team = nfl_team
         self.point = points
 
+class Data(object):
 
-def get_data(query):
-    conn = sqlite3.connect('football.db')
-    c = conn.cursor()
-    player_data = c.execute(query).fetchall()
-    return player_data
+    def get_data(query):
+        conn = sqlite3.connect('football.db')
+        c = conn.cursor()
+        player_data = c.execute(query).fetchall()
+        return player_data
+
+    def build_players(query):
+        players = []
+        data = Data.get_data(query)
+        for stat in data:
+            # switch for the 3 different score sysems
+            # names are tuples in format (firstName, lastName)
+            if query == offense_query:
+                players.append(Player(stat[1], (stat[2], stat[3]), stat[4], stat[5]))
+            elif query == defense_query:
+                players.append(Player(stat[1], (stat[2], stat[3]), stat[3], stat[4]))
+            elif query == kickers_query:
+                players.append(Player(stat[1], (stat[2], stat[3]), stat[4], stat[5]))
+            else:
+                print("Was unable to create players using data.")
+                return [-1]
+        for player in players:
+            print(player.name)
+        return players
 
 
 def main():
-    players = []
-    data = get_data(offense_query)
-    for player in data:
-        players.append(Player(player[1], (player[2], player[3]), player[4], player[5]))
-    for player in players:
-        print(player.name)
+    defenses = Data.build_players(defense_query)
+    offenses = Data.build_players(offense_query)
+    kickers = Data.build_players(kickers_query)
+
 
 if __name__ == '__main__':
     main()

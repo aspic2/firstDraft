@@ -6,7 +6,7 @@ from os import getcwd
 
 # 3 source files for different scoring parameters
 o_csv = getcwd() + "/data/offense.csv"
-d_csv = getcwd() + "/data/defense.csv"
+d_csv = getcwd() + "/data/defense_revised.csv"
 k_csv = getcwd() + "/data/kickers.csv"
 
 matchup = {o_csv: "Offense", d_csv: "Defense", k_csv: "Kickers"}
@@ -15,7 +15,7 @@ matchup = {o_csv: "Offense", d_csv: "Defense", k_csv: "Kickers"}
 offense_table_construction_query = '''CREATE TABLE Offense
 (Season YEAR, Position TEXT, FirstName TEXT, LastName TEXT, Team TEXT, Opp TEXT, Passing_Yds INT, Passing_TD INT, Passing_Int INT, Rushing_Yds INT, Rushing_TD INT, Receiving_Yds INT, Receiving_TD INT, Misc_FumTD INT, Misc_2PT INT, Fum_Lost INT, Fantasy_Points FLOAT(8, 4))'''
 defense_table_construction_query = '''CREATE TABLE Defense
-(Season YEAR, Position TEXT, TeamName TEXT, Opp TEXT, Tackles_Sack INT, Turnover_Int INT, Turnover_Fum_Rec INT, Score_Saf INT, Score_TD INT, Score_Def_2pt_Ret INT, Ret_TD INT, Points_Pts_Allow INT, Fantasy_Points FLOAT(8, 4))'''
+(Season YEAR, Position TEXT, TeamCity TEXT, TeamName TEXT, Opp TEXT, Tackles_Sack INT, Turnover_Int INT, Turnover_Fum_Rec INT, Score_Saf INT, Score_TD INT, Score_Def_2pt_Ret INT, Ret_TD INT, Points_Pts_Allow INT, Fantasy_Points FLOAT(8, 4))'''
 kickers_table_construction_query = '''CREATE TABLE Kickers
 (Season YEAR,Position TEXT, FirstName TEXT, LastName TEXT, Team TEXT, Opp TEXT, PAT_Made INT, FG_Made_0to19 INT, FG_Made_20to29 INT, FG_Made_30to39 INT, FG_Made_40to49 INT, FG_Made_50plus INT, Fantasy_Points FLOAT(8, 4))'''
 
@@ -51,7 +51,7 @@ def add_data(filepath):
                 c.execute("INSERT INTO Offense VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", row)
             elif matchup[filepath] == "Defense":
                 #print(row)
-                c.execute("INSERT INTO Defense VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)", row)
+                c.execute("INSERT INTO Defense VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", row)
             elif matchup[filepath] == "Kickers":
                 c.execute("INSERT INTO Kickers VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)", row)
             else:
@@ -74,6 +74,6 @@ def read_db(filepath):
 
 if __name__ == '__main__':
     #readfile(d_csv)
-    create_table(offense_table_construction_query)
-    add_data(o_csv)
-    read_db(o_csv)
+    create_table(defense_table_construction_query)
+    add_data(d_csv)
+    read_db(d_csv)

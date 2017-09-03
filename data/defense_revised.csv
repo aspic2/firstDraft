@@ -1,0 +1,65 @@
+Season,Position,TeamCity,TeamName,Opp,Tackles_Sack,Turnover_Int,Turnover_Fum_Rec,Score_Saf,Score_TD,Score_Def_2pt_Ret,Ret_TD,Points_Pts_Allow,Fantasy_Points
+2015,DEF,Kansas City,Chiefs,LAC,28,18,15,1,5,1,3,305,166
+2015,DEF,Minnesota,Vikings,@TEN,41,14,13,1,4,0,3,307,156
+2015,DEF,Denver,Broncos,CAR,42,14,13,0,4,1,0,287,151
+2015,DEF,Arizona,Cardinals,NE,48,14,14,2,3,0,0,342,144
+2015,DEF,New York,Giants,@DAL,35,17,8,0,4,0,0,276,139
+2015,DEF,Philadelphia,Eagles,CLE,34,16,10,1,3,0,2,331,137
+2015,DEF,Tampa Bay,Buccaneers,@ATL,38,17,12,1,4,0,0,353,133
+2015,DEF,New England,Patriots,@ARI,34,13,10,3,0,0,0,250,123
+2015,DEF,Carolina,Panthers,@DEN,47,17,10,1,3,0,0,376,122
+2015,DEF,Baltimore,Ravens,BUF,31,18,10,0,2,1,0,317,121
+2015,DEF,Los Angeles,Chargers,@KC,35,18,10,1,5,0,0,397,120
+2015,DEF,Seattle,Seahawks,MIA,42,11,8,1,1,0,0,290,113
+2015,DEF,Miami,Dolphins,@SEA,33,16,9,0,2,1,2,374,112
+2015,DEF,Atlanta,Falcons,TB,34,12,10,0,5,0,0,392,109
+2015,DEF,Pittsburgh,Steelers,@WAS,38,13,10,1,1,0,0,327,104
+2015,DEF,Buffalo,Bills,@BAL,39,12,6,0,3,0,0,376,102
+2015,DEF,Green Bay,Packers,@JAX,40,17,8,0,0,0,0,382,100
+2015,DEF,Houston,Texans,CHI,31,11,6,1,1,0,1,322,95
+2015,DEF,Tennessee,Titans,MIN,40,12,6,0,1,0,0,340,95
+2015,DEF,Washington,Redskins,PIT,38,13,8,0,0,0,1,365,93
+2015,DEF,Cincinnati,Bengals,@NYJ,33,17,3,1,0,0,0,313,92
+2015,DEF,Oakland,Raiders,@NO,25,16,14,0,1,0,0,385,92
+2015,DEF,Dallas,Cowboys,NYG,36,9,11,0,0,0,0,306,91
+2015,DEF,Los Angeles,Rams,@SF,31,10,8,0,1,0,0,358,89
+2015,DEF,Indianapolis,Colts,DET,33,8,9,0,1,0,1,372,85
+2015,DEF,Detroit,Lions,Bye,26,10,4,2,1,0,2,352,84
+2015,DEF,Chicago,Bears,Bye,37,8,3,1,2,0,1,385,83
+2015,DEF,Jacksonville,Jaguars,Bye,33,7,6,0,1,0,1,380,69
+2015,DEF,New York,Jets,Bye,27,8,6,0,1,0,0,385,66
+2015,DEF,San Francisco,49ers,Bye,33,10,10,1,0,0,0,470,61
+2015,DEF,New Orleans,Saints,Bye,30,9,12,1,0,0,0,428,55
+2015,DEF,Cleveland,Browns,Bye,26,10,3,0,1,0,0,434,48
+2016,DEF,Kansas City,Chiefs,Bye,28,18,15,1,5,1,3,305,166
+2016,DEF,Minnesota,Vikings,Bye,41,14,13,1,4,0,3,307,156
+2016,DEF,Denver,Broncos,Bye,42,14,13,0,4,1,0,287,151
+2016,DEF,Arizona,Cardinals,Bye,48,14,14,2,3,0,0,342,144
+2016,DEF,New York,Giants,Bye,35,17,8,0,4,0,0,276,139
+2016,DEF,Philadelphia,Eagles,Bye,34,16,10,1,3,0,2,331,137
+2016,DEF,Tampa Bay,Buccaneers,Bye,38,17,12,1,4,0,0,353,133
+2016,DEF,New England,Patriots,Bye,34,13,10,3,0,0,0,250,123
+2016,DEF,Carolina,Panthers,Bye,47,17,10,1,3,0,0,376,122
+2016,DEF,Baltimore,Ravens,Bye,31,18,10,0,2,1,0,317,121
+2016,DEF,Los Angeles,Chargers,Bye,35,18,10,1,5,0,0,397,120
+2016,DEF,Seattle,Seahawks,Bye,42,11,8,1,1,0,0,290,113
+2016,DEF,Miami,Dolphins,Bye,33,16,9,0,2,1,2,374,112
+2016,DEF,Atlanta,Falcons,Bye,34,12,10,0,5,0,0,392,109
+2016,DEF,Pittsburgh,Steelers,Bye,38,13,10,1,1,0,0,327,104
+2016,DEF,Buffalo,Bills,Bye,39,12,6,0,3,0,0,376,102
+2016,DEF,Green Bay,Packers,Bye,40,17,8,0,0,0,0,382,100
+2016,DEF,Houston,Texans,Bye,31,11,6,1,1,0,1,322,95
+2016,DEF,Tennessee,Titans,Bye,40,12,6,0,1,0,0,340,95
+2016,DEF,Washington,Redskins,Bye,38,13,8,0,0,0,1,365,93
+2016,DEF,Cincinnati,Bengals,Bye,33,17,3,1,0,0,0,313,92
+2016,DEF,Oakland,Raiders,Bye,25,16,14,0,1,0,0,385,92
+2016,DEF,Dallas,Cowboys,Bye,36,9,11,0,0,0,0,306,91
+2016,DEF,Los Angeles,Rams,Bye,31,10,8,0,1,0,0,358,89
+2016,DEF,Indianapolis,Colts,Bye,33,8,9,0,1,0,1,372,85
+2016,DEF,Detroit,Lions,Bye,26,10,4,2,1,0,2,352,84
+2016,DEF,Chicago,Bears,Bye,37,8,3,1,2,0,1,385,83
+2016,DEF,Jacksonville,Jaguars,Bye,33,7,6,0,1,0,1,380,69
+2016,DEF,New York,Jets,Bye,27,8,6,0,1,0,0,385,66
+2016,DEF,San Francisco,49ers,Bye,33,10,10,1,0,0,0,470,61
+2016,DEF,New Orleans,Saints,Bye,30,9,12,1,0,0,0,428,55
+2016,DEF,Cleveland,Browns,Bye,26,10,3,0,1,0,0,434,48
