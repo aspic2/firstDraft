@@ -138,7 +138,7 @@ class Data(object):
         players = []
         data = Data.get_data(query)
         for stat in data:
-            # switch for the 3 different score sysems
+            # switch for the 3 different score systems
             # names are tuples in format (firstName, lastName)
             if query == offense_query:
                 players.append(Player(
