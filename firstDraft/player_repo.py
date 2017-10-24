@@ -2,6 +2,7 @@
 
 from firstDraft.player import Player
 
+
 class PlayerRepo(list):
 
     def __init__(self):
@@ -14,4 +15,8 @@ class PlayerRepo(list):
 
     def draft_player(self, player):
         player.get_drafted()
+
+    def filter_available_players(self):
+        return filter(lambda x: x.available, self)
+
 

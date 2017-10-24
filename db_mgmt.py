@@ -1,4 +1,4 @@
-"""Quick script to build and manage the db"""
+"""Quick script to build and manage the database"""
 
 import csv
 import sqlite3
@@ -18,7 +18,6 @@ defense_table_construction_query = '''CREATE TABLE Defense
 (Season YEAR, Position TEXT, TeamCity TEXT, TeamName TEXT, Opp TEXT, Tackles_Sack INT, Turnover_Int INT, Turnover_Fum_Rec INT, Score_Saf INT, Score_TD INT, Score_Def_2pt_Ret INT, Ret_TD INT, Points_Pts_Allow INT, Fantasy_Points FLOAT(8, 4))'''
 kickers_table_construction_query = '''CREATE TABLE Kickers
 (Season YEAR,Position TEXT, FirstName TEXT, LastName TEXT, Team TEXT, Opp TEXT, PAT_Made INT, FG_Made_0to19 INT, FG_Made_20to29 INT, FG_Made_30to39 INT, FG_Made_40to49 INT, FG_Made_50plus INT, Fantasy_Points FLOAT(8, 4))'''
-
 
 
 def readfile(path):
