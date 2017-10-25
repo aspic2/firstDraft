@@ -10,7 +10,8 @@ class PlayerRepo(list):
 
     def fill_list(self):
         for num in range(45):
-            self.append(Player((num,)))
+            # TODO: fix this, as it is only filler for tests
+            self.append(Player((num, "WR")))
         return self
 
     def draft_player(self, player):
