@@ -2,6 +2,7 @@
 
 
 class Player(object):
+    """Object initialized with a list of data points from football.db"""
 
     def __init__(self, data):
         self.name = data[0]

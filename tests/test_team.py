@@ -22,6 +22,12 @@ class TestTeam(unittest.TestCase):
 
     def test_draft_player(self):
         # make sure player appears on your team and is unavailable to others
-        pass
+        p = self.players_list[0]
+        self.team.draft_player(p)
+        # test that player is on team
+        self.assertIn(p, self.team)
+        # test that player is unavailable from the player repo
+        # TODO: should this be in test_player?
+        self.assertFalse(p.available)
 
 
