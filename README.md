@@ -1,6 +1,6 @@
 # Fantasy Sports Algorithm #
 
-This is a small application to help me select teams for my fantasy sports teams. 
+This is a small application to help you select players for fantasy sports teams. 
 First up is fantasy football. Below I will detail what is needed to use this 
 tool, what assumptions are made, and how the selection process works. 
 
@@ -11,6 +11,19 @@ tool, what assumptions are made, and how the selection process works.
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
+
+## Author's Notes ##
+
+#Incomplete Tasks #
+* Player() connect to database to build real players
+* Team() view available players and stats. (Maybe return from player_repo)
+* Team() select specific player for draft.
+* for each team in Draft.draft() re-do if selection is invalid
+* Team() rate the available players
+
+
+
+Below are just a few things I have left here so I know what needs to be done. 
 
 * Source for rules and data points
 	- Use the following links to find out how to rate players for your team
@@ -30,7 +43,6 @@ tool, what assumptions are made, and how the selection process works.
 * Code review
 * Other guidelines
 
-### Who do I talk to? ###
+###License ###
 
-* Repo owner or admin
-* Other community or team contact
+Please check the included license to determine how you may this program.

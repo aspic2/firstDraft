@@ -8,6 +8,8 @@ class Draft(object):
     def __init__(self, teams_list):
         self.teams = teams_list
         self.repo = PlayerRepo().fill_list()
+        # default to 15, as this is the nfl.com standard
+        self.number_of_rounds = 15
 
     def round_of_drafts(self):
         for t in self.teams:
@@ -20,5 +22,8 @@ class Draft(object):
         return self
 
     def start(self):
-        pass
+        current_round = 1
+        while current_round < self.number_of_rounds + 1:
+            self.round_of_drafts()
+            current_round += 1
 
