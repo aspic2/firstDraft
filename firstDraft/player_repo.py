@@ -38,7 +38,7 @@ class PlayerRepo(list):
         player.get_drafted()
 
     def return_available_players(self):
-        return filter(lambda x: x.available, self)
+        return list(filter(lambda x: x.available, self))
 
     def filter_players(self, f, list_len=5):
         """Filters player list of length list_len for position f."""

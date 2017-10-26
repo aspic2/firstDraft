@@ -49,4 +49,8 @@ class TestTeam(unittest.TestCase):
         results = self.team.view_options(options)
         self.assertIsNotNone(results)
 
+    def test_take_turn(self):
+        team_size = len(self.team)
+        self.team.take_turn(self.players_list)
+        self.assertTrue(len(self.team) == team_size + 1)
 

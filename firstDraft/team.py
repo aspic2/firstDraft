@@ -9,8 +9,9 @@ class Team(list):
 
     quota = {"QB": 1, "RB": 2, "WR": 2, "TE": 1, "K": 1, "DEF": 1}
 
-    def __init__(self, data):
-        self.owner = data[0]
+    def __init__(self, owner):
+        self.owner = owner
+        self.pool = None
         
     def check_quota(self, positions):
         quota_not_met = []
@@ -40,6 +41,11 @@ class Team(list):
         best_in_posiiton = "bip"
         random = "r"
         return best_available
+
+    def take_turn(self, pool):
+        draftee = int(input("Whom would you like to draft next? (Enter index only!)\n> "))
+        self.draft_player(pool[draftee])
+        return self
 
         
         
