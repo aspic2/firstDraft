@@ -9,7 +9,7 @@ class TestDraft(unittest.TestCase):
 
     def setUp(self):
         # fix Mock to have len() value
-        self.draft = Draft([Team("Alpha"), Team("Gold")])
+        self.draft = Draft()
 
     def test_teams(self):
         self.assertTrue(len(self.draft.teams) == 2)

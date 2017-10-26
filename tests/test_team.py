@@ -9,6 +9,8 @@ class TestTeam(unittest.TestCase):
 
     def setUp(self):
         self.team = Team(["Owner", ])
+        self.invalid_team_data = [72, ]
+        self.invalid_team_data_2 = ["correct name", "2eise8"]
         self.positions = None
         self.players_list = [Player(["Player1", "QB"]), Player(["Player2", "RB"])]
 

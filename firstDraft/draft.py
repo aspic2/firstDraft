@@ -5,8 +5,8 @@ from firstDraft.player_repo import PlayerRepo
 
 class Draft(object):
 
-    def __init__(self, teams_list):
-        self.teams = teams_list
+    def __init__(self):
+        self.teams = [Team("Alpha"), Team("Gold")]
         self.repo = PlayerRepo().fill_list()
         # default to 15, as this is the nfl.com standard
         self.number_of_rounds = 15
@@ -26,4 +26,5 @@ class Draft(object):
         while current_round < self.number_of_rounds + 1:
             self.round_of_drafts()
             current_round += 1
+        return self
 
