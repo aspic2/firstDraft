@@ -35,8 +35,11 @@ class TestPlayerRepo(unittest.TestCase):
 
     def test_filter_players(self):
         """Method returns top 5 players given a specific filter."""
+        # This random method may cause a false negative if sample is too small!
         f = random.choice(self.repo.positions)
-        filtered_list = list(self.repo.filter_players(f))
+        length = 6
+        filtered_list = self.repo.filter_players(f, length)
+        self.assertTrue(len(filtered_list) == length)
         filter_works = None
         for player in filtered_list:
             if player.position != f:
@@ -47,6 +50,12 @@ class TestPlayerRepo(unittest.TestCase):
         # confirm that list is still in order
         self.assertTrue(filtered_list[0].points > filtered_list[-1].points)
         self.assertTrue(filtered_list[3].points > filtered_list[4].points)
+
+    def test_standard_deviation(self):
+        p = random.choice(self.repo.positions)
+        sd = self.repo.standard_deviation(p, 25)
+        self.assertIsNotNone(sd)
+
 
 
 

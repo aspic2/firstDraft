@@ -18,8 +18,8 @@ tool, what assumptions are made, and how the selection process works.
 * User interface: allow Team to pick() players from list
 * UI: for each team in Draft.draft() re-do if selection is invalid
 * AI: automated strategy option for team
-* PlayerRepo() or Team() add standard deviation for positions.
-* Player() connect to database to build real players
+* ~~PlayerRepo() or Team() add standard deviation for positions.~~
+* ~~Player() connect to database to build real players~~
 * ~~Team() view available players and stats. (Maybe return from player_repo)~~
 
 

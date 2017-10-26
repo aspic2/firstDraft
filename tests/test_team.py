@@ -13,7 +13,7 @@ class TestTeam(unittest.TestCase):
         self.invalid_team_data = [72, ]
         self.invalid_team_data_2 = ["correct name", "2eise8"]
         self.positions = None
-        self.players_list = [Player(["Player1", "QB", 303]), Player(["Player2", "RB", 48])]
+        self.players_list = [Player(["Player", "1", "QB", 303]), Player(["Player", "2", "RB", 48])]
 
     def test_check_quotas(self):
         # make sure you have x number of players for each position.
