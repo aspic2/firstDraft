@@ -32,4 +32,10 @@ class TestTeam(unittest.TestCase):
         # TODO: should this be in test_player?
         self.assertFalse(p.available)
 
+    def test_view_options(self):
+        #TODO: finish revising this in team.py
+        options = []
+        results = self.team.view_options(options)
+        self.assertIsNotNone(results)
+
 

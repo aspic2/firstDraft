@@ -30,6 +30,12 @@ class Team(list):
         chosen_one.get_drafted()
         return self
 
+    def view_options(self, options):
+        """This method should return a list of player names, positions,
+        and expected points for the season."""
+        # make a call to player_repo to filter and/or sort the player list
+        pass
+
         
         
 

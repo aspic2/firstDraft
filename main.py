@@ -244,10 +244,10 @@ def main():
     rb_sd = Data.get_sd(repo.rbs)
     wr_sd = Data.get_sd(repo.wrs)
     qb_sd = Data.get_sd(repo.qbs)
-    print(kickers_sd)
-    print(rb_sd)
-    print(wr_sd)
-    print(qb_sd)
+    print("Kickers Standard Deviation =", kickers_sd)
+    print("Running Backs Standard Deviation =", rb_sd)
+    print("Wide Receivers Standard Deviation =", wr_sd)
+    print("Quarterbacks Standard Deviation =", qb_sd)
 
 
 if __name__ == '__main__':
