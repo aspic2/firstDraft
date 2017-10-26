@@ -7,12 +7,7 @@ class Team(list):
     (selected players), quota (minimum for each position), and logic for how
     to select the next player in a draft."""
 
-    quota = {"QB": 1,
-             "RB": 2,
-             "WR": 2,
-             "TE": 1,
-             "K": 1,
-             "DEF": 1}
+    quota = {"QB": 1, "RB": 2, "WR": 2, "TE": 1, "K": 1, "DEF": 1}
 
     def __init__(self, data):
         self.owner = data[0]
@@ -32,9 +27,19 @@ class Team(list):
 
     def view_options(self, options):
         """This method should return a list of player names, positions,
-        and expected points for the season."""
+        and expected points for the season.
+        """
         # make a call to player_repo to filter and/or sort the player list
-        pass
+        for o in options:
+            print(options.index(o), o.name, o.position, o.points)
+        return options
+
+    def send_filter(self):
+        """Choose from a list of filters and send to player_repo"""
+        best_available = "ba"
+        best_in_posiiton = "bip"
+        random = "r"
+        return best_available
 
         
         

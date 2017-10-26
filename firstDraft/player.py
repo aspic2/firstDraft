@@ -7,6 +7,7 @@ class Player(object):
     def __init__(self, data):
         self.name = data[0]
         self.position = data[1]
+        self.points = data[2]
         self.available = True
 
     def get_drafted(self):
