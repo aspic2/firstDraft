@@ -13,7 +13,8 @@ class TestTeam(unittest.TestCase):
         self.invalid_team_data = [72, ]
         self.invalid_team_data_2 = ["correct name", "2eise8"]
         self.positions = None
-        self.players_list = [Player(["Player", "1", "QB", 303]), Player(["Player", "2", "RB", 48])]
+        self.players_list = [Player(["Player", "1", "QB", 303]), Player(["Player", "2", "RB", 48]),
+                             Player(["Player", "3", "RB", 120]), Player(["Player", "4", "WR", 237])]
 
     def test_check_quotas(self):
         # make sure you have x number of players for each position.
@@ -50,7 +51,10 @@ class TestTeam(unittest.TestCase):
         self.assertIsNotNone(results)
 
     def test_take_turn(self):
-        team_size = len(self.team)
         self.team.take_turn(self.players_list)
-        self.assertTrue(len(self.team) == team_size + 1)
+
+    def test_user_input(self):
+        self.assertIsNotNone(self.team.user_input())
+        self.assertIn(self.team.user_input(), self.valid_responses)
+
 

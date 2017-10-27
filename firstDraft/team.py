@@ -49,8 +49,17 @@ class Team(list):
         Method needs to print results each step of way, and eventually
         you should build control flow in to specify what to do."""
         #draftee = int(input("Whom would you like to draft next? (Enter index only!)\n> "))
-        self.draft_player(pool[draftee])
+        #self.draft_player(pool[draftee])
+        #sd = pool.standard_deviation
         return self
+
+    def user_input(self):
+        print('Valid commands:\n"SD" = standard deviation for the positions\n'
+              '"A" = return list of top 10 players, regardless of position\n'
+              '"POSITION" returns top 10 players for specified position.' 
+              '"POSITION" options are\n QB, RB, WR, TE, K, DEF\n')
+        response = 42   # correct response == input("> ")
+        return response
 
         
         
