@@ -18,7 +18,8 @@ class PlayerRepo(list):
     Fantasy_Points FROM Offense WHERE Season = 2015
     '''
 
-    def __init__(self):
+    def __init__(self, init_list=[]):
+        super().__init__(init_list)
         self.length = len(self)
         self.positions = ["QB", "RB", "TE", "K", "DEF", "WR"]
 
@@ -38,7 +39,7 @@ class PlayerRepo(list):
         player.get_drafted()
 
     def return_available_players(self):
-        return list(filter(lambda x: x.available, self))
+        return PlayerRepo(filter(lambda x: x.available, self))
 
     def filter_players(self, f, list_len=5):
         """Filters player list of length list_len for position f."""
@@ -48,6 +49,7 @@ class PlayerRepo(list):
         """Returns standard deviation of points for best n players in position p"""
         p_list = self.filter_players(p, n)
         # TODO: Can you do this with map()?
+        # TODO: A: Yes, but it is not as clear as the list comprehension
         return statistics.stdev(x.points for x in p_list)
 
 
