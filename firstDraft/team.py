@@ -43,7 +43,12 @@ class Team(list):
         return best_available
 
     def take_turn(self, pool):
-        draftee = int(input("Whom would you like to draft next? (Enter index only!)\n> "))
+        """Revise method to 1) show std dev for each position:
+        2) return position with highest std dev.
+        3) choose best available player from position.
+        Method needs to print results each step of way, and eventually
+        you should build control flow in to specify what to do."""
+        #draftee = int(input("Whom would you like to draft next? (Enter index only!)\n> "))
         self.draft_player(pool[draftee])
         return self
 

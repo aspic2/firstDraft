@@ -13,7 +13,7 @@ tool, what assumptions are made, and how the selection process works.
 ### How do I get set up? ###
 
 ## Author's Notes ##
-This project was my first foree into Test Driven Development (TDD).
+This project was my first foray into Test Driven Development (TDD).
 Please check out my file journal.md to hear my thoughts on how it went!
 
 #Incomplete Tasks #
