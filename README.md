@@ -20,6 +20,7 @@ Please check out my file journal.md to hear my thoughts on how it went!
 * User interface: allow Team to pick() players from list
 * UI: for each team in Draft.draft() re-do if selection is invalid
 * AI: automated strategy option for team
+* UI: remove players without them being drafted (for real-life simulation)
 * ~~PlayerRepo() or Team() add standard deviation for positions.~~
 * ~~Player() connect to database to build real players~~
 * ~~Team() view available players and stats. (Maybe return from player_repo)~~

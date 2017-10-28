@@ -53,8 +53,18 @@ class TestTeam(unittest.TestCase):
     def test_take_turn(self):
         self.team.take_turn(self.players_list)
 
-    def test_user_input(self):
+    """def test_user_input(self):
         self.assertIsNotNone(self.team.user_input())
         self.assertIn(self.team.user_input(), self.valid_responses)
+    """
+
+    def test_auto_strategy(self):
+        old_length = len(self.team)
+        strat = "invalid"
+        self.assertRaises(self.team.auto_strategy(strat))
+        strat = "random"
+        self.team.auto_strategy(strat)
+        self.assertTrue(len(self.team) == old_length + 1)
+        self.assertIn(strat, self.team.strategies)
 
 

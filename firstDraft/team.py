@@ -53,13 +53,14 @@ class Team(list):
         #sd = pool.standard_deviation
         return self
 
-    def user_input(self):
+    """def user_input(self):
         print('Valid commands:\n"SD" = standard deviation for the positions\n'
               '"A" = return list of top 10 players, regardless of position\n'
               '"POSITION" returns top 10 players for specified position.' 
               '"POSITION" options are\n QB, RB, WR, TE, K, DEF\n')
         response = 42   # correct response == input("> ")
         return response
+        """
 
         
         
