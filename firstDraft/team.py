@@ -65,8 +65,14 @@ class Team(list):
         if self.bot:
             self.auto_strategy(pool, "sd")
         val = None
+        draftee = None
         while self.turn:
-            response = input("'cq', 'vo', or 'sd'\n> ")  # test with "sd"
+            if draftee:
+                print("You currently have draftee", draftee.name, draftee.position)
+                print("drafting", draftee.name, draftee.position)
+                self.draft_player(draftee)
+
+            response = "sd"  # input("'cq', 'vo', 'sd', or 'draft'\n> ")  # test with "sd"
             if response == 'cq':
                 val = self.check_quota()
                 print("Quota not met for:")
@@ -84,12 +90,15 @@ class Team(list):
                         val.append((p, pool.standard_deviation(p)))
                     for v in val:
                         print(v[0], v[1])
-                    position = max(val, key=lambda x: x[1])
+                    position = max(val, key=lambda x: x[1]) # input("Select position to choose from\n> ")
                     print("selecting from", position)
                     options = pool.filter_players(position[0])
                     draftee = options[0]
-                    self.draft_player(draftee)
-                    print("drafting", draftee.name, draftee.position)
+            elif response == 'find':
+                draftee = self.find_player()
+            elif response == 'draft':
+                print("drafting", draftee.name, draftee.position)
+                self.draft_player(draftee)
             # self.turn = False | turn on for testing
         return self
 
@@ -114,20 +123,9 @@ class Team(list):
         else:
             return user_input
 
-
-
-
-
-
-    """def user_input(self):
-        print('Valid commands:\n"SD" = standard deviation for the positions\n'
-              '"A" = return list of top 10 players, regardless of position\n'
-              '"POSITION" returns top 10 players for specified position.' 
-              '"POSITION" options are\n QB, RB, WR, TE, K, DEF\n')
-        response = 42   # correct response == input("> ")
-        return response
-        """
-
-        
-        
-
+    def find_player(self):
+        print('Which player would you like to find?')
+        print('Enter "FIRSTNAME LASTNAME", press enter, then enter "POSITION"')
+        name = "Julio Jones"  # input("name: ")
+        position = "WR"  # input("position: ")
+        return name, position

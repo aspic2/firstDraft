@@ -9,7 +9,8 @@ class TestDraft(unittest.TestCase):
 
     def setUp(self):
         # fix Mock to have len() value
-        self.draft = Draft(5)
+        self.teams = [Team("Alpha"), Team("Gold"), Team("Mike T", False)]
+        self.draft = Draft(5, self.teams)
 
     def test_teams(self):
         self.assertIsNotNone(self.draft.teams)

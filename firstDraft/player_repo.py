@@ -22,6 +22,7 @@ class PlayerRepo(list):
         super().__init__(init_list)
         self.length = len(self)
         self.positions = ["QB", "RB", "TE", "K", "DEF", "WR"]
+        self.player_dict = {}
 
     def fill_list(self):
         """Populate PlayerRepo() and put players in order by points"""
@@ -32,6 +33,8 @@ class PlayerRepo(list):
             player_data = c.execute(q).fetchall()
             for stat in player_data:
                 self.append(Player(stat))
+        for p in self:
+            self.player_dict[(p.name, p.position)] = p
         return self
 
     def sort_repo(self):
@@ -55,6 +58,13 @@ class PlayerRepo(list):
         # return statistics.stdev(map(lambda x: x.points, p_list))
         # TODO: A: Yes, but it is not as clear as the list comprehension
         return statistics.stdev(x.points for x in p_list)
+
+    def return_player(self, name_and_position):
+        if name_and_position in self.player_dict:
+            return self.player_dict[name_and_position]
+        else:
+            print(name_and_position[0] + " not found")
+            return None
 
 
 

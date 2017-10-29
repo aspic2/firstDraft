@@ -71,5 +71,9 @@ class TestTeam(unittest.TestCase):
     def test_prompt(self):
         self.assertIsNotNone(self.team.prompt("sd"))
 
+    def test_find_player(self):
+        fp = self.team.find_player()
+        self.assertIsNotNone(fp[0], fp[1])
+
 
 

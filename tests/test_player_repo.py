@@ -59,6 +59,14 @@ class TestPlayerRepo(unittest.TestCase):
         sd = self.repo.standard_deviation(p, 25)
         self.assertIsNotNone(sd)
 
+    def test_return_player(self):
+        search1 = ("Cam Newton", "QB")
+        p1 = self.repo.return_player(search1)
+        self.assertTrue(p1)
+        search2 = ("Chunky Bubbles", "TE")
+        p2 = self.repo.return_player(search2)
+        self.assertFalse(p2)
+
 
 
 
