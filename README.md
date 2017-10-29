@@ -1,33 +1,24 @@
 # Fantasy Sports Algorithm #
 
-This is a small application to help you select players for fantasy sports teams. 
-First up is fantasy football. Below I will detail what is needed to use this 
-tool, what assumptions are made, and how the selection process works. 
+This is a small application to help you select players for fantasy sports teams.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+FirstDraft was my first foray into Test Driven Development (TDD).
+Please check out my file "journal.md" to hear my thoughts on how it went!
 
 ### How do I get set up? ###
-
-## Author's Notes ##
-This project was my first foray into Test Driven Development (TDD).
-Please check out my file journal.md to hear my thoughts on how it went!
+This project is pure python 3. No additional packages needed.
 
 #Incomplete Tasks #
-* User interface: allow Team to pick() players from list
+Below are few things I need to build or clean up in the project.
+
+* ~~User interface: allow Team to pick() players from list~~
+* Better error-handling for invalid user inputs
 * UI: for each team in Draft.draft() re-do if selection is invalid
-* AI: automated strategy option for team
+* ~~AI: automated strategy option for team~~
 * UI: remove players without them being drafted (for real-life simulation)
 * ~~PlayerRepo() or Team() add standard deviation for positions.~~
 * ~~Player() connect to database to build real players~~
-* ~~Team() view available players and stats. (Maybe return from player_repo)~~
-
-
-
-Below are just a few things I have left here so I know what needs to be done. 
+* ~~Team() view available players and stats. (Maybe return from player_repo)~~ 
 
 * Source for rules and data points
 	- Use the following links to find out how to rate players for your team
@@ -39,13 +30,6 @@ Below are just a few things I have left here so I know what needs to be done.
 
 * Further steps
 	- is there a way to get game stats for more data points?
-	
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
 
 ###License ###
 

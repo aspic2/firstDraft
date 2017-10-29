@@ -71,7 +71,7 @@ class Team(list):
                 print("You currently have draftee", draftee.name, draftee.position)
                 print("drafting", draftee.name, draftee.position)
                 self.draft_player(draftee)
-
+            # TODO: Make a function that can use default values when testing
             response = "sd"  # input("'cq', 'vo', 'sd', or 'draft'\n> ")  # test with "sd"
             if response == 'cq':
                 val = self.check_quota()
