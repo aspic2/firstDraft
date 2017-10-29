@@ -9,12 +9,15 @@ class TestPlayerRepo(unittest.TestCase):
 
     def setUp(self):
         self.repo = player_repo.PlayerRepo()
-        self.repo.fill_list()
+        self.repo.fill_list().sort_repo()
         self.repo[5].available = False
 
     def test_fill_list(self):
         """Confirm that list is populated and in order"""
         self.assertIsNotNone(self.repo)
+
+    def test_sort_repo(self):
+        self.repo.sort_repo()
         self.assertTrue(self.repo[3].points > self.repo[4].points)
         self.assertTrue(self.repo[4].points > self.repo[5].points)
 
@@ -55,6 +58,14 @@ class TestPlayerRepo(unittest.TestCase):
         p = random.choice(self.repo.positions)
         sd = self.repo.standard_deviation(p, 25)
         self.assertIsNotNone(sd)
+
+    def test_return_player(self):
+        search1 = ("Cam Newton", "QB")
+        p1 = self.repo.return_player(search1)
+        self.assertTrue(p1)
+        search2 = ("Chunky Bubbles", "TE")
+        p2 = self.repo.return_player(search2)
+        self.assertFalse(p2)
 
 
 

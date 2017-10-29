@@ -9,10 +9,11 @@ class TestDraft(unittest.TestCase):
 
     def setUp(self):
         # fix Mock to have len() value
-        self.draft = Draft()
+        self.teams = [Team("Alpha"), Team("Gold"), Team("Mike T", False)]
+        self.draft = Draft(5, self.teams)
 
     def test_teams(self):
-        self.assertTrue(len(self.draft.teams) == 2)
+        self.assertIsNotNone(self.draft.teams)
 
     def test_round_of_drafts(self):
         starting_no_of_players = len(self.draft.teams[0])
@@ -27,7 +28,7 @@ class TestDraft(unittest.TestCase):
         self.draft.start()
         self.assertEqual(len(self.draft.teams[0]), len(self.draft.teams[1]))
         # TODO: set up Draft() to complete a pre-determined number of rounds
-        self.assertEqual(self.draft.number_of_rounds, len(self.draft.teams[-1]))
+        self.assertEqual(self.draft.rounds, len(self.draft.teams[-1]))
 
 
 
