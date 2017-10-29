@@ -1,21 +1,27 @@
 # each GM builds a Team() to gain them the most points possible this season
 
+from sys import exit
 
 class Team(list):
     """The application's goal is to make the best Team() (i.e. the team with
     the most points by the end of the season. Class will hold roster
     (selected players), quota (minimum for each position), and logic for how
-    to select the next player in a draft."""
+    to select the next player in a draft.
+    """
 
     quota = {"QB": 1, "RB": 2, "WR": 2, "TE": 1, "K": 1, "DEF": 1}
+    positions = ["QB", "RB", "WR", "TE", "K", "DEF"]
+    strategies = ["ba", "sd", "r"]
+    accepted_inputs = ["SD", "BA", "R", "DRAFT"]
 
-    def __init__(self, owner):
+    def __init__(self, owner, bot=True):
         self.owner = owner
         self.pool = None
+        self.bot = bot
         
-    def check_quota(self, positions):
+    def check_quota(self):
         quota_not_met = []
-        for pos in positions:
+        for pos in Team.positions:
             num = self.count(lambda player: player.position == pos)
             if num < Team.quota[pos]:
                 quota_not_met.append(pos)
@@ -24,6 +30,7 @@ class Team(list):
     def draft_player(self, chosen_one):
         self.append(chosen_one)
         chosen_one.get_drafted()
+        print(self.owner, "has drafted", chosen_one.name)
         return self
 
     def view_options(self, options):
@@ -31,6 +38,8 @@ class Team(list):
         and expected points for the season.
         """
         # make a call to player_repo to filter and/or sort the player list
+        # show fewer options
+        options = options[:10]
         for o in options:
             print(options.index(o), o.name, o.position, o.points)
         return options
@@ -47,11 +56,42 @@ class Team(list):
         2) return position with highest std dev.
         3) choose best available player from position.
         Method needs to print results each step of way, and eventually
-        you should build control flow in to specify what to do."""
+        you should build control flow in to specify what to do.
+        """
+        if self.bot:
+            self.auto_strategy(pool, "sd")
         #draftee = int(input("Whom would you like to draft next? (Enter index only!)\n> "))
         #self.draft_player(pool[draftee])
         #sd = pool.standard_deviation
         return self
+
+    def auto_strategy(self, player_list, strategy):
+        """This will default to a standard deviation, best available strategy."""
+        new_list = []
+        # does not use check_quota for now
+        need_position = self.check_quota()
+        if strategy == "sd":
+            for p in Team.positions:
+                new_list.append((p, player_list.standard_deviation(p)))
+            position = max(new_list, key=lambda x: x[1])
+            options = player_list.filter_players(position[0])
+            draftee = options[0]
+            self.draft_player(draftee)
+        return self
+
+    def prompt(self, user_input):
+        user_input = user_input.upper()
+        if user_input == "Q":
+            exit(0)
+        elif user_input in Team.accepted_inputs:
+            return user_input
+        else:
+            return None
+
+
+
+
+
 
     """def user_input(self):
         print('Valid commands:\n"SD" = standard deviation for the positions\n'

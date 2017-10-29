@@ -49,8 +49,10 @@ class PlayerRepo(list):
         """Returns standard deviation of points for best n players in position p"""
         p_list = self.filter_players(p, n)
         # TODO: Can you do this with map()?
+        # return statistics.stdev(map(lambda x: x.points, p_list))
         # TODO: A: Yes, but it is not as clear as the list comprehension
         return statistics.stdev(x.points for x in p_list)
+
 
 
 
