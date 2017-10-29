@@ -35,16 +35,7 @@ class TestTeam(unittest.TestCase):
         # test that player is unavailable from the player repo
         # TODO: should this be in test_player?
         self.assertFalse(p.available)
-
-    def test_send_filter(self):
-        """Reduces list of players presented to the best candidates based on
-        specifications provided. A few cool specifications:
-            1. Best available (sort by points)
-            2. Best available by position (filter position, sort by points)
-            3. Random!
-        """
-        options = self.team.send_filter()
-        self.assertIsNotNone(options)
+        self.assertFalse(self.team.turn)
 
     def test_view_options(self):
         # TODO: finish revising this in team.py
@@ -52,13 +43,26 @@ class TestTeam(unittest.TestCase):
         results = self.team.view_options(options)
         self.assertIsNotNone(results)
 
-    def test_take_turn(self):
-        self.team.take_turn(self.players_list)
+    def test_remove_player(self):
+        r = ("Cam Newton", "QB")
+        p = self.players_list
+        self.team.remove_player(r, p)
+        self.assertNotIn(r, self.players_list.return_available_players())
 
+    def test_take_turn_auto(self):
+        old_length = len(self.team)
+        self.team.take_turn(self.players_list)
+        self.assertTrue(len(self.team) == old_length + 1)
+
+    def test_take_turn_manual(self):
+        team = Team("Manual", False)
+        old_length = len(team)
+        team.take_turn(self.players_list)
+        self.assertTrue(len(team) == old_length + 1)
 
     def test_auto_strategy(self):
         old_length = len(self.team)
-        pr = PlayerRepo().fill_list()
+        pr = PlayerRepo().fill_list().sort_repo()
         strat = "sd"
         new_length = len(self.team.auto_strategy(pr.return_available_players(), strat))
         self.assertTrue(new_length == old_length + 1)

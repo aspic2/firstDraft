@@ -12,7 +12,7 @@ class TestDraft(unittest.TestCase):
         self.draft = Draft(5)
 
     def test_teams(self):
-        self.assertTrue(len(self.draft.teams) == 2)
+        self.assertIsNotNone(self.draft.teams)
 
     def test_round_of_drafts(self):
         starting_no_of_players = len(self.draft.teams[0])

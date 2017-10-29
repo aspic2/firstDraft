@@ -5,18 +5,15 @@ from firstDraft.player_repo import PlayerRepo
 
 class Draft(object):
 
-    def __init__(self, rounds=15):
-        self.teams = [Team("Alpha"), Team("Gold")]
-        self.repo = PlayerRepo().fill_list()
+    def __init__(self, rounds=5):
+        self.teams = [Team("Alpha"), Team("Gold"), Team("Mike T", False)]
+        self.repo = PlayerRepo().fill_list().sort_repo()
         # default to 15, as this is the nfl.com standard
         self.rounds = rounds
 
     def round_of_drafts(self):
         for t in self.teams:
             print(t.owner + "'s Turn:")
-            # TODO: fix hard-coding of selected player
-            # TODO: ensure both t.draft_player() and repo.draft_player() happen!
-            # TODO: potential for discrepancy in available players currently
             t.take_turn(self.repo.return_available_players())
             print(t.owner + "'s new roster is:\n")
             for p in t:

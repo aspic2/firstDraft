@@ -2,9 +2,10 @@
 
 from sys import exit
 
+
 class Team(list):
     """The application's goal is to make the best Team() (i.e. the team with
-    the most points by the end of the season. Class will hold roster
+    the most points by the end of the season). Class will hold roster
     (selected players), quota (minimum for each position), and logic for how
     to select the next player in a draft.
     """
@@ -18,6 +19,8 @@ class Team(list):
         self.owner = owner
         self.pool = None
         self.bot = bot
+        self.turn = False
+        self.response_dict = {}
         
     def check_quota(self):
         quota_not_met = []
@@ -30,26 +33,25 @@ class Team(list):
     def draft_player(self, chosen_one):
         self.append(chosen_one)
         chosen_one.get_drafted()
-        print(self.owner, "has drafted", chosen_one.name)
+        self.turn = False
         return self
 
     def view_options(self, options):
         """This method should return a list of player names, positions,
         and expected points for the season.
         """
-        # make a call to player_repo to filter and/or sort the player list
-        # show fewer options
+        # TODO: Update this to take a specified position
         options = options[:10]
-        for o in options:
-            print(options.index(o), o.name, o.position, o.points)
+        #for o in options:
+        #    print(options.index(o), o.name, o.position, o.points)
         return options
 
-    def send_filter(self):
-        """Choose from a list of filters and send to player_repo"""
-        best_available = "ba"
-        best_in_posiiton = "bip"
-        random = "r"
-        return best_available
+    def remove_player(self, tup, p_list):
+        p = next(x for x in p_list if (
+            x.name.upper(), x.position) == (tup[0].upper(), tup[1].upper()))
+        if p:
+            p.get_drafted()
+        return self
 
     def take_turn(self, pool):
         """Revise method to 1) show std dev for each position:
@@ -58,11 +60,37 @@ class Team(list):
         Method needs to print results each step of way, and eventually
         you should build control flow in to specify what to do.
         """
+        # TODO: break this into multiple methods
+        self.turn = True
         if self.bot:
             self.auto_strategy(pool, "sd")
-        #draftee = int(input("Whom would you like to draft next? (Enter index only!)\n> "))
-        #self.draft_player(pool[draftee])
-        #sd = pool.standard_deviation
+        val = None
+        while self.turn:
+            response = input("'cq', 'vo', or 'sd'\n> ")  # test with "sd"
+            if response == 'cq':
+                val = self.check_quota()
+                print("Quota not met for:")
+                print(val)
+            elif response == 'vo':
+                val = self.view_options(pool)
+                for v in val:
+                    print(val.index(v), v.name, v.position, v.points)
+            elif response == 'sd':
+                val = []
+                # this is duplicate code from auto_strategy
+                pos = self.check_quota()
+                if pos:
+                    for p in pos:
+                        val.append((p, pool.standard_deviation(p)))
+                    for v in val:
+                        print(v[0], v[1])
+                    position = max(val, key=lambda x: x[1])
+                    print("selecting from", position)
+                    options = pool.filter_players(position[0])
+                    draftee = options[0]
+                    self.draft_player(draftee)
+                    print("drafting", draftee.name, draftee.position)
+            # self.turn = False | turn on for testing
         return self
 
     def auto_strategy(self, player_list, strategy):
@@ -83,10 +111,8 @@ class Team(list):
         user_input = user_input.upper()
         if user_input == "Q":
             exit(0)
-        elif user_input in Team.accepted_inputs:
-            return user_input
         else:
-            return None
+            return user_input
 
 
 
