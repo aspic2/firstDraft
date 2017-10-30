@@ -3,7 +3,6 @@
 import unittest
 from unittest.mock import Mock
 from firstDraft.team import Team
-from firstDraft.player import Player
 from firstDraft.player_repo import PlayerRepo
 
 
@@ -83,4 +82,5 @@ class TestTeam(unittest.TestCase):
         self.assertIsNone(self.team.reset_draftee().draftee)
 
 
-
+if __name__ == '__main__':
+    unittest.main()

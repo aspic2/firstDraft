@@ -10,7 +10,7 @@ class TestDraft(unittest.TestCase):
     def setUp(self):
         # fix Mock to have len() value
         self.teams = [Team("Alpha"), Team("Gold"), Team("Mike T")]
-        self.draft = Draft(5, self.teams)
+        self.draft = Draft(3, self.teams)
 
     def test_teams(self):
         self.assertIsNotNone(self.draft.teams)
@@ -30,5 +30,9 @@ class TestDraft(unittest.TestCase):
         # TODO: set up Draft() to complete a pre-determined number of rounds
         self.assertEqual(self.draft.rounds, len(self.draft.teams[-1]))
 
+    def test_show_standings(self):
+        self.assertTrue(self.draft.show_standings())
 
 
+if __name__ == '__main__':
+    unittest.main()

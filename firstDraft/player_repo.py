@@ -1,7 +1,6 @@
 # gather and store pool of players to choose from here
 
 from firstDraft.player import Player
-import random
 import statistics
 import sqlite3
 

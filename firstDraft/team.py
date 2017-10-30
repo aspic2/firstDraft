@@ -161,7 +161,7 @@ class Team(list):
             self.draft_player(draftee)
         return self
 
-    # TODO: This module is unused
+    # TODO: This module is unused (except for its test)
     def user_input(self, prompt):
         user_input = prompt.upper()
         if user_input == "Q":

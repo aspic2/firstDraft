@@ -22,3 +22,7 @@ class TestPlayer(unittest.TestCase):
         player = Player(self.player_data)
         player.get_drafted()
         self.assertFalse(player.available)
+
+
+if __name__ == '__main__':
+    unittest.main()

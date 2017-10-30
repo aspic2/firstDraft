@@ -7,3 +7,6 @@ class TestMain(unittest.TestCase):
 
     def test_main(self):
         self.assertIsInstance(run_draft(), Draft)
+
+if __name__ == '__main__':
+    unittest.main()
