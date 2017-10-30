@@ -9,7 +9,7 @@ class TestPlayerRepo(unittest.TestCase):
 
     def setUp(self):
         self.repo = player_repo.PlayerRepo()
-        self.repo.fill_list().sort_repo()
+        self.repo.fill_list().sort_repo().fill_dict()
         self.repo[5].available = False
 
     def test_fill_list(self):
@@ -36,12 +36,12 @@ class TestPlayerRepo(unittest.TestCase):
             no_unavailable_players = True
         self.assertTrue(no_unavailable_players)
 
-    def test_filter_players(self):
+    def test_filter_by_position(self):
         """Method returns top 5 players given a specific filter."""
         # This random method may cause a false negative if sample is too small!
         f = random.choice(self.repo.positions)
         length = 6
-        filtered_list = self.repo.filter_players(f, length)
+        filtered_list = self.repo.filter_by_position(f, length)
         self.assertTrue(len(filtered_list) == length)
         filter_works = None
         for player in filtered_list:
@@ -66,13 +66,9 @@ class TestPlayerRepo(unittest.TestCase):
         search2 = ("Chunky Bubbles", "TE")
         p2 = self.repo.return_player(search2)
         self.assertFalse(p2)
-
-
-
-
-
-
-
+        search3 = ("Kirk Cousins", "QB")
+        p3 = self.repo.return_player(search3)
+        self.assertTrue(p3)
 
 
 if __name__ == '__main__':

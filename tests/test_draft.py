@@ -9,7 +9,7 @@ class TestDraft(unittest.TestCase):
 
     def setUp(self):
         # fix Mock to have len() value
-        self.teams = [Team("Alpha"), Team("Gold"), Team("Mike T", False)]
+        self.teams = [Team("Alpha"), Team("Gold"), Team("Mike T")]
         self.draft = Draft(5, self.teams)
 
     def test_teams(self):

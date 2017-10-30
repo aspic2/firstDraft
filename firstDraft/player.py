@@ -2,7 +2,10 @@
 
 
 class Player(object):
-    """Object initialized with a list of data points from football.db"""
+    """Simple object initialized with a list of data points from football.db
+    Players "exist()" and get_drafted(), meaning they become unavailable for
+    future drafts.
+    """
 
     def __init__(self, data):
         self.name = data[0] + " " + data[1]

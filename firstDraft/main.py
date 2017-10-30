@@ -8,7 +8,8 @@ from firstDraft.team import Team
 
 
 def run_draft():
-    draft = Draft(5).start()
+    """Specify how many rounds you want to have in Draft(number_of_rounds)"""
+    draft = Draft(15).start()
     return draft
 
 if __name__ == '__main__':
