@@ -5,6 +5,30 @@ OO Python application to help you select players for fantasy sports teams.
 FirstDraft was my first foray into Test Driven Development (TDD).
 Please check out my file "journal.md" to hear my thoughts on how it went!
 
+
+### How do I get set up? ###
+This project is pure python 3. No additional packages needed.
+It runs on the command line, but I have noticed some issues with the packages
+when running it in Bash vs. my IDE. If you run into some "module not found" 
+errors, try scanning the project for "firstDraft." import statements and remove
+the "firstDraft." part. (e.g. "from firstDraft.team import Team" becomes
+"from team import Team").
+
+
+### Using the Program ###
+In the main.py module, specify the number of rounds you want to play. NFL.com 
+default is 15 rounds. Then, run main.py.
+
+You will be prompted to input:
+  - Number of teams
+  - Name for each team
+  - Whether or not each team will be a bot (automated strategy)
+  
+Bot teams handle all their own picks, and quickly. Manual teams will be
+presented with a list of choices to perform for each round. Simply follow
+the input instructions and you should have your winning team in no time!
+
+
 ### Logic ###
 This program relies on a few heuristics on how best to select fantasy players.
 The one I stuck with was the position standard deviation strategy. In short, 
@@ -17,20 +41,10 @@ All return_options() functions return the top 10 players from the filter, just
 to prevent overwhelming the user.
 
 
-
-### How do I get set up? ###
-This project is pure python 3. No additional packages needed.
-It runs on the command line, but I have noticed some issues with the packages
-when running it in Bash vs. my IDE. If you run into some "module not found" 
-errors, try scanning the project for "firstDraft." import statements and remove
-the "firstDraft." part. (e.g. "from firstDraft.team import Team" becomes
-"from team import Team").
-
 # Incomplete Tasks #
 Below are few things I need to build or clean up in the project.
 
 * ~~User interface: allow Team to pick() players from list~~
-
 * Fully automate tests (meaning skip the user-input stuff when testing)
 * Better error-handling for invalid user inputs
 * normalize inputs to .upper() or .lower()

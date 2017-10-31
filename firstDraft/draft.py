@@ -8,7 +8,7 @@ class Draft(object):
     def __init__(self, rounds=5, teams=[]):
         """Creates the Draft and everything needed to run the program"""
         self.teams = teams
-        self.repo = PlayerRepo().fill_list().sort_repo().fill_dict()
+        self.repo = PlayerRepo().populate_repo().sort_repo().populate_dict()
         # default to 15, as this is the nfl.com standard
         self.rounds = rounds
 

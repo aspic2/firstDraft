@@ -6,7 +6,7 @@ from sys import exit
 class Team(list):
     """Busiest Class in the program. Subclass of list() Object.
     The application's goal is to make the best Team() (i.e. the team with
-    the most points by the end of the season). Object will hold roster
+    the most points by the end of the season). Object holds roster
     (selected players), quota (minimum for each position), and logic for how
     to select the next player in a draft.
     """
@@ -59,7 +59,7 @@ class Team(list):
 
     def remove_player(self, tup, p_list):
         """Method for live drafts. Removes player from available list without
-        explicitly drafting player to a team.
+        actually drafting player to a team.
         """
         p = next(x for x in p_list if (
             x.name.upper(), x.position) == (tup[0].upper(), tup[1].upper()))
@@ -81,8 +81,8 @@ class Team(list):
             self.turn = False
         else:
             while self.turn:
-                print("valid actions: quota, options, sd, filter, find, draft, remove, end turn")
-                # It's gettin' functional up in here!
+                print("Valid actions: quota, options, sd, filter, find, draft, \
+                remove, end turn")
                 param = input("> ")
                 self.actions(full_player_list, param)
         return self
@@ -91,13 +91,11 @@ class Team(list):
         """Sloppy method to handle user input and return or print 
         appropriate values. 
         
-        This method needs to be simplified and
-        have proper unit tests built for it.
+        This method needs to be simplified and needs proper unit tests
         
         Additionally, input needs to be normalized for capitalization.
         """
         val = None
-        draftee = None
         # TODO: Make a function that can use default values when testing
         # response = "sd"  # input("'quota', 'options', 'sd', or 'draft'\n> ")  # test with "sd"
         if response == 'quota':
@@ -140,7 +138,7 @@ class Team(list):
             self.turn = False
         else:
             print("Action not recognized. Please enter a valid action.")
-        # self.turn = False | turn on for testing
+        # self.turn = False  # turn on for testing
         if self.draftee:
             print("You currently have draftee", self.draftee.name, self.draftee.position)
             # print("drafting", draftee.name, draftee.position)
@@ -148,7 +146,8 @@ class Team(list):
         return val
 
     def auto_strategy(self, player_list, strategy):
-        """This will default to a standard deviation, best available strategy."""
+        """Defaults to a standard deviation, best available strategy."""
+        # TODO: Add new auto strategies and a way to select them each turn
         new_list = []
         # does not use check_quota for now
         need_position = self.check_quota()

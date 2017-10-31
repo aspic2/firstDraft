@@ -9,7 +9,7 @@ class TestPlayerRepo(unittest.TestCase):
 
     def setUp(self):
         self.repo = player_repo.PlayerRepo()
-        self.repo.fill_list().sort_repo().fill_dict()
+        self.repo.populate_repo().sort_repo().populate_dict()
         self.repo[5].available = False
 
     def test_fill_list(self):

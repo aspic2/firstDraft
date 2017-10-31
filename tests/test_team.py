@@ -15,7 +15,7 @@ class TestTeam(unittest.TestCase):
         self.positions = None
         # self.players_list = PlayerRepo([Player(["Player", "1", "QB", 303]), Player(["Player", "2", "RB", 48]),
         #                                Player(["Player", "3", "RB", 120]), Player(["Player", "4", "WR", 237])])
-        self.players_list = PlayerRepo().fill_list().fill_dict()
+        self.players_list = PlayerRepo().populate_repo().populate_dict()
 
     def test_check_quotas(self):
         # make sure you have x number of players for each position.
@@ -61,7 +61,7 @@ class TestTeam(unittest.TestCase):
 
     def test_auto_strategy(self):
         old_length = len(self.team)
-        pr = PlayerRepo().fill_list().sort_repo()
+        pr = PlayerRepo().populate_repo().sort_repo()
         strat = "sd"
         new_length = len(self.team.auto_strategy(pr.return_available_players(), strat))
         self.assertTrue(new_length == old_length + 1)

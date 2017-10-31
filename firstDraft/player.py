@@ -1,4 +1,3 @@
-# store important info on each player. Also add SQL queries to build players
 
 
 class Player(object):
