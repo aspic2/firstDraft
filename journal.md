@@ -5,7 +5,7 @@ Below I want to discuss what went well, what didn't, and what I didn't expect.
 ## Slow Down! ##
 My first observation from doing TDD is that I coded a _lot_ more slowly than
 I typically do. I estimate it took me about 40 hours to write this whole program,
-as opposed to the 12 it took to do the similar project BracketBuilder. 
+as opposed to the 12 it took to do the similar project B[racket]B[uilder]. 
 A very small portion of this is due to the extra typing attributed to the tests. 
 The biggest speed hump was the planning process. One of the tenets 
 of TDD is that you write a test first to check functionality of something.
