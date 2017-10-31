@@ -10,7 +10,7 @@ def run_draft(number_of_rounds):
 
 if __name__ == '__main__':
     """NFL.com default is 15 rounds."""
-    run_draft(10)
+    run_draft(15)
     sys.exit(0)
 
 
